@@ -1,5 +1,5 @@
 test:
-	python3 main.py < in.txt
+	python3 main.py
 
 # Simulate the python compile, run and delete
 cpp:
