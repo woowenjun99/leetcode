@@ -12,12 +12,8 @@ struct TreeNode {
 
 class Solution {
     public:
-        int dfs(TreeNode* node) {
-            if (not node) return 0;
-            return 1 + max(dfs(node->left), dfs(node->right));
-        }
-
         int maxDepth(TreeNode* root) {
-            return dfs(root);
+            if (not root) return 0;
+            return 1 + max(maxDepth(root->left), maxDepth(root->right));
         }
 };
