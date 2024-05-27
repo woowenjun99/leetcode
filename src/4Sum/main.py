@@ -21,5 +21,3 @@ class Solution:
                         right -= 1
                         
         return list([list(result) for result in results])
-    
-print(Solution().fourSum([1,0,-1,0,-2,2], 0))

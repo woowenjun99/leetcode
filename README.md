@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 91
+## Total questions solved: 115
 
 |Question|
 |:---:|
@@ -22,6 +22,7 @@
 |Combine Two Tables|
 |Connecting Cities With Minimum Cost|
 |Contains Duplicate|
+|Count Elements With Maximum Frequency|
 |Counter|
 |Course Schedule|
 |Course Schedule II|
@@ -29,13 +30,18 @@
 |Daily Temperatures|
 |Delete Node in a Linked List|
 |Design Bounded Blocking Queue|
+|Design HashMap|
+|Even Odd Tree|
 |Excel Sheet Column Number|
 |Find Bottom Left Tree Value|
 |Find First and Last Position of Element in Sorted Array|
+|Find Largest Value in Each Tree Row|
 |Find the Index of the First Occurrence in a String|
+|Find the Number of Good Pairs I|
 |First Unique Character in a String|
 |Fizz Buzz|
 |Generate Parentheses|
+|Graph Valid Tree|
 |Group Anagrams|
 |House Robber|
 |Implement Trie (Prefix Tree)|
@@ -44,6 +50,7 @@
 |Jump Game II|
 |Kth Largest Element in an Array|
 |Kth Smallest Element in a BST|
+|Largest Substring Between Two Equal Characters|
 |Letter Combinations of a Phone Number|
 |Linked List Cycle|
 |Longest Common Prefix|
@@ -51,13 +58,18 @@
 |Longest Palindromic Substring|
 |Longest Substring Without Repeating Characters|
 |Longest Word in Dictionary|
+|Longest Word in Dictionary through Deleting|
 |Majority Element|
 |Maximum Depth of Binary Tree|
+|Maximum Depth of N-ary Tree|
+|Meeting Rooms|
 |Merge Sorted Array|
 |Merge Two Sorted Lists|
 |Merge k Sorted Lists|
 |Min Cost to Connect All Points|
 |Minimum Depth of Binary Tree|
+|Minimum Number of Operations to Make Array Empty|
+|Minimum Number of Steps to Make Two Strings Anagram|
 |Minimum Path Sum|
 |N-ary Tree Level Order Traversal|
 |N-ary Tree Postorder Traversal|
@@ -67,16 +79,20 @@
 |Number of 1 Bits|
 |Number of Connected Components in an Undirected Graph|
 |Number of Islands|
+|Number of Laser Beams in a Bank|
 |Number of Provinces|
 |Palindrome Number|
 |Permutations|
 |Permutations II|
 |Plus One|
 |Print in Order|
+|Range Sum of BST|
+|Redistribute Characters to Make All Strings Equal|
 |Remove Duplicates from Sorted Array|
 |Remove Duplicates from Sorted List|
 |Remove Duplicates from Sorted List II|
 |Remove Element|
+|Remove Linked List Elements|
 |Remove Nodes From Linked List|
 |Remove Nth Node From End of List|
 |Remove Vowels from a String|
@@ -85,10 +101,18 @@
 |Same Tree|
 |Search Insert Position|
 |Separate Black and White Balls|
+|Sequential Digits|
+|Set Mismatch|
+|Single Element in a Sorted Array|
+|Sort Characters By Frequency|
 |Sort an Array|
+|Special Array With X Elements Greater Than or Equal X|
+|String Compression III|
+|Sum of Unique Elements|
 |Two Sum|
 |Two Sum II - Input Array Is Sorted|
 |Two Sum III - Data structure design|
+|Two Sum IV - Input is a BST|
 |Unique Paths|
 |Valid Anagram|
 |Valid Palindrome|
