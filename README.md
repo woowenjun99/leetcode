@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 115
+## Total questions solved: 120
 
 |Question|
 |:---:|
@@ -8,8 +8,10 @@
 |4Sum|
 |Add Binary|
 |Add Two Numbers|
+|All Paths From Source to Target|
 |Best Time to Buy and Sell Stock|
 |Best Time to Buy and Sell Stock II|
+|Binary Search|
 |Binary Tree Inorder Traversal|
 |Binary Tree Level Order Traversal|
 |Binary Tree Level Order Traversal II|
@@ -31,11 +33,13 @@
 |Delete Node in a Linked List|
 |Design Bounded Blocking Queue|
 |Design HashMap|
+|Design HashSet|
 |Even Odd Tree|
 |Excel Sheet Column Number|
 |Find Bottom Left Tree Value|
 |Find First and Last Position of Element in Sorted Array|
 |Find Largest Value in Each Tree Row|
+|Find Smallest Letter Greater Than Target|
 |Find the Index of the First Occurrence in a String|
 |Find the Number of Good Pairs I|
 |First Unique Character in a String|
@@ -60,6 +64,7 @@
 |Longest Word in Dictionary|
 |Longest Word in Dictionary through Deleting|
 |Majority Element|
+|Max Area of Island|
 |Maximum Depth of Binary Tree|
 |Maximum Depth of N-ary Tree|
 |Meeting Rooms|
