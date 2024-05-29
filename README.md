@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 120
+## Total questions solved: 127
 
 |Question|
 |:---:|
@@ -34,11 +34,15 @@
 |Design Bounded Blocking Queue|
 |Design HashMap|
 |Design HashSet|
+|Determine if String Halves Are Alike|
+|Determine if Two Strings Are Close|
+|Double a Number Represented as a Linked List|
 |Even Odd Tree|
 |Excel Sheet Column Number|
 |Find Bottom Left Tree Value|
 |Find First and Last Position of Element in Sorted Array|
 |Find Largest Value in Each Tree Row|
+|Find Players With Zero or One Losses|
 |Find Smallest Letter Greater Than Target|
 |Find the Index of the First Occurrence in a String|
 |Find the Number of Good Pairs I|
@@ -86,6 +90,7 @@
 |Number of Islands|
 |Number of Laser Beams in a Bank|
 |Number of Provinces|
+|Number of Steps to Reduce a Number in Binary Representation to One|
 |Palindrome Number|
 |Permutations|
 |Permutations II|
@@ -109,11 +114,13 @@
 |Sequential Digits|
 |Set Mismatch|
 |Single Element in a Sorted Array|
+|Single Number|
 |Sort Characters By Frequency|
 |Sort an Array|
 |Special Array With X Elements Greater Than or Equal X|
 |String Compression III|
 |Sum of Unique Elements|
+|Tree Diameter|
 |Two Sum|
 |Two Sum II - Input Array Is Sorted|
 |Two Sum III - Data structure design|
