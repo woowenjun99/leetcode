@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 156
+## Total questions solved: 171
 
 |                              Question                              |
 | :----------------------------------------------------------------: |
@@ -50,6 +50,7 @@
 |                    Find Bottom Left Tree Value                     |
 |      Find First and Last Position of Element in Sorted Array       |
 |                Find Largest Value in Each Tree Row                 |
+|                  Find Mode in Binary Search Tree                   |
 |                Find Players With Zero or One Losses                |
 |              Find Smallest Letter Greater Than Target              |
 |         Find the Index of the First Occurrence in a String         |
@@ -62,6 +63,7 @@
 |                           Group Anagrams                           |
 |                            House Robber                            |
 |                    Implement Trie (Prefix Tree)                    |
+|                          Insert Interval                           |
 |                        Is Graph Bipartite?                         |
 |                           Is Subsequence                           |
 |                             Jump Game                              |
@@ -81,11 +83,15 @@
 |            Longest Word in Dictionary through Deleting             |
 |                          Majority Element                          |
 |                         Max Area of Island                         |
+|                Maximize Distance to Closest Person                 |
 |                         Maximum 69 Number                          |
 |                    Maximum Depth of Binary Tree                    |
 |                    Maximum Depth of N-ary Tree                     |
+|                     Maximum Number of Balloons                     |
 |                Maximum Number of Coins You Can Get                 |
+|                          Maximum Subarray                          |
 |                           Meeting Rooms                            |
+|                          Merge Intervals                           |
 |                         Merge Sorted Array                         |
 |                       Merge Two Sorted Lists                       |
 |                        Merge k Sorted Lists                        |
@@ -109,6 +115,8 @@
 |                        Number of Provinces                         |
 | Number of Steps to Reduce a Number in Binary Representation to One |
 |                         Palindrome Number                          |
+|                              Path Sum                              |
+|                            Path Sum II                             |
 |                           Perfect Number                           |
 |                            Permutations                            |
 |                          Permutations II                           |
@@ -128,8 +136,10 @@
 |                    Removing Stars From a String                    |
 |                          Reverse Integer                           |
 |                        Reverse Linked List                         |
+|                           Reverse String                           |
 |                     Reverse Words in a String                      |
 |                   Reverse Words in a String III                    |
+|                          Roman to Integer                          |
 |                      Running Sum of 1d Array                       |
 |                             Same Tree                              |
 |                         Score of a String                          |
@@ -139,14 +149,18 @@
 |                            Set Mismatch                            |
 |                  Single Element in a Sorted Array                  |
 |                           Single Number                            |
+|                         Single Number III                          |
 |                    Sort Characters By Frequency                    |
 |                           Sort an Array                            |
 |       Special Array With X Elements Greater Than or Equal X        |
+|                           Spiral Matrix                            |
 |                              Sqrt(x)                               |
 |                       String Compression III                       |
 |                      String to Integer (atoi)                      |
+|                       Subarray Sum Equals K                        |
 |                              Subsets                               |
 |                       Sum of Unique Elements                       |
+|                           To Lower Case                            |
 |                           Tree Diameter                            |
 |                              Two Sum                               |
 |                            Two Sum BSTs                            |
@@ -155,6 +169,7 @@
 |                    Two Sum IV - Input is a BST                     |
 |                    Unique Number of Occurrences                    |
 |                            Unique Paths                            |
+|                          Unique Paths II                           |
 |                           Valid Anagram                            |
 |                          Valid Palindrome                          |
 |                         Valid Parentheses                          |
