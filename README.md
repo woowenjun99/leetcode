@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 171
+## Total questions solved: 176
 
 |                              Question                              |
 | :----------------------------------------------------------------: |
@@ -13,6 +13,7 @@
 |              All Elements in Two Binary Search Trees               |
 |                  All Paths From Source to Target                   |
 |           Amount of Time for Binary Tree to Be Infected            |
+|          Append Characters to String to Make Subsequence           |
 |                  Best Time to Buy and Sell Stock                   |
 |                 Best Time to Buy and Sell Stock II                 |
 |                           Binary Search                            |
@@ -48,6 +49,7 @@
 |                     Excel Sheet Column Number                      |
 |                    Find All Groups of Farmland                     |
 |                    Find Bottom Left Tree Value                     |
+|                       Find Common Characters                       |
 |      Find First and Last Position of Element in Sorted Array       |
 |                Find Largest Value in Each Tree Row                 |
 |                  Find Mode in Binary Search Tree                   |
@@ -61,6 +63,7 @@
 |                        Generate Parentheses                        |
 |                          Graph Valid Tree                          |
 |                           Group Anagrams                           |
+|                         Hand of Straights                          |
 |                            House Robber                            |
 |                    Implement Trie (Prefix Tree)                    |
 |                          Insert Interval                           |
@@ -77,6 +80,7 @@
 |                       Longest Common Prefix                        |
 |          Longest Common Subsequence Between Sorted Arrays          |
 |                   Longest Increasing Subsequence                   |
+|                         Longest Palindrome                         |
 |                   Longest Palindromic Substring                    |
 |           Longest Substring Without Repeating Characters           |
 |                     Longest Word in Dictionary                     |
@@ -137,6 +141,7 @@
 |                          Reverse Integer                           |
 |                        Reverse Linked List                         |
 |                           Reverse String                           |
+|                     Reverse Vowels of a String                     |
 |                     Reverse Words in a String                      |
 |                   Reverse Words in a String III                    |
 |                          Roman to Integer                          |
