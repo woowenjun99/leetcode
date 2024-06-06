@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 176
+## Total questions solved: 179
 
 |                              Question                              |
 | :----------------------------------------------------------------: |
@@ -77,6 +77,7 @@
 |          Least Number of Unique Integers after K Removals          |
 |               Letter Combinations of a Phone Number                |
 |                         Linked List Cycle                          |
+|                       Linked List Frequency                        |
 |                       Longest Common Prefix                        |
 |          Longest Common Subsequence Between Sorted Arrays          |
 |                   Longest Increasing Subsequence                   |
@@ -105,6 +106,8 @@
 |                    Minimum Depth of Binary Tree                    |
 |          Minimum Number of Operations to Make Array Empty          |
 |        Minimum Number of Steps to Make Two Strings Anagram         |
+|           Minimum Operations to Exceed Threshold Value I           |
+|          Minimum Operations to Exceed Threshold Value II           |
 |                          Minimum Path Sum                          |
 |                           Missing Number                           |
 |                  N-ary Tree Level Order Traversal                  |
