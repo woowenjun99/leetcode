@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 179
+## Total questions solved: 183
 
 |                              Question                              |
 | :----------------------------------------------------------------: |
@@ -23,6 +23,7 @@
 |                  Binary Tree Postorder Traversal                   |
 |                   Binary Tree Preorder Traversal                   |
 |              Binary Tree Zigzag Level Order Traversal              |
+|              Check if All A's Appears Before All B's               |
 |                            Coin Change                             |
 |                          Combination Sum                           |
 |                            Combinations                            |
@@ -141,6 +142,7 @@
 |                  Remove Nth Node From End of List                  |
 |                    Remove Vowels from a String                     |
 |                    Removing Stars From a String                    |
+|                           Replace Words                            |
 |                          Reverse Integer                           |
 |                        Reverse Linked List                         |
 |                           Reverse String                           |
@@ -166,7 +168,9 @@
 |                       String Compression III                       |
 |                      String to Integer (atoi)                      |
 |                       Subarray Sum Equals K                        |
+|                    Subarray Sums Divisible by K                    |
 |                              Subsets                               |
+|         Substrings That Begin and End With the Same Letter         |
 |                       Sum of Unique Elements                       |
 |                           To Lower Case                            |
 |                           Tree Diameter                            |
