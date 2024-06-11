@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 183
+## Total questions solved: 187
 
 |                              Question                              |
 | :----------------------------------------------------------------: |
@@ -46,6 +46,7 @@
 |                Determine if String Halves Are Alike                |
 |                 Determine if Two Strings Are Close                 |
 |            Double a Number Represented as a Linked List            |
+|                           Edit Distance                            |
 |                           Even Odd Tree                            |
 |                     Excel Sheet Column Number                      |
 |                    Find All Groups of Farmland                     |
@@ -65,7 +66,9 @@
 |                          Graph Valid Tree                          |
 |                           Group Anagrams                           |
 |                         Hand of Straights                          |
+|                           Height Checker                           |
 |                            House Robber                            |
+|                          House Robber III                          |
 |                    Implement Trie (Prefix Tree)                    |
 |                          Insert Interval                           |
 |                        Is Graph Bipartite?                         |
@@ -133,6 +136,7 @@
 |                    Range Sum Query - Immutable                     |
 |                          Range Sum of BST                          |
 |         Redistribute Characters to Make All Strings Equal          |
+|                        Relative Sort Array                         |
 |                Remove Duplicates from Sorted Array                 |
 |                 Remove Duplicates from Sorted List                 |
 |               Remove Duplicates from Sorted List II                |
