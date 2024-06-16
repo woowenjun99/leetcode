@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 187
+## Total questions solved: 205
 
 |                              Question                              |
 | :----------------------------------------------------------------: |
@@ -32,6 +32,8 @@
 |                Connecting Cities With Minimum Cost                 |
 |                         Contains Duplicate                         |
 |               Count Elements With Maximum Frequency                |
+|               Count Pairs That Form a Complete Day I               |
+|              Count Pairs That Form a Complete Day II               |
 |                            Count Primes                            |
 |                              Counter                               |
 |                          Course Schedule                           |
@@ -43,12 +45,14 @@
 |                   Design Bounded Blocking Queue                    |
 |                           Design HashMap                           |
 |                           Design HashSet                           |
+|                          Destination City                          |
 |                Determine if String Halves Are Alike                |
 |                 Determine if Two Strings Are Close                 |
 |            Double a Number Represented as a Linked List            |
 |                           Edit Distance                            |
 |                           Even Odd Tree                            |
 |                     Excel Sheet Column Number                      |
+|                          Fibonacci Number                          |
 |                    Find All Groups of Farmland                     |
 |                    Find Bottom Left Tree Value                     |
 |                       Find Common Characters                       |
@@ -58,6 +62,7 @@
 |                Find Players With Zero or One Losses                |
 |              Find Smallest Letter Greater Than Target              |
 |         Find the Index of the First Occurrence in a String         |
+|                 Find the Integer Added to Array I                  |
 |             Find the Kth Largest Integer in the Array              |
 |                  Find the Number of Good Pairs I                   |
 |                 First Unique Character in a String                 |
@@ -69,8 +74,10 @@
 |                           Height Checker                           |
 |                            House Robber                            |
 |                          House Robber III                          |
+|                                IPO                                 |
 |                    Implement Trie (Prefix Tree)                    |
 |                          Insert Interval                           |
+|                         Invert Binary Tree                         |
 |                        Is Graph Bipartite?                         |
 |                           Is Subsequence                           |
 |                             Jump Game                              |
@@ -98,6 +105,8 @@
 |                    Maximum Depth of N-ary Tree                     |
 |                     Maximum Number of Balloons                     |
 |                Maximum Number of Coins You Can Get                 |
+|                     Maximum Odd Binary Number                      |
+|            Maximum Product of Two Elements in an Array             |
 |                          Maximum Subarray                          |
 |                           Meeting Rooms                            |
 |                          Merge Intervals                           |
@@ -108,6 +117,8 @@
 |                   Min Cost to Connect All Points                   |
 |                        Minimum Common Value                        |
 |                    Minimum Depth of Binary Tree                    |
+|               Minimum Increment to Make Array Unique               |
+|              Minimum Number of Moves to Seat Everyone              |
 |          Minimum Number of Operations to Make Array Empty          |
 |        Minimum Number of Steps to Make Two Strings Anagram         |
 |           Minimum Operations to Exceed Threshold Value I           |
@@ -121,6 +132,7 @@
 |                         Network Delay Time                         |
 |                          Number of 1 Bits                          |
 |       Number of Connected Components in an Undirected Graph        |
+|                        Number of Good Pairs                        |
 |                         Number of Islands                          |
 |                  Number of Laser Beams in a Bank                   |
 |                        Number of Provinces                         |
@@ -133,6 +145,7 @@
 |                          Permutations II                           |
 |                              Plus One                              |
 |                           Print in Order                           |
+|                   Put Boxes Into the Warehouse I                   |
 |                    Range Sum Query - Immutable                     |
 |                          Range Sum of BST                          |
 |         Redistribute Characters to Make All Strings Equal          |
@@ -165,24 +178,29 @@
 |                           Single Number                            |
 |                         Single Number III                          |
 |                    Sort Characters By Frequency                    |
+|                            Sort Colors                             |
 |                           Sort an Array                            |
 |       Special Array With X Elements Greater Than or Equal X        |
 |                           Spiral Matrix                            |
 |                              Sqrt(x)                               |
 |                       String Compression III                       |
 |                      String to Integer (atoi)                      |
+|                    Student Attendance Record I                     |
 |                       Subarray Sum Equals K                        |
 |                    Subarray Sums Divisible by K                    |
 |                              Subsets                               |
 |         Substrings That Begin and End With the Same Letter         |
+|                       Sum of Square Numbers                        |
 |                       Sum of Unique Elements                       |
 |                           To Lower Case                            |
+|                      Top K Frequent Elements                       |
 |                           Tree Diameter                            |
 |                              Two Sum                               |
 |                            Two Sum BSTs                            |
 |                 Two Sum II - Input Array Is Sorted                 |
 |                Two Sum III - Data structure design                 |
 |                    Two Sum IV - Input is a BST                     |
+|                        Two Sum Less Than K                         |
 |                    Unique Number of Occurrences                    |
 |                            Unique Paths                            |
 |                          Unique Paths II                           |
