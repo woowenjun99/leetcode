@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 205
+## Total questions solved: 206
 
 |                              Question                              |
 | :----------------------------------------------------------------: |
@@ -125,6 +125,7 @@
 |          Minimum Operations to Exceed Threshold Value II           |
 |                          Minimum Path Sum                          |
 |                           Missing Number                           |
+|                     Most Profit Assigning Work                     |
 |                  N-ary Tree Level Order Traversal                  |
 |                   N-ary Tree Postorder Traversal                   |
 |                   N-ary Tree Preorder Traversal                    |
