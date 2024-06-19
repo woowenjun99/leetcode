@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 206
+## Total questions solved: 208
 
 |                              Question                              |
 | :----------------------------------------------------------------: |
@@ -36,6 +36,7 @@
 |              Count Pairs That Form a Complete Day II               |
 |                            Count Primes                            |
 |                              Counter                               |
+|                         Counting Elements                          |
 |                          Course Schedule                           |
 |                         Course Schedule II                         |
 |                    Create Hello World Function                     |
@@ -118,6 +119,7 @@
 |                        Minimum Common Value                        |
 |                    Minimum Depth of Binary Tree                    |
 |               Minimum Increment to Make Array Unique               |
+|             Minimum Number of Days to Make m Bouquets              |
 |              Minimum Number of Moves to Seat Everyone              |
 |          Minimum Number of Operations to Make Array Empty          |
 |        Minimum Number of Steps to Make Two Strings Anagram         |
