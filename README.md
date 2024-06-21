@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 208
+## Total questions solved: 212
 
 |                              Question                              |
 | :----------------------------------------------------------------: |
@@ -31,6 +31,7 @@
 |                      Compare Version Numbers                       |
 |                Connecting Cities With Minimum Cost                 |
 |                         Contains Duplicate                         |
+|                    Count Days Without Meetings                     |
 |               Count Elements With Maximum Frequency                |
 |               Count Pairs That Form a Complete Day I               |
 |              Count Pairs That Form a Complete Day II               |
@@ -71,6 +72,7 @@
 |                        Generate Parentheses                        |
 |                          Graph Valid Tree                          |
 |                           Group Anagrams                           |
+|                       Grumpy Bookstore Owner                       |
 |                         Hand of Straights                          |
 |                           Height Checker                           |
 |                            House Robber                            |
@@ -98,8 +100,10 @@
 |           Longest Substring Without Repeating Characters           |
 |                     Longest Word in Dictionary                     |
 |            Longest Word in Dictionary through Deleting             |
+|                  Magnetic Force Between Two Balls                  |
 |                          Majority Element                          |
 |                         Max Area of Island                         |
+|                        Max Consecutive Ones                        |
 |                Maximize Distance to Closest Person                 |
 |                         Maximum 69 Number                          |
 |                    Maximum Depth of Binary Tree                    |
