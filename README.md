@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 212
+## Total questions solved: 215
 
 |                              Question                              |
 | :----------------------------------------------------------------: |
@@ -33,6 +33,7 @@
 |                         Contains Duplicate                         |
 |                    Count Days Without Meetings                     |
 |               Count Elements With Maximum Frequency                |
+|                   Count Number of Nice Subarrays                   |
 |               Count Pairs That Form a Complete Day I               |
 |              Count Pairs That Form a Complete Day II               |
 |                            Count Primes                            |
@@ -108,6 +109,7 @@
 |                         Maximum 69 Number                          |
 |                    Maximum Depth of Binary Tree                    |
 |                    Maximum Depth of N-ary Tree                     |
+|           Maximum Difference Between Increasing Elements           |
 |                     Maximum Number of Balloons                     |
 |                Maximum Number of Coins You Can Get                 |
 |                     Maximum Odd Binary Number                      |
@@ -153,6 +155,7 @@
 |                              Plus One                              |
 |                           Print in Order                           |
 |                   Put Boxes Into the Warehouse I                   |
+|                  Put Boxes Into the Warehouse II                   |
 |                    Range Sum Query - Immutable                     |
 |                          Range Sum of BST                          |
 |         Redistribute Characters to Make All Strings Equal          |
