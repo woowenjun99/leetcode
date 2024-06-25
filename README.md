@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 220
+## Total questions solved: 222
 
 |                                  Question                                  |
 | :------------------------------------------------------------------------: |
@@ -17,6 +17,7 @@
 |                      Best Time to Buy and Sell Stock                       |
 |                     Best Time to Buy and Sell Stock II                     |
 |                               Binary Search                                |
+|                   Binary Search Tree to Greater Sum Tree                   |
 |                       Binary Tree Inorder Traversal                        |
 |                     Binary Tree Level Order Traversal                      |
 |                    Binary Tree Level Order Traversal II                    |
@@ -131,6 +132,7 @@
 |                        Minimum Depth of Binary Tree                        |
 |                   Minimum Increment to Make Array Unique                   |
 |                 Minimum Number of Days to Make m Bouquets                  |
+|                 Minimum Number of K Consecutive Bit Flips                  |
 |                  Minimum Number of Moves to Seat Everyone                  |
 |              Minimum Number of Operations to Make Array Empty              |
 |            Minimum Number of Steps to Make Two Strings Anagram             |
