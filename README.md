@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 222
+## Total questions solved: 228
 
 |                                  Question                                  |
 | :------------------------------------------------------------------------: |
@@ -24,6 +24,7 @@
 |                      Binary Tree Postorder Traversal                       |
 |                       Binary Tree Preorder Traversal                       |
 |                  Binary Tree Zigzag Level Order Traversal                  |
+|                             Buy Two Chocolates                             |
 |                  Check if All A's Appears Before All B's                   |
 |                                Coin Change                                 |
 |                              Combination Sum                               |
@@ -32,6 +33,7 @@
 |                          Compare Version Numbers                           |
 |                    Connecting Cities With Minimum Cost                     |
 |                             Contains Duplicate                             |
+|                 Convert Sorted Array to Binary Search Tree                 |
 |                        Count Days Without Meetings                         |
 |                   Count Elements With Maximum Frequency                    |
 |                       Count Number of Nice Subarrays                       |
@@ -90,6 +92,7 @@
 |                               Is Subsequence                               |
 |                                 Jump Game                                  |
 |                                Jump Game II                                |
+|                         K Closest Points to Origin                         |
 |                      Kth Largest Element in an Array                       |
 |                       Kth Smallest Element in a BST                        |
 |               Largest Substring Between Two Equal Characters               |
@@ -120,6 +123,7 @@
 |                         Maximum Odd Binary Number                          |
 |                Maximum Product of Two Elements in an Array                 |
 |                              Maximum Subarray                              |
+|                     Maximum Total Importance of Roads                      |
 |                               Meeting Rooms                                |
 |                              Merge Intervals                               |
 |                             Merge Sorted Array                             |
@@ -160,6 +164,7 @@
 |                                Permutations                                |
 |                              Permutations II                               |
 |                                  Plus One                                  |
+|                               Power of Three                               |
 |                               Print in Order                               |
 |                       Put Boxes Into the Warehouse I                       |
 |                      Put Boxes Into the Warehouse II                       |
@@ -177,6 +182,7 @@
 |                        Remove Vowels from a String                         |
 |                        Removing Stars From a String                        |
 |                               Replace Words                                |
+|                   Restore the Array From Adjacent Pairs                    |
 |                              Reverse Integer                               |
 |                            Reverse Linked List                             |
 |                               Reverse String                               |
