@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 228
+## Total questions solved: 234
 
 |                                  Question                                  |
 | :------------------------------------------------------------------------: |
@@ -80,6 +80,7 @@
 |                              Graph Valid Tree                              |
 |                               Group Anagrams                               |
 |                           Grumpy Bookstore Owner                           |
+|                        Guess Number Higher or Lower                        |
 |                             Hand of Straights                              |
 |                               Height Checker                               |
 |                                House Robber                                |
@@ -126,6 +127,7 @@
 |                     Maximum Total Importance of Roads                      |
 |                               Meeting Rooms                                |
 |                              Merge Intervals                               |
+|                        Merge Nodes in Between Zeros                        |
 |                             Merge Sorted Array                             |
 |                           Merge Two Sorted Lists                           |
 |                            Merge k Sorted Lists                            |
@@ -134,6 +136,7 @@
 |              Minimum Average of Smallest and Largest Elements              |
 |                            Minimum Common Value                            |
 |                        Minimum Depth of Binary Tree                        |
+|    Minimum Difference Between Largest and Smallest Value in Three Moves    |
 |                   Minimum Increment to Make Array Unique                   |
 |                 Minimum Number of Days to Make m Bouquets                  |
 |                 Minimum Number of K Consecutive Bit Flips                  |
@@ -166,6 +169,7 @@
 |                                  Plus One                                  |
 |                               Power of Three                               |
 |                               Print in Order                               |
+|                        Product of Array Except Self                        |
 |                       Put Boxes Into the Warehouse I                       |
 |                      Put Boxes Into the Warehouse II                       |
 |                        Range Sum Query - Immutable                         |
@@ -190,6 +194,7 @@
 |                         Reverse Words in a String                          |
 |                       Reverse Words in a String III                        |
 |                              Roman to Integer                              |
+|                              Rotting Oranges                               |
 |                          Running Sum of 1d Array                           |
 |                                 Same Tree                                  |
 |                             Score of a String                              |
@@ -213,6 +218,7 @@
 |                        Subarray Sums Divisible by K                        |
 |                                  Subsets                                   |
 |             Substrings That Begin and End With the Same Letter             |
+|                             Sum of Left Leaves                             |
 |                           Sum of Square Numbers                            |
 |                           Sum of Unique Elements                           |
 |                               To Lower Case                                |
