@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 234
+## Total questions solved: 247
 
 |                                  Question                                  |
 | :------------------------------------------------------------------------: |
@@ -14,6 +14,7 @@
 |                      All Paths From Source to Target                       |
 |               Amount of Time for Binary Tree to Be Infected                |
 |              Append Characters to String to Make Subsequence               |
+|                            Average Waiting Time                            |
 |                      Best Time to Buy and Sell Stock                       |
 |                     Best Time to Buy and Sell Stock II                     |
 |                               Binary Search                                |
@@ -27,6 +28,7 @@
 |                             Buy Two Chocolates                             |
 |                  Check if All A's Appears Before All B's                   |
 |                                Coin Change                                 |
+|                               Coin Change II                               |
 |                              Combination Sum                               |
 |                                Combinations                                |
 |                             Combine Two Tables                             |
@@ -40,6 +42,7 @@
 |                   Count Pairs That Form a Complete Day I                   |
 |                  Count Pairs That Form a Complete Day II                   |
 |                                Count Primes                                |
+|            Count Triplets That Can Form Two Arrays of Equal XOR            |
 |                  Count the Number of Special Characters I                  |
 |                                  Counter                                   |
 |                             Counting Elements                              |
@@ -63,6 +66,7 @@
 |                        Find All Groups of Farmland                         |
 |                        Find Bottom Left Tree Value                         |
 |                           Find Common Characters                           |
+|                 Find First Palindromic String in the Array                 |
 |          Find First and Last Position of Element in Sorted Array           |
 |                    Find Largest Value in Each Tree Row                     |
 |      Find Minimum Operations to Make All Elements Divisible by Three       |
@@ -74,6 +78,7 @@
 |                 Find the Kth Largest Integer in the Array                  |
 |                 Find the Minimum Area to Cover All Ones I                  |
 |                      Find the Number of Good Pairs I                       |
+|                    Find the Winner of the Circular Game                    |
 |                     First Unique Character in a String                     |
 |                                 Fizz Buzz                                  |
 |                            Generate Parentheses                            |
@@ -94,6 +99,7 @@
 |                                 Jump Game                                  |
 |                                Jump Game II                                |
 |                         K Closest Points to Origin                         |
+|                      Kth Largest Element in a Stream                       |
 |                      Kth Largest Element in an Array                       |
 |                       Kth Smallest Element in a BST                        |
 |               Largest Substring Between Two Equal Characters               |
@@ -133,6 +139,7 @@
 |                            Merge k Sorted Lists                            |
 |                         Middle of the Linked List                          |
 |                       Min Cost to Connect All Points                       |
+|                                 Min Stack                                  |
 |              Minimum Average of Smallest and Largest Elements              |
 |                            Minimum Common Value                            |
 |                        Minimum Depth of Binary Tree                        |
@@ -161,6 +168,7 @@
 |                            Number of Provinces                             |
 |     Number of Steps to Reduce a Number in Binary Representation to One     |
 |                             Palindrome Number                              |
+|                              Pass the Pillow                               |
 |                                  Path Sum                                  |
 |                                Path Sum II                                 |
 |                               Perfect Number                               |
@@ -174,8 +182,11 @@
 |                      Put Boxes Into the Warehouse II                       |
 |                        Range Sum Query - Immutable                         |
 |                              Range Sum of BST                              |
+|                      Rearrange Array Elements by Sign                      |
 |             Redistribute Characters to Make All Strings Equal              |
+|                            Redundant Connection                            |
 |                            Relative Sort Array                             |
+|               Remove Duplicates From an Unsorted Linked List               |
 |                    Remove Duplicates from Sorted Array                     |
 |                     Remove Duplicates from Sorted List                     |
 |                   Remove Duplicates from Sorted List II                    |
@@ -190,6 +201,7 @@
 |                              Reverse Integer                               |
 |                            Reverse Linked List                             |
 |                               Reverse String                               |
+|            Reverse Substrings Between Each Pair of Parentheses             |
 |                         Reverse Vowels of a String                         |
 |                         Reverse Words in a String                          |
 |                       Reverse Words in a String III                        |
@@ -237,4 +249,5 @@
 |                              Valid Palindrome                              |
 |                             Valid Parentheses                              |
 |                                Valid Sudoku                                |
+|                               Water Bottles                                |
 |                             Zigzag Conversion                              |
