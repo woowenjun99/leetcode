@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 247
+## Total questions solved: 265
 
 |                                  Question                                  |
 | :------------------------------------------------------------------------: |
@@ -15,6 +15,7 @@
 |               Amount of Time for Binary Tree to Be Infected                |
 |              Append Characters to String to Make Subsequence               |
 |                            Average Waiting Time                            |
+|                            Balanced Binary Tree                            |
 |                      Best Time to Buy and Sell Stock                       |
 |                     Best Time to Buy and Sell Stock II                     |
 |                               Binary Search                                |
@@ -27,6 +28,7 @@
 |                  Binary Tree Zigzag Level Order Traversal                  |
 |                             Buy Two Chocolates                             |
 |                  Check if All A's Appears Before All B's                   |
+|                                Clone Graph                                 |
 |                                Coin Change                                 |
 |                               Coin Change II                               |
 |                              Combination Sum                               |
@@ -34,6 +36,7 @@
 |                             Combine Two Tables                             |
 |                          Compare Version Numbers                           |
 |                    Connecting Cities With Minimum Cost                     |
+|                         Container With Most Water                          |
 |                             Contains Duplicate                             |
 |                 Convert Sorted Array to Binary Search Tree                 |
 |                        Count Days Without Meetings                         |
@@ -55,11 +58,13 @@
 |                       Design Bounded Blocking Queue                        |
 |                               Design HashMap                               |
 |                               Design HashSet                               |
+|                           Design Parking System                            |
 |                              Destination City                              |
 |                    Determine if String Halves Are Alike                    |
 |                     Determine if Two Strings Are Close                     |
 |                Double a Number Represented as a Linked List                |
 |                               Edit Distance                                |
+|                         Encode and Decode Strings                          |
 |                               Even Odd Tree                                |
 |                         Excel Sheet Column Number                          |
 |                              Fibonacci Number                              |
@@ -81,6 +86,7 @@
 |                    Find the Winner of the Circular Game                    |
 |                     First Unique Character in a String                     |
 |                                 Fizz Buzz                                  |
+|                                 Flood Fill                                 |
 |                            Generate Parentheses                            |
 |                              Graph Valid Tree                              |
 |                               Group Anagrams                               |
@@ -89,9 +95,12 @@
 |                             Hand of Straights                              |
 |                               Height Checker                               |
 |                                House Robber                                |
+|                              House Robber II                               |
 |                              House Robber III                              |
 |                                    IPO                                     |
+|                        Implement Queue using Stacks                        |
 |                        Implement Trie (Prefix Tree)                        |
+|                        Insert Delete GetRandom O(1)                        |
 |                              Insert Interval                               |
 |                             Invert Binary Tree                             |
 |                            Is Graph Bipartite?                             |
@@ -104,11 +113,14 @@
 |                       Kth Smallest Element in a BST                        |
 |               Largest Substring Between Two Equal Characters               |
 |              Least Number of Unique Integers after K Removals              |
+|            Length of Longest Subarray With at Most K Frequency             |
 |                   Letter Combinations of a Phone Number                    |
 |                             Linked List Cycle                              |
 |                           Linked List Frequency                            |
 |                           Longest Common Prefix                            |
+|                         Longest Common Subsequence                         |
 |              Longest Common Subsequence Between Sorted Arrays              |
+|                        Longest Consecutive Sequence                        |
 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit |
 |                       Longest Increasing Subsequence                       |
 |                             Longest Palindrome                             |
@@ -116,6 +128,7 @@
 |               Longest Substring Without Repeating Characters               |
 |                         Longest Word in Dictionary                         |
 |                Longest Word in Dictionary through Deleting                 |
+|               Lowest Common Ancestor of a Binary Search Tree               |
 |                      Magnetic Force Between Two Balls                      |
 |                              Majority Element                              |
 |                             Max Area of Island                             |
@@ -154,6 +167,7 @@
 |              Minimum Operations to Exceed Threshold Value II               |
 |                              Minimum Path Sum                              |
 |                               Missing Number                               |
+|                              Most Common Word                              |
 |                         Most Profit Assigning Work                         |
 |                      N-ary Tree Level Order Traversal                      |
 |                       N-ary Tree Postorder Traversal                       |
@@ -168,6 +182,7 @@
 |                            Number of Provinces                             |
 |     Number of Steps to Reduce a Number in Binary Representation to One     |
 |                             Palindrome Number                              |
+|                           Palindromic Substrings                           |
 |                              Pass the Pillow                               |
 |                                  Path Sum                                  |
 |                                Path Sum II                                 |
@@ -182,6 +197,7 @@
 |                      Put Boxes Into the Warehouse II                       |
 |                        Range Sum Query - Immutable                         |
 |                              Range Sum of BST                              |
+|                                Ransom Note                                 |
 |                      Rearrange Array Elements by Sign                      |
 |             Redistribute Characters to Make All Strings Equal              |
 |                            Redundant Connection                            |
@@ -235,6 +251,7 @@
 |                           Sum of Unique Elements                           |
 |                               To Lower Case                                |
 |                          Top K Frequent Elements                           |
+|                            Top K Frequent Words                            |
 |                               Tree Diameter                                |
 |                                  Two Sum                                   |
 |                                Two Sum BSTs                                |
@@ -249,5 +266,6 @@
 |                              Valid Palindrome                              |
 |                             Valid Parentheses                              |
 |                                Valid Sudoku                                |
+|                        Validate Binary Search Tree                         |
 |                               Water Bottles                                |
 |                             Zigzag Conversion                              |

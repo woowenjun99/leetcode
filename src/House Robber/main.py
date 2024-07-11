@@ -2,8 +2,8 @@ from typing import List
 
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        rob1 = rob2 = 0
-        for num in nums:
-            maximum_that_can_be_robbed = max(num + rob2, rob1)
-            rob1, rob2 = maximum_that_can_be_robbed, rob1
-        return rob1
+        previous_house = two_house_back = 0
+        for current in nums:
+            max_amount = max(two_house_back + current, previous_house)
+            previous_house, two_house_back = max_amount, previous_house
+        return max(previous_house, two_house_back)

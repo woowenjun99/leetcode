@@ -1,12 +1,13 @@
-from collections import deque
+from collections import defaultdict
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        dq = deque()
-        appeared = set()
-        longest_length = 0
-        for char in s:
-            while appeared and char in appeared: appeared.remove(dq.popleft())
-            dq.append(char)
-            longest_length = max(len(dq), longest_length)
-        return longest_length
+        left = answer = 0
+        mappers = defaultdict(int)
+        for right in range(len(s)):
+            mappers[s[right]] += 1
+            while mappers[s[right]] > 1: 
+                mappers[s[left]] -= 1
+                left += 1
+            answer = max(answer, right - left + 1)
+        return answer

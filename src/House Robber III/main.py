@@ -8,14 +8,10 @@ class TreeNode:
 
 class Solution:
     def rob(self, root: Optional[TreeNode]) -> int:
-
-        # For each node, we return (take, not take)
         def dfs(node):
-            if not node: return (0, 0)
+            if not node: return [0, 0]
             left = dfs(node.left)
             right = dfs(node.right)
-            not_rob = max(left[0], left[1]) + max(right[0], right[1])
-            rob = node.val + left[1] + right[1]
-            return (rob, not_rob)
+            return [node.val + left[1] + right[1], max(left) + max(right)]
 
         return max(dfs(root))
