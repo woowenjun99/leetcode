@@ -2,19 +2,17 @@ from typing import List
 
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        answers = set()
+        answer = []
 
-        def backtracking(start, size, stack):
-            if start == size:
-                answers.add(tuple(sorted(stack)))
+        def backtracking(combinations, start, size):
+            if len(combinations) == size: 
+                answer.append(combinations.copy())
                 return
+            
+            for index in range(start, len(nums)):
+                combinations.append(nums[index])
+                backtracking(combinations, index + 1, size)
+                combinations.pop()
 
-            for i in range(start, len(nums)):
-                stack.append(nums[i])
-                backtracking(i + 1, size, stack)
-                stack.pop()
-
-
-        for size in range(len(nums) + 1): backtracking(0, size, [])
-
-        return list(answers)
+        for size in range(len(nums) + 1): backtracking([], 0, size)
+        return answer

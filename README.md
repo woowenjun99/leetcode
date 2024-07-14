@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 265
+## Total questions solved: 275
 
 |                                  Question                                  |
 | :------------------------------------------------------------------------: |
@@ -15,6 +15,7 @@
 |               Amount of Time for Binary Tree to Be Infected                |
 |              Append Characters to String to Make Subsequence               |
 |                            Average Waiting Time                            |
+|                          Backspace String Compare                          |
 |                            Balanced Binary Tree                            |
 |                      Best Time to Buy and Sell Stock                       |
 |                     Best Time to Buy and Sell Stock II                     |
@@ -27,6 +28,7 @@
 |                       Binary Tree Preorder Traversal                       |
 |                  Binary Tree Zigzag Level Order Traversal                  |
 |                             Buy Two Chocolates                             |
+|                      Cheapest Flights Within K Stops                       |
 |                  Check if All A's Appears Before All B's                   |
 |                                Clone Graph                                 |
 |                                Coin Change                                 |
@@ -65,9 +67,11 @@
 |                Double a Number Represented as a Linked List                |
 |                               Edit Distance                                |
 |                         Encode and Decode Strings                          |
+|                      Evaluate Reverse Polish Notation                      |
 |                               Even Odd Tree                                |
 |                         Excel Sheet Column Number                          |
 |                              Fibonacci Number                              |
+|                       Find All Anagrams in a String                        |
 |                        Find All Groups of Farmland                         |
 |                        Find Bottom Left Tree Value                         |
 |                           Find Common Characters                           |
@@ -100,6 +104,7 @@
 |                                    IPO                                     |
 |                        Implement Queue using Stacks                        |
 |                        Implement Trie (Prefix Tree)                        |
+|                          Inorder Successor in BST                          |
 |                        Insert Delete GetRandom O(1)                        |
 |                              Insert Interval                               |
 |                             Invert Binary Tree                             |
@@ -125,6 +130,7 @@
 |                       Longest Increasing Subsequence                       |
 |                             Longest Palindrome                             |
 |                       Longest Palindromic Substring                        |
+|                  Longest Repeating Character Replacement                   |
 |               Longest Substring Without Repeating Characters               |
 |                         Longest Word in Dictionary                         |
 |                Longest Word in Dictionary through Deleting                 |
@@ -166,6 +172,7 @@
 |               Minimum Operations to Exceed Threshold Value I               |
 |              Minimum Operations to Exceed Threshold Value II               |
 |                              Minimum Path Sum                              |
+|                         Minimum Size Subarray Sum                          |
 |                               Missing Number                               |
 |                              Most Common Word                              |
 |                         Most Profit Assigning Work                         |
@@ -181,6 +188,7 @@
 |                      Number of Laser Beams in a Bank                       |
 |                            Number of Provinces                             |
 |     Number of Steps to Reduce a Number in Binary Representation to One     |
+|                           Palindrome Linked List                           |
 |                             Palindrome Number                              |
 |                           Palindromic Substrings                           |
 |                              Pass the Pillow                               |
@@ -227,6 +235,7 @@
 |                                 Same Tree                                  |
 |                             Score of a String                              |
 |                           Search Insert Position                           |
+|                       Search in Rotated Sorted Array                       |
 |                       Separate Black and White Balls                       |
 |                             Sequential Digits                              |
 |                                Set Mismatch                                |
@@ -259,6 +268,7 @@
 |                    Two Sum III - Data structure design                     |
 |                        Two Sum IV - Input is a BST                         |
 |                            Two Sum Less Than K                             |
+|                                Ugly Number                                 |
 |                        Unique Number of Occurrences                        |
 |                                Unique Paths                                |
 |                              Unique Paths II                               |

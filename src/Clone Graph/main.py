@@ -1,4 +1,3 @@
-from collections import defaultdict
 from typing import Optional
 
 class Node:
@@ -9,21 +8,13 @@ class Node:
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
         if not node: return None
-
-        adjacency_matrix = defaultdict(list)
-        visited = set()
+        cache = {}
 
         def dfs(src):
-            visited.add(src.val)
-            for neighbor in src.neighbors:
-                adjacency_matrix[src.val].append(neighbor.val)
-                if neighbor.val in visited: continue
-                dfs(neighbor)
+            if src.val in cache: return cache[src.val]
+            cloned = Node(src.val)
+            cache[src.val] = cloned
+            for neighbor in src.neighbors: cloned.neighbors.append(dfs(neighbor))
+            return cloned
 
-        dfs(node)
-        mappers = { key: Node(key) for key in visited } # Create a map for all the new nodes
-        for key in adjacency_matrix:
-            for child in adjacency_matrix[key]:
-                mappers[key].neighbors.append(mappers[child])
-
-        return mappers.get(node.val)
+        return dfs(node)
