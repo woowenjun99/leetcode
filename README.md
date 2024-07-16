@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 275
+## Total questions solved: 280
 
 |                                  Question                                  |
 | :------------------------------------------------------------------------: |
@@ -26,6 +26,7 @@
 |                    Binary Tree Level Order Traversal II                    |
 |                      Binary Tree Postorder Traversal                       |
 |                       Binary Tree Preorder Traversal                       |
+|                    Binary Tree Vertical Order Traversal                    |
 |                  Binary Tree Zigzag Level Order Traversal                  |
 |                             Buy Two Chocolates                             |
 |                      Cheapest Flights Within K Stops                       |
@@ -44,6 +45,7 @@
 |                        Count Days Without Meetings                         |
 |                   Count Elements With Maximum Frequency                    |
 |                       Count Number of Nice Subarrays                       |
+|                       Count Pairs Of Similar Strings                       |
 |                   Count Pairs That Form a Complete Day I                   |
 |                  Count Pairs That Form a Complete Day II                   |
 |                                Count Primes                                |
@@ -53,6 +55,7 @@
 |                             Counting Elements                              |
 |                              Course Schedule                               |
 |                             Course Schedule II                             |
+|                    Create Binary Tree From Descriptions                    |
 |                        Create Hello World Function                         |
 |                             Custom Sort String                             |
 |                             Daily Temperatures                             |
@@ -188,6 +191,7 @@
 |                      Number of Laser Beams in a Bank                       |
 |                            Number of Provinces                             |
 |     Number of Steps to Reduce a Number in Binary Representation to One     |
+|            Pairs of Songs With Total Durations Divisible by 60             |
 |                           Palindrome Linked List                           |
 |                             Palindrome Number                              |
 |                           Palindromic Substrings                           |
@@ -248,6 +252,7 @@
 |           Special Array With X Elements Greater Than or Equal X            |
 |                               Spiral Matrix                                |
 |                                  Sqrt(x)                                   |
+|         Step-By-Step Directions From a Binary Tree Node to Another         |
 |                           String Compression III                           |
 |                          String to Integer (atoi)                          |
 |                        Student Attendance Record I                         |
