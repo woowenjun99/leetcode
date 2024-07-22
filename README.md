@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 280
+## Total questions solved: 290
 
 |                                  Question                                  |
 | :------------------------------------------------------------------------: |
@@ -38,10 +38,12 @@
 |                                Combinations                                |
 |                             Combine Two Tables                             |
 |                          Compare Version Numbers                           |
+|                           Concatenation of Array                           |
 |                    Connecting Cities With Minimum Cost                     |
 |                         Container With Most Water                          |
 |                             Contains Duplicate                             |
 |                 Convert Sorted Array to Binary Search Tree                 |
+|                 Convert Sorted List to Binary Search Tree                  |
 |                        Count Days Without Meetings                         |
 |                   Count Elements With Maximum Frequency                    |
 |                       Count Number of Nice Subarrays                       |
@@ -63,6 +65,7 @@
 |                       Design Bounded Blocking Queue                        |
 |                               Design HashMap                               |
 |                               Design HashSet                               |
+|                             Design Hit Counter                             |
 |                           Design Parking System                            |
 |                              Destination City                              |
 |                    Determine if String Halves Are Alike                    |
@@ -73,11 +76,13 @@
 |                      Evaluate Reverse Polish Notation                      |
 |                               Even Odd Tree                                |
 |                         Excel Sheet Column Number                          |
+|                              Faulty Keyboard                               |
 |                              Fibonacci Number                              |
 |                       Find All Anagrams in a String                        |
 |                        Find All Groups of Farmland                         |
 |                        Find Bottom Left Tree Value                         |
 |                           Find Common Characters                           |
+|                       Find Distance in a Binary Tree                       |
 |                 Find First Palindromic String in the Array                 |
 |          Find First and Last Position of Element in Sorted Array           |
 |                    Find Largest Value in Each Tree Row                     |
@@ -88,6 +93,7 @@
 |             Find the Index of the First Occurrence in a String             |
 |                     Find the Integer Added to Array I                      |
 |                 Find the Kth Largest Integer in the Array                  |
+|                  Find the Level of Tree with Minimum Sum                   |
 |                 Find the Minimum Area to Cover All Ones I                  |
 |                      Find the Number of Good Pairs I                       |
 |                    Find the Winner of the Circular Game                    |
@@ -120,6 +126,7 @@
 |                      Kth Largest Element in an Array                       |
 |                       Kth Smallest Element in a BST                        |
 |               Largest Substring Between Two Equal Characters               |
+|                             Last Stone Weight                              |
 |              Least Number of Unique Integers after K Removals              |
 |            Length of Longest Subarray With at Most K Frequency             |
 |                   Letter Combinations of a Phone Number                    |
@@ -185,12 +192,14 @@
 |                     Nearest Exit from Entrance in Maze                     |
 |                             Network Delay Time                             |
 |                              Number of 1 Bits                              |
+|              Number of Bit Changes to Make Two Integers Equal              |
 |           Number of Connected Components in an Undirected Graph            |
 |                            Number of Good Pairs                            |
 |                             Number of Islands                              |
 |                      Number of Laser Beams in a Bank                       |
 |                            Number of Provinces                             |
 |     Number of Steps to Reduce a Number in Binary Representation to One     |
+|                             One Edit Distance                              |
 |            Pairs of Songs With Total Durations Divisible by 60             |
 |                           Palindrome Linked List                           |
 |                             Palindrome Number                              |
@@ -249,6 +258,7 @@
 |                        Sort Characters By Frequency                        |
 |                                Sort Colors                                 |
 |                               Sort an Array                                |
+|                              Sort the People                               |
 |           Special Array With X Elements Greater Than or Equal X            |
 |                               Spiral Matrix                                |
 |                                  Sqrt(x)                                   |
