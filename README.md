@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 290
+## Total questions solved: 295
 
 |                                  Question                                  |
 | :------------------------------------------------------------------------: |
@@ -32,6 +32,7 @@
 |                      Cheapest Flights Within K Stops                       |
 |                  Check if All A's Appears Before All B's                   |
 |                                Clone Graph                                 |
+|                       Closest Leaf in a Binary Tree                        |
 |                                Coin Change                                 |
 |                               Coin Change II                               |
 |                              Combination Sum                               |
@@ -62,6 +63,7 @@
 |                             Custom Sort String                             |
 |                             Daily Temperatures                             |
 |                        Delete Node in a Linked List                        |
+|               Delete Nodes From Linked List Present in Array               |
 |                       Design Bounded Blocking Queue                        |
 |                               Design HashMap                               |
 |                               Design HashSet                               |
@@ -90,6 +92,7 @@
 |                      Find Mode in Binary Search Tree                       |
 |                    Find Players With Zero or One Losses                    |
 |                  Find Smallest Letter Greater Than Target                  |
+|                        Find the Closest Marked Node                        |
 |             Find the Index of the First Occurrence in a String             |
 |                     Find the Integer Added to Array I                      |
 |                 Find the Kth Largest Integer in the Array                  |
@@ -171,6 +174,7 @@
 |                                 Min Stack                                  |
 |              Minimum Average of Smallest and Largest Elements              |
 |                            Minimum Common Value                            |
+|                      Minimum Cost to Convert String I                      |
 |                        Minimum Depth of Binary Tree                        |
 |    Minimum Difference Between Largest and Smallest Value in Three Moves    |
 |                   Minimum Increment to Make Array Unique                   |
@@ -273,6 +277,7 @@
 |                             Sum of Left Leaves                             |
 |                           Sum of Square Numbers                            |
 |                           Sum of Unique Elements                           |
+|                     The Number of Ways to Make the Sum                     |
 |                               To Lower Case                                |
 |                          Top K Frequent Elements                           |
 |                            Top K Frequent Words                            |
