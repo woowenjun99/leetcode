@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 295
+## Total questions solved: 306
 
 |                                  Question                                  |
 | :------------------------------------------------------------------------: |
@@ -24,8 +24,10 @@
 |                       Binary Tree Inorder Traversal                        |
 |                     Binary Tree Level Order Traversal                      |
 |                    Binary Tree Level Order Traversal II                    |
+|                             Binary Tree Paths                              |
 |                      Binary Tree Postorder Traversal                       |
 |                       Binary Tree Preorder Traversal                       |
+|                        Binary Tree Right Side View                         |
 |                    Binary Tree Vertical Order Traversal                    |
 |                  Binary Tree Zigzag Level Order Traversal                  |
 |                             Buy Two Chocolates                             |
@@ -53,6 +55,7 @@
 |                  Count Pairs That Form a Complete Day II                   |
 |                                Count Primes                                |
 |            Count Triplets That Can Form Two Arrays of Equal XOR            |
+|                       Count of Matches in Tournament                       |
 |                  Count the Number of Special Characters I                  |
 |                                  Counter                                   |
 |                             Counting Elements                              |
@@ -127,6 +130,7 @@
 |                         K Closest Points to Origin                         |
 |                      Kth Largest Element in a Stream                       |
 |                      Kth Largest Element in an Array                       |
+|                      Kth Largest Sum in a Binary Tree                      |
 |                       Kth Smallest Element in a BST                        |
 |               Largest Substring Between Two Equal Characters               |
 |                             Last Stone Weight                              |
@@ -148,10 +152,12 @@
 |                         Longest Word in Dictionary                         |
 |                Longest Word in Dictionary through Deleting                 |
 |               Lowest Common Ancestor of a Binary Search Tree               |
+|                Lowest Common Ancestor of a Binary Tree III                 |
 |                      Magnetic Force Between Two Balls                      |
 |                              Majority Element                              |
 |                             Max Area of Island                             |
 |                            Max Consecutive Ones                            |
+|                         Max Number of K-Sum Pairs                          |
 |                    Maximize Distance to Closest Person                     |
 |                             Maximum 69 Number                              |
 |                        Maximum Depth of Binary Tree                        |
@@ -159,6 +165,7 @@
 |               Maximum Difference Between Increasing Elements               |
 |                         Maximum Number of Balloons                         |
 |                    Maximum Number of Coins You Can Get                     |
+|          Maximum Number of Vowels in a Substring of Given Length           |
 |                         Maximum Odd Binary Number                          |
 |                Maximum Product of Two Elements in an Array                 |
 |                              Maximum Subarray                              |
@@ -167,6 +174,7 @@
 |                              Merge Intervals                               |
 |                        Merge Nodes in Between Zeros                        |
 |                             Merge Sorted Array                             |
+|                         Merge Strings Alternately                          |
 |                           Merge Two Sorted Lists                           |
 |                            Merge k Sorted Lists                            |
 |                         Middle of the Linked List                          |
@@ -177,6 +185,7 @@
 |                      Minimum Cost to Convert String I                      |
 |                        Minimum Depth of Binary Tree                        |
 |    Minimum Difference Between Largest and Smallest Value in Three Moves    |
+|                  Minimum Flips to Make a OR b Equal to c                   |
 |                   Minimum Increment to Make Array Unique                   |
 |                 Minimum Number of Days to Make m Bouquets                  |
 |                 Minimum Number of K Consecutive Bit Flips                  |
@@ -202,6 +211,7 @@
 |                             Number of Islands                              |
 |                      Number of Laser Beams in a Bank                       |
 |                            Number of Provinces                             |
+|                           Number of Recent Calls                           |
 |     Number of Steps to Reduce a Number in Binary Representation to One     |
 |                             One Edit Distance                              |
 |            Pairs of Songs With Total Durations Divisible by 60             |
@@ -259,6 +269,7 @@
 |                      Single Element in a Sorted Array                      |
 |                               Single Number                                |
 |                             Single Number III                              |
+|                      Smallest Number in Infinite Set                       |
 |                        Sort Characters By Frequency                        |
 |                                Sort Colors                                 |
 |                               Sort an Array                                |

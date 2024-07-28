@@ -8,7 +8,6 @@ class Node:
 
 class Solution:
     def levelOrder(self, root: 'Node') -> List[List[int]]:
-        if not root: return []
         responses = []
         queue = deque([(root, 1)])
         while queue:
