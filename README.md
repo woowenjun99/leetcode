@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 306
+## Total questions solved: 312
 
 |                                  Question                                  |
 | :------------------------------------------------------------------------: |
@@ -122,6 +122,7 @@
 |                          Inorder Successor in BST                          |
 |                        Insert Delete GetRandom O(1)                        |
 |                              Insert Interval                               |
+|                         Intersection of Two Arrays                         |
 |                             Invert Binary Tree                             |
 |                            Is Graph Bipartite?                             |
 |                               Is Subsequence                               |
@@ -155,6 +156,7 @@
 |                Lowest Common Ancestor of a Binary Tree III                 |
 |                      Magnetic Force Between Two Balls                      |
 |                              Majority Element                              |
+|                Make Two Arrays Equal by Reversing Subarrays                |
 |                             Max Area of Island                             |
 |                            Max Consecutive Ones                            |
 |                         Max Number of K-Sum Pairs                          |
@@ -163,6 +165,7 @@
 |                        Maximum Depth of Binary Tree                        |
 |                        Maximum Depth of N-ary Tree                         |
 |               Maximum Difference Between Increasing Elements               |
+|                  Maximum Nesting Depth of the Parentheses                  |
 |                         Maximum Number of Balloons                         |
 |                    Maximum Number of Coins You Can Get                     |
 |          Maximum Number of Vowels in a Substring of Given Length           |
@@ -171,6 +174,7 @@
 |                              Maximum Subarray                              |
 |                     Maximum Total Importance of Roads                      |
 |                               Meeting Rooms                                |
+|                       Merge In Between Linked Lists                        |
 |                              Merge Intervals                               |
 |                        Merge Nodes in Between Zeros                        |
 |                             Merge Sorted Array                             |
@@ -212,6 +216,7 @@
 |                      Number of Laser Beams in a Bank                       |
 |                            Number of Provinces                             |
 |                           Number of Recent Calls                           |
+|                         Number of Senior Citizens                          |
 |     Number of Steps to Reduce a Number in Binary Representation to One     |
 |                             One Edit Distance                              |
 |            Pairs of Songs With Total Durations Divisible by 60             |
@@ -288,6 +293,7 @@
 |                             Sum of Left Leaves                             |
 |                           Sum of Square Numbers                            |
 |                           Sum of Unique Elements                           |
+|                      Swapping Nodes in a Linked List                       |
 |                     The Number of Ways to Make the Sum                     |
 |                               To Lower Case                                |
 |                          Top K Frequent Elements                           |
