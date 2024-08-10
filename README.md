@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 317
+## Total questions solved: 324
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -98,6 +98,7 @@
 |                  Find Smallest Letter Greater Than Target                   |
 | Find the City With the Smallest Number of Neighbors at a Threshold Distance |
 |                        Find the Closest Marked Node                         |
+|                             Find the Difference                             |
 |             Find the Index of the First Occurrence in a String              |
 |                      Find the Integer Added to Array I                      |
 |                  Find the Kth Largest Integer in the Array                  |
@@ -125,13 +126,16 @@
 |                          Inorder Successor in BST                           |
 |                        Insert Delete GetRandom O(1)                         |
 |                               Insert Interval                               |
+|                       Intersection of Multiple Arrays                       |
 |                         Intersection of Two Arrays                          |
 |                             Invert Binary Tree                              |
 |                             Is Graph Bipartite?                             |
 |                               Is Subsequence                                |
 |                                  Jump Game                                  |
 |                                Jump Game II                                 |
+|                                Jump Game III                                |
 |                         K Closest Points to Origin                          |
+|                       Kth Distinct String in an Array                       |
 |                       Kth Largest Element in a Stream                       |
 |                       Kth Largest Element in an Array                       |
 |                      Kth Largest Sum in a Binary Tree                       |
@@ -276,6 +280,8 @@
 |                       Separate Black and White Balls                        |
 |                              Sequential Digits                              |
 |                                Set Mismatch                                 |
+|                           Shortest Word Distance                            |
+|                         Shortest Word Distance III                          |
 |                      Single Element in a Sorted Array                       |
 |                                Single Number                                |
 |                              Single Number III                              |
@@ -317,6 +323,7 @@
 |                                Valid Anagram                                |
 |                              Valid Palindrome                               |
 |                              Valid Parentheses                              |
+|                            Valid Perfect Square                             |
 |                                Valid Sudoku                                 |
 |                         Validate Binary Search Tree                         |
 |                                Water Bottles                                |
