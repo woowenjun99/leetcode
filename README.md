@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 324
+## Total questions solved: 334
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -45,6 +45,7 @@
 |                     Connecting Cities With Minimum Cost                     |
 |                          Container With Most Water                          |
 |                             Contains Duplicate                              |
+|                            Contains Duplicate II                            |
 |                 Convert Sorted Array to Binary Search Tree                  |
 |                  Convert Sorted List to Binary Search Tree                  |
 |                         Count Days Without Meetings                         |
@@ -73,6 +74,7 @@
 |                             Design Hit Counter                              |
 |                            Design Parking System                            |
 |                              Destination City                               |
+|                               Detect Capital                                |
 |                    Determine if String Halves Are Alike                     |
 |                     Determine if Two Strings Are Close                      |
 |                Double a Number Represented as a Linked List                 |
@@ -88,6 +90,7 @@
 |                         Find All Groups of Farmland                         |
 |                         Find Bottom Left Tree Value                         |
 |                           Find Common Characters                            |
+|                            Find Customer Referee                            |
 |                       Find Distance in a Binary Tree                        |
 |                 Find First Palindromic String in the Array                  |
 |           Find First and Last Position of Element in Sorted Array           |
@@ -126,6 +129,7 @@
 |                          Inorder Successor in BST                           |
 |                        Insert Delete GetRandom O(1)                         |
 |                               Insert Interval                               |
+|                             Integer Replacement                             |
 |                       Intersection of Multiple Arrays                       |
 |                         Intersection of Two Arrays                          |
 |                             Invert Binary Tree                              |
@@ -140,6 +144,7 @@
 |                       Kth Largest Element in an Array                       |
 |                      Kth Largest Sum in a Binary Tree                       |
 |                        Kth Smallest Element in a BST                        |
+|           Largest Positive Integer That Exists With Its Negative            |
 |               Largest Substring Between Two Equal Characters                |
 |                              Last Stone Weight                              |
 |              Least Number of Unique Integers after K Removals               |
@@ -157,6 +162,8 @@
 |                        Longest Palindromic Substring                        |
 |                   Longest Repeating Character Replacement                   |
 |               Longest Substring Without Repeating Characters                |
+|            Longest Substring with At Most K Distinct Characters             |
+|           Longest Substring with At Most Two Distinct Characters            |
 |                         Longest Word in Dictionary                          |
 |                 Longest Word in Dictionary through Deleting                 |
 |               Lowest Common Ancestor of a Binary Search Tree                |
@@ -223,6 +230,7 @@
 |                       Number of Laser Beams in a Bank                       |
 |                             Number of Provinces                             |
 |                           Number of Recent Calls                            |
+|                       Number of Segments in a String                        |
 |                          Number of Senior Citizens                          |
 |     Number of Steps to Reduce a Number in Binary Representation to One      |
 |                              One Edit Distance                              |
@@ -286,6 +294,7 @@
 |                                Single Number                                |
 |                              Single Number III                              |
 |                       Smallest Number in Infinite Set                       |
+|                     Smallest String Starting From Leaf                      |
 |                        Sort Characters By Frequency                         |
 |                                 Sort Colors                                 |
 |                                Sort an Array                                |
@@ -304,6 +313,7 @@
 |                             Sum of Left Leaves                              |
 |                            Sum of Square Numbers                            |
 |                           Sum of Unique Elements                            |
+|                               Summary Ranges                                |
 |                       Swapping Nodes in a Linked List                       |
 |                     The Number of Ways to Make the Sum                      |
 |                                To Lower Case                                |
