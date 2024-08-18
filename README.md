@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 334
+## Total questions solved: 348
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -14,7 +14,9 @@
 |                       All Paths From Source to Target                       |
 |                Amount of Time for Binary Tree to Be Infected                |
 |               Append Characters to String to Make Subsequence               |
+|                               Assign Cookies                                |
 |                            Average Waiting Time                             |
+|                      Average of Levels in Binary Tree                       |
 |                          Backspace String Compare                           |
 |                            Balanced Binary Tree                             |
 |                       Best Time to Buy and Sell Stock                       |
@@ -32,6 +34,7 @@
 |                  Binary Tree Zigzag Level Order Traversal                   |
 |                             Buy Two Chocolates                              |
 |                       Cheapest Flights Within K Stops                       |
+|                  Check If Two String Arrays are Equivalent                  |
 |                   Check if All A's Appears Before All B's                   |
 |                                 Clone Graph                                 |
 |                        Closest Leaf in a Binary Tree                        |
@@ -77,6 +80,7 @@
 |                               Detect Capital                                |
 |                    Determine if String Halves Are Alike                     |
 |                     Determine if Two Strings Are Close                      |
+|                             Distribute Candies                              |
 |                Double a Number Represented as a Linked List                 |
 |                                Edit Distance                                |
 |                          Encode and Decode Strings                          |
@@ -119,6 +123,7 @@
 |                           Grumpy Bookstore Owner                            |
 |                        Guess Number Higher or Lower                         |
 |                              Hand of Straights                              |
+|                                Happy Number                                 |
 |                               Height Checker                                |
 |                                House Robber                                 |
 |                               House Robber II                               |
@@ -179,9 +184,11 @@
 |                        Maximum Depth of Binary Tree                         |
 |                         Maximum Depth of N-ary Tree                         |
 |               Maximum Difference Between Increasing Elements                |
+|                         Maximum Distance in Arrays                          |
 |                  Maximum Nesting Depth of the Parentheses                   |
 |                         Maximum Number of Balloons                          |
 |                     Maximum Number of Coins You Can Get                     |
+|                     Maximum Number of Points with Cost                      |
 |           Maximum Number of Vowels in a Substring of Given Length           |
 |                          Maximum Odd Binary Number                          |
 |                 Maximum Product of Two Elements in an Array                 |
@@ -198,6 +205,7 @@
 |                          Middle of the Linked List                          |
 |                       Min Cost to Connect All Points                        |
 |                                  Min Stack                                  |
+|                     Minimum Absolute Difference in BST                      |
 |              Minimum Average of Smallest and Largest Elements               |
 |                            Minimum Common Value                             |
 |                      Minimum Cost to Convert String I                       |
@@ -217,6 +225,7 @@
 |                               Missing Number                                |
 |                              Most Common Word                               |
 |                         Most Profit Assigning Work                          |
+|                                 Move Zeroes                                 |
 |                      N-ary Tree Level Order Traversal                       |
 |                       N-ary Tree Postorder Traversal                        |
 |                        N-ary Tree Preorder Traversal                        |
@@ -247,6 +256,7 @@
 |                               Permutations II                               |
 |                                  Plus One                                   |
 |                               Power of Three                                |
+|                          Print FooBar Alternately                           |
 |                               Print in Order                                |
 |                        Product of Array Except Self                         |
 |                       Put Boxes Into the Warehouse I                        |
@@ -269,6 +279,7 @@
 |                      Remove Nth Node From End of List                       |
 |                         Remove Vowels from a String                         |
 |                        Removing Stars From a String                         |
+|            Replace Elements with Greatest Element on Right Side             |
 |                                Replace Words                                |
 |                    Restore the Array From Adjacent Pairs                    |
 |                               Reverse Integer                               |
@@ -285,11 +296,13 @@
 |                              Score of a String                              |
 |                           Search Insert Position                            |
 |                       Search in Rotated Sorted Array                        |
+|                       Search in a Binary Search Tree                        |
 |                       Separate Black and White Balls                        |
 |                              Sequential Digits                              |
 |                                Set Mismatch                                 |
 |                           Shortest Word Distance                            |
 |                         Shortest Word Distance III                          |
+|                       Sign of the Product of an Array                       |
 |                      Single Element in a Sorted Array                       |
 |                                Single Number                                |
 |                              Single Number III                              |
@@ -310,6 +323,7 @@
 |                        Subarray Sums Divisible by K                         |
 |                                   Subsets                                   |
 |             Substrings That Begin and End With the Same Letter              |
+|                          Sum Root to Leaf Numbers                           |
 |                             Sum of Left Leaves                              |
 |                            Sum of Square Numbers                            |
 |                           Sum of Unique Elements                            |
