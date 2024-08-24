@@ -2,13 +2,11 @@ from typing import List
 
 class Solution:
     def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
-        responses = []
+        answer = []
 
-        def dfs(src, paths):
-            paths.append(src)
-            if src == len(graph) - 1: responses.append(paths.copy())
-            for neighbour in graph[src]: dfs(neighbour, paths)
-            paths.pop()
+        def dfs(src, stack):
+            if src == len(graph) - 1: answer.append(stack.copy())
+            for dest in graph[src]: dfs(dest, stack + [dest])
 
-        dfs(0, [])
-        return responses
+        dfs(0, [0])
+        return answer

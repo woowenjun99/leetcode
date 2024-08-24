@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 348
+## Total questions solved: 353
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -101,8 +101,10 @@
 |                     Find Largest Value in Each Tree Row                     |
 |       Find Minimum Operations to Make All Elements Divisible by Three       |
 |                       Find Mode in Binary Search Tree                       |
+|                 Find Occurrences of an Element in an Array                  |
 |                    Find Players With Zero or One Losses                     |
 |                  Find Smallest Letter Greater Than Target                   |
+|                        Find if Digit Game Can Be Won                        |
 | Find the City With the Smallest Number of Neighbors at a Threshold Distance |
 |                        Find the Closest Marked Node                         |
 |                             Find the Difference                             |
@@ -116,6 +118,7 @@
 |                     First Unique Character in a String                      |
 |                                  Fizz Buzz                                  |
 |                                 Flood Fill                                  |
+|                      Fraction Addition and Subtraction                      |
 |                              Frequency Tracker                              |
 |                            Generate Parentheses                             |
 |                              Graph Valid Tree                               |
@@ -185,6 +188,7 @@
 |                         Maximum Depth of N-ary Tree                         |
 |               Maximum Difference Between Increasing Elements                |
 |                         Maximum Distance in Arrays                          |
+|                    Maximum Energy Boost From Two Drinks                     |
 |                  Maximum Nesting Depth of the Parentheses                   |
 |                         Maximum Number of Balloons                          |
 |                     Maximum Number of Coins You Can Get                     |
@@ -250,6 +254,7 @@
 |                               Pass the Pillow                               |
 |                                  Path Sum                                   |
 |                                 Path Sum II                                 |
+|                           Path with Maximum Gold                            |
 |                               Perfect Number                                |
 |                               Perfect Squares                               |
 |                                Permutations                                 |
