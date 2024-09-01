@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 353
+## Total questions solved: 358
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -36,6 +36,7 @@
 |                       Cheapest Flights Within K Stops                       |
 |                  Check If Two String Arrays are Equivalent                  |
 |                   Check if All A's Appears Before All B's                   |
+|                      Check if the Sentence Is Pangram                       |
 |                                 Clone Graph                                 |
 |                        Closest Leaf in a Binary Tree                        |
 |                                 Coin Change                                 |
@@ -48,7 +49,8 @@
 |                     Connecting Cities With Minimum Cost                     |
 |                          Container With Most Water                          |
 |                             Contains Duplicate                              |
-|                            Contains Duplicate II                            |
+|                       Convert 1D Array Into 2D Array                        |
+|                    Convert Doubly Linked List to Array I                    |
 |                 Convert Sorted Array to Binary Search Tree                  |
 |                  Convert Sorted List to Binary Search Tree                  |
 |                         Count Days Without Meetings                         |
@@ -181,6 +183,7 @@
 |                Make Two Arrays Equal by Reversing Subarrays                 |
 |                             Max Area of Island                              |
 |                            Max Consecutive Ones                             |
+|                          Max Consecutive Ones III                           |
 |                          Max Number of K-Sum Pairs                          |
 |                     Maximize Distance to Closest Person                     |
 |                              Maximum 69 Number                              |
@@ -294,6 +297,7 @@
 |                         Reverse Vowels of a String                          |
 |                          Reverse Words in a String                          |
 |                        Reverse Words in a String III                        |
+|                           Robot Return to Origin                            |
 |                              Roman to Integer                               |
 |                               Rotting Oranges                               |
 |                           Running Sum of 1d Array                           |
@@ -356,4 +360,5 @@
 |                                Valid Sudoku                                 |
 |                         Validate Binary Search Tree                         |
 |                                Water Bottles                                |
+|                                 Word Search                                 |
 |                              Zigzag Conversion                              |
