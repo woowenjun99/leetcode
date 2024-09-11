@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 358
+## Total questions solved: 363
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -116,6 +116,7 @@
 |                   Find the Level of Tree with Minimum Sum                   |
 |                  Find the Minimum Area to Cover All Ones I                  |
 |                       Find the Number of Good Pairs I                       |
+|                Find the Student that Will Replace the Chalk                 |
 |                    Find the Winner of the Circular Game                     |
 |                     First Unique Character in a String                      |
 |                                  Fizz Buzz                                  |
@@ -138,6 +139,7 @@
 |                        Implement Trie (Prefix Tree)                         |
 |                          Inorder Successor in BST                           |
 |                        Insert Delete GetRandom O(1)                         |
+|               Insert Greatest Common Divisors in Linked List                |
 |                               Insert Interval                               |
 |                             Integer Replacement                             |
 |                       Intersection of Multiple Arrays                       |
@@ -214,6 +216,7 @@
 |                                  Min Stack                                  |
 |                     Minimum Absolute Difference in BST                      |
 |              Minimum Average of Smallest and Largest Elements               |
+|                     Minimum Bit Flips to Convert Number                     |
 |                            Minimum Common Value                             |
 |                      Minimum Cost to Convert String I                       |
 |                        Minimum Depth of Binary Tree                         |
@@ -258,6 +261,7 @@
 |                                  Path Sum                                   |
 |                                 Path Sum II                                 |
 |                           Path with Maximum Gold                            |
+|                        Path with Maximum Probability                        |
 |                               Perfect Number                                |
 |                               Perfect Squares                               |
 |                                Permutations                                 |
@@ -333,6 +337,7 @@
 |                                   Subsets                                   |
 |             Substrings That Begin and End With the Same Letter              |
 |                          Sum Root to Leaf Numbers                           |
+|                    Sum of Digits of String After Convert                    |
 |                             Sum of Left Leaves                              |
 |                            Sum of Square Numbers                            |
 |                           Sum of Unique Elements                            |
