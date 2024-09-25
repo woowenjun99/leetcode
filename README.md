@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 363
+## Total questions solved: 369
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -10,6 +10,7 @@
 |                                 Add Binary                                  |
 |                               Add Two Numbers                               |
 |                             Add Two Numbers II                              |
+|               Add Two Polynomials Represented as Linked Lists               |
 |                   All Elements in Two Binary Search Trees                   |
 |                       All Paths From Source to Target                       |
 |                Amount of Time for Binary Tree to Be Infected                |
@@ -51,6 +52,7 @@
 |                             Contains Duplicate                              |
 |                       Convert 1D Array Into 2D Array                        |
 |                    Convert Doubly Linked List to Array I                    |
+|                   Convert Doubly Linked List to Array II                    |
 |                 Convert Sorted Array to Binary Search Tree                  |
 |                  Convert Sorted List to Binary Search Tree                  |
 |                         Count Days Without Meetings                         |
@@ -62,6 +64,7 @@
 |                                Count Primes                                 |
 |            Count Triplets That Can Form Two Arrays of Equal XOR             |
 |                       Count of Matches in Tournament                        |
+|                   Count the Number of Consistent Strings                    |
 |                  Count the Number of Special Characters I                   |
 |                                   Counter                                   |
 |                              Counting Elements                              |
@@ -113,6 +116,7 @@
 |             Find the Index of the First Occurrence in a String              |
 |                      Find the Integer Added to Array I                      |
 |                  Find the Kth Largest Integer in the Array                  |
+|                Find the Length of the Longest Common Prefix                 |
 |                   Find the Level of Tree with Minimum Sum                   |
 |                  Find the Minimum Area to Cover All Ones I                  |
 |                       Find the Number of Good Pairs I                       |
@@ -232,6 +236,7 @@
 |               Minimum Operations to Exceed Threshold Value II               |
 |                              Minimum Path Sum                               |
 |                          Minimum Size Subarray Sum                          |
+|                           Minimum Time Difference                           |
 |                               Missing Number                                |
 |                              Most Common Word                               |
 |                         Most Profit Assigning Work                          |
@@ -339,6 +344,7 @@
 |                          Sum Root to Leaf Numbers                           |
 |                    Sum of Digits of String After Convert                    |
 |                             Sum of Left Leaves                              |
+|                       Sum of Prefix Scores of Strings                       |
 |                            Sum of Square Numbers                            |
 |                           Sum of Unique Elements                            |
 |                               Summary Ranges                                |
