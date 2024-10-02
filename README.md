@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 369
+## Total questions solved: 378
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -33,8 +33,10 @@
 |                         Binary Tree Right Side View                         |
 |                    Binary Tree Vertical Order Traversal                     |
 |                  Binary Tree Zigzag Level Order Traversal                   |
+|                        Buildings With an Ocean View                         |
 |                             Buy Two Chocolates                              |
 |                       Cheapest Flights Within K Stops                       |
+|                   Check If Array Pairs Are Divisible by k                   |
 |                  Check If Two String Arrays are Equivalent                  |
 |                   Check if All A's Appears Before All B's                   |
 |                      Check if the Sentence Is Pangram                       |
@@ -81,6 +83,7 @@
 |                               Design HashSet                                |
 |                             Design Hit Counter                              |
 |                            Design Parking System                            |
+|                   Design a Stack With Increment Operation                   |
 |                              Destination City                               |
 |                               Detect Capital                                |
 |                    Determine if String Halves Are Alike                     |
@@ -141,6 +144,7 @@
 |                                     IPO                                     |
 |                        Implement Queue using Stacks                         |
 |                        Implement Trie (Prefix Tree)                         |
+|                       Implement Trie II (Prefix Tree)                       |
 |                          Inorder Successor in BST                           |
 |                        Insert Delete GetRandom O(1)                         |
 |               Insert Greatest Common Divisors in Linked List                |
@@ -151,6 +155,7 @@
 |                             Invert Binary Tree                              |
 |                             Is Graph Bipartite?                             |
 |                               Is Subsequence                                |
+|                              Jewels and Stones                              |
 |                                  Jump Game                                  |
 |                                Jump Game II                                 |
 |                                Jump Game III                                |
@@ -180,6 +185,7 @@
 |               Longest Substring Without Repeating Characters                |
 |            Longest Substring with At Most K Distinct Characters             |
 |           Longest Substring with At Most Two Distinct Characters            |
+|                       Longest Word With All Prefixes                        |
 |                         Longest Word in Dictionary                          |
 |                 Longest Word in Dictionary through Deleting                 |
 |               Lowest Common Ancestor of a Binary Search Tree                |
@@ -192,6 +198,7 @@
 |                          Max Consecutive Ones III                           |
 |                          Max Number of K-Sum Pairs                          |
 |                     Maximize Distance to Closest Person                     |
+|                 Maximize the Total Height of Unique Towers                  |
 |                              Maximum 69 Number                              |
 |                        Maximum Depth of Binary Tree                         |
 |                         Maximum Depth of N-ary Tree                         |
@@ -281,6 +288,7 @@
 |                         Range Sum Query - Immutable                         |
 |                              Range Sum of BST                               |
 |                      Range Sum of Sorted Subarray Sums                      |
+|                         Rank Transform of an Array                          |
 |                                 Ransom Note                                 |
 |                      Rearrange Array Elements by Sign                       |
 |              Redistribute Characters to Make All Strings Equal              |
@@ -330,6 +338,7 @@
 |                                 Sort Colors                                 |
 |                                Sort an Array                                |
 |                               Sort the People                               |
+|                            Sorting the Sentence                             |
 |            Special Array With X Elements Greater Than or Equal X            |
 |                                Spiral Matrix                                |
 |                                   Sqrt(x)                                   |
