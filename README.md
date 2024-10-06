@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 378
+## Total questions solved: 382
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -89,6 +89,7 @@
 |                    Determine if String Halves Are Alike                     |
 |                     Determine if Two Strings Are Close                      |
 |                             Distribute Candies                              |
+|                  Divide Players Into Teams of Equal Skill                   |
 |                Double a Number Represented as a Linked List                 |
 |                                Edit Distance                                |
 |                          Encode and Decode Strings                          |
@@ -118,6 +119,7 @@
 |                             Find the Difference                             |
 |             Find the Index of the First Occurrence in a String              |
 |                      Find the Integer Added to Array I                      |
+|                  Find the K-th Character in String Game I                   |
 |                  Find the Kth Largest Integer in the Array                  |
 |                Find the Length of the Longest Common Prefix                 |
 |                   Find the Level of Tree with Minimum Sum                   |
@@ -276,6 +278,7 @@
 |                        Path with Maximum Probability                        |
 |                               Perfect Number                                |
 |                               Perfect Squares                               |
+|                            Permutation in String                            |
 |                                Permutations                                 |
 |                               Permutations II                               |
 |                                  Plus One                                   |
@@ -323,6 +326,7 @@
 |                           Search Insert Position                            |
 |                       Search in Rotated Sorted Array                        |
 |                       Search in a Binary Search Tree                        |
+|                           Sentence Similarity III                           |
 |                       Separate Black and White Balls                        |
 |                              Sequential Digits                              |
 |                                Set Mismatch                                 |
