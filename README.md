@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 382
+## Total questions solved: 385
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -213,6 +213,7 @@
 |                     Maximum Number of Points with Cost                      |
 |           Maximum Number of Vowels in a Substring of Given Length           |
 |                          Maximum Odd Binary Number                          |
+|               Maximum Possible Number by Binary Concatenation               |
 |                 Maximum Product of Two Elements in an Array                 |
 |                              Maximum Subarray                               |
 |                      Maximum Total Importance of Roads                      |
@@ -245,6 +246,7 @@
 |               Minimum Operations to Exceed Threshold Value II               |
 |                              Minimum Path Sum                               |
 |                          Minimum Size Subarray Sum                          |
+|               Minimum String Length After Removing Substrings               |
 |                           Minimum Time Difference                           |
 |                               Missing Number                                |
 |                              Most Common Word                               |
@@ -303,6 +305,7 @@
 |                    Remove Duplicates from Sorted List II                    |
 |                               Remove Element                                |
 |                         Remove Linked List Elements                         |
+|                         Remove Methods From Project                         |
 |                        Remove Nodes From Linked List                        |
 |                      Remove Nth Node From End of List                       |
 |                         Remove Vowels from a String                         |
