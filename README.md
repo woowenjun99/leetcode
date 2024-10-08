@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 385
+## Total questions solved: 388
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -202,6 +202,7 @@
 |                     Maximize Distance to Closest Person                     |
 |                 Maximize the Total Height of Unique Towers                  |
 |                              Maximum 69 Number                              |
+|                      Maximum Coins Heroes Can Collect                       |
 |                        Maximum Depth of Binary Tree                         |
 |                         Maximum Depth of N-ary Tree                         |
 |               Maximum Difference Between Increasing Elements                |
@@ -235,6 +236,7 @@
 |                      Minimum Cost to Convert String I                       |
 |                        Minimum Depth of Binary Tree                         |
 |    Minimum Difference Between Largest and Smallest Value in Three Moves     |
+|              Minimum Element After Replacement With Digit Sum               |
 |                   Minimum Flips to Make a OR b Equal to c                   |
 |                   Minimum Increment to Make Array Unique                    |
 |                  Minimum Number of Days to Make m Bouquets                  |
@@ -299,6 +301,7 @@
 |              Redistribute Characters to Make All Strings Equal              |
 |                            Redundant Connection                             |
 |                             Relative Sort Array                             |
+|                 Remove All Adjacent Duplicates in String II                 |
 |               Remove Duplicates From an Unsorted Linked List                |
 |                     Remove Duplicates from Sorted Array                     |
 |                     Remove Duplicates from Sorted List                      |
