@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 388
+## Total questions solved: 393
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -143,6 +143,7 @@
 |                                House Robber                                 |
 |                               House Robber II                               |
 |                              House Robber III                               |
+|                 How Many Apples Can You Put into the Basket                 |
 |                                     IPO                                     |
 |                        Implement Queue using Stacks                         |
 |                        Implement Trie (Prefix Tree)                         |
@@ -230,6 +231,7 @@
 |                       Min Cost to Connect All Points                        |
 |                                  Min Stack                                  |
 |                     Minimum Absolute Difference in BST                      |
+|                    Minimum Add to Make Parentheses Valid                    |
 |              Minimum Average of Smallest and Largest Elements               |
 |                     Minimum Bit Flips to Convert Number                     |
 |                            Minimum Common Value                             |
@@ -251,6 +253,7 @@
 |               Minimum String Length After Removing Substrings               |
 |                           Minimum Time Difference                           |
 |                               Missing Number                                |
+|                               Monotonic Stack                               |
 |                              Most Common Word                               |
 |                         Most Profit Assigning Work                          |
 |                                 Move Zeroes                                 |
@@ -369,6 +372,8 @@
 |                               Summary Ranges                                |
 |                       Swapping Nodes in a Linked List                       |
 |                     The Number of Ways to Make the Sum                      |
+|                 The Number of the Smallest Unoccupied Chair                 |
+|                            Third Maximum Number                             |
 |                                To Lower Case                                |
 |                           Top K Frequent Elements                           |
 |                            Top K Frequent Words                             |
