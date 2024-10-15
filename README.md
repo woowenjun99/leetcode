@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 393
+## Total questions solved: 397
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -33,11 +33,13 @@
 |                         Binary Tree Right Side View                         |
 |                    Binary Tree Vertical Order Traversal                     |
 |                  Binary Tree Zigzag Level Order Traversal                   |
+|                            Boats to Save People                             |
 |                        Buildings With an Ocean View                         |
 |                             Buy Two Chocolates                              |
 |                       Cheapest Flights Within K Stops                       |
 |                   Check If Array Pairs Are Divisible by k                   |
 |                  Check If Two String Arrays are Equivalent                  |
+|                 Check If Word Is Valid After Substitutions                  |
 |                   Check if All A's Appears Before All B's                   |
 |                      Check if the Sentence Is Pangram                       |
 |                                 Clone Graph                                 |
@@ -89,6 +91,7 @@
 |                    Determine if String Halves Are Alike                     |
 |                     Determine if Two Strings Are Close                      |
 |                             Distribute Candies                              |
+|               Divide Intervals Into Minimum Number of Groups                |
 |                  Divide Players Into Teams of Equal Skill                   |
 |                Double a Number Represented as a Linked List                 |
 |                                Edit Distance                                |
@@ -200,6 +203,7 @@
 |                            Max Consecutive Ones                             |
 |                          Max Consecutive Ones III                           |
 |                          Max Number of K-Sum Pairs                          |
+|                  Maximal Score After Applying K Operations                  |
 |                     Maximize Distance to Closest Person                     |
 |                 Maximize the Total Height of Unique Towers                  |
 |                              Maximum 69 Number                              |

@@ -1,7 +1,9 @@
 class Solution:
     def minimumSteps(self, s: str) -> int:
-        count = num_of_black = 0
-        for c in s:
-            if c == '0': count += num_of_black
-            else: num_of_black += 1
-        return count
+        answer = 0
+        right = len(s) - 1
+        for index in range(len(s) - 1, -1, -1):
+            if s[index] == "0": continue
+            answer += right - index
+            right -= 1
+        return answer
