@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 397
+## Total questions solved: 401
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -131,6 +131,7 @@
 |                Find the Student that Will Replace the Chalk                 |
 |                    Find the Winner of the Circular Game                     |
 |                     First Unique Character in a String                      |
+|                             First Unique Number                             |
 |                                  Fizz Buzz                                  |
 |                                 Flood Fill                                  |
 |                      Fraction Addition and Subtraction                      |
@@ -184,6 +185,7 @@
 |              Longest Common Subsequence Between Sorted Arrays               |
 |                        Longest Consecutive Sequence                         |
 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit  |
+|                            Longest Happy String                             |
 |                       Longest Increasing Subsequence                        |
 |                             Longest Palindrome                              |
 |                        Longest Palindromic Substring                        |
@@ -222,6 +224,7 @@
 |               Maximum Possible Number by Binary Concatenation               |
 |                 Maximum Product of Two Elements in an Array                 |
 |                              Maximum Subarray                               |
+|                                Maximum Swap                                 |
 |                      Maximum Total Importance of Roads                      |
 |                                Meeting Rooms                                |
 |                        Merge In Between Linked Lists                        |
@@ -323,6 +326,7 @@
 |            Replace Elements with Greatest Element on Right Side             |
 |                                Replace Words                                |
 |                    Restore the Array From Adjacent Pairs                    |
+|                      Return Length of Arguments Passed                      |
 |                               Reverse Integer                               |
 |                             Reverse Linked List                             |
 |                               Reverse String                                |
