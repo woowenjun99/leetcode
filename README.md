@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 401
+## Total questions solved: 404
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -61,6 +61,7 @@
 |                  Convert Sorted List to Binary Search Tree                  |
 |                         Count Days Without Meetings                         |
 |                    Count Elements With Maximum Frequency                    |
+|                 Count Number of Maximum Bitwise-OR Subsets                  |
 |                       Count Number of Nice Subarrays                        |
 |                       Count Pairs Of Similar Strings                        |
 |                   Count Pairs That Form a Complete Day I                    |
@@ -285,6 +286,7 @@
 |                           Palindrome Linked List                            |
 |                              Palindrome Number                              |
 |                           Palindromic Substrings                            |
+|                        Parsing A Boolean Expression                         |
 |                               Pass the Pillow                               |
 |                                  Path Sum                                   |
 |                                 Path Sum II                                 |
@@ -362,6 +364,7 @@
 |                            Sorting the Sentence                             |
 |            Special Array With X Elements Greater Than or Equal X            |
 |                                Spiral Matrix                                |
+|           Split a String Into the Max Number of Unique Substrings           |
 |                                   Sqrt(x)                                   |
 |         Step-By-Step Directions From a Binary Tree Node to Another          |
 |                           String Compression III                            |
