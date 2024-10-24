@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 404
+## Total questions solved: 406
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -75,6 +75,7 @@
 |                              Counting Elements                              |
 |                               Course Schedule                               |
 |                             Course Schedule II                              |
+|                          Cousins in Binary Tree II                          |
 |                    Create Binary Tree From Descriptions                     |
 |                         Create Hello World Function                         |
 |                             Custom Sort String                              |
@@ -134,6 +135,7 @@
 |                     First Unique Character in a String                      |
 |                             First Unique Number                             |
 |                                  Fizz Buzz                                  |
+|                        Flip Equivalent Binary Trees                         |
 |                                 Flood Fill                                  |
 |                      Fraction Addition and Subtraction                      |
 |                              Frequency Tracker                              |
