@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 406
+## Total questions solved: 409
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -226,6 +226,7 @@
 |                          Maximum Odd Binary Number                          |
 |               Maximum Possible Number by Binary Concatenation               |
 |                 Maximum Product of Two Elements in an Array                 |
+|                     Maximum Size Subarray Sum Equals k                      |
 |                              Maximum Subarray                               |
 |                                Maximum Swap                                 |
 |                      Maximum Total Importance of Roads                      |
@@ -325,6 +326,7 @@
 |                         Remove Methods From Project                         |
 |                        Remove Nodes From Linked List                        |
 |                      Remove Nth Node From End of List                       |
+|                   Remove Sub-Folders from the Filesystem                    |
 |                         Remove Vowels from a String                         |
 |                        Removing Stars From a String                         |
 |            Replace Elements with Greatest Element on Right Side             |
@@ -383,6 +385,7 @@
 |                            Sum of Square Numbers                            |
 |                           Sum of Unique Elements                            |
 |                               Summary Ranges                                |
+|                             Swap Nodes in Pairs                             |
 |                       Swapping Nodes in a Linked List                       |
 |                     The Number of Ways to Make the Sum                      |
 |                 The Number of the Smallest Unoccupied Chair                 |
