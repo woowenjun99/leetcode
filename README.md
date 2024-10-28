@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 409
+## Total questions solved: 413
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -40,6 +40,7 @@
 |                   Check If Array Pairs Are Divisible by k                   |
 |                  Check If Two String Arrays are Equivalent                  |
 |                 Check If Word Is Valid After Substitutions                  |
+|        Check If a Word Occurs As a Prefix of Any Word in a Sentence         |
 |                   Check if All A's Appears Before All B's                   |
 |                      Check if the Sentence Is Pangram                       |
 |                                 Clone Graph                                 |
@@ -175,6 +176,7 @@
 |                       Kth Largest Element in an Array                       |
 |                      Kth Largest Sum in a Binary Tree                       |
 |                        Kth Smallest Element in a BST                        |
+|                   Largest Number At Least Twice of Others                   |
 |           Largest Positive Integer That Exists With Its Negative            |
 |               Largest Substring Between Two Equal Characters                |
 |                              Last Stone Weight                              |
@@ -193,6 +195,7 @@
 |                             Longest Palindrome                              |
 |                        Longest Palindromic Substring                        |
 |                   Longest Repeating Character Replacement                   |
+|                      Longest Square Streak in an Array                      |
 |               Longest Substring Without Repeating Characters                |
 |            Longest Substring with At Most K Distinct Characters             |
 |           Longest Substring with At Most Two Distinct Characters            |
@@ -368,6 +371,7 @@
 |                            Sorting the Sentence                             |
 |            Special Array With X Elements Greater Than or Equal X            |
 |                                Spiral Matrix                                |
+|                         Split Linked List in Parts                          |
 |           Split a String Into the Max Number of Unique Substrings           |
 |                                   Sqrt(x)                                   |
 |         Step-By-Step Directions From a Binary Tree Node to Another          |
