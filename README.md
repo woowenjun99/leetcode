@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 413
+## Total questions solved: 416
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -206,6 +206,7 @@
 |                 Lowest Common Ancestor of a Binary Tree III                 |
 |                      Magnetic Force Between Two Balls                       |
 |                              Majority Element                               |
+|                            Make The String Great                            |
 |                Make Two Arrays Equal by Reversing Subarrays                 |
 |                             Max Area of Island                              |
 |                            Max Consecutive Ones                             |
@@ -263,6 +264,7 @@
 |               Minimum Operations to Exceed Threshold Value I                |
 |               Minimum Operations to Exceed Threshold Value II               |
 |                              Minimum Path Sum                               |
+|                  Minimum Remove to Make Valid Parentheses                   |
 |                          Minimum Size Subarray Sum                          |
 |               Minimum String Length After Removing Substrings               |
 |                           Minimum Time Difference                           |
@@ -394,6 +396,7 @@
 |                     The Number of Ways to Make the Sum                      |
 |                 The Number of the Smallest Unoccupied Chair                 |
 |                            Third Maximum Number                             |
+|                             To Be Or Not To Be                              |
 |                                To Lower Case                                |
 |                           Top K Frequent Elements                           |
 |                            Top K Frequent Words                             |
