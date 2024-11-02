@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 416
+## Total questions solved: 426
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -43,6 +43,7 @@
 |        Check If a Word Occurs As a Prefix of Any Word in a Sentence         |
 |                   Check if All A's Appears Before All B's                   |
 |                      Check if the Sentence Is Pangram                       |
+|                              Circular Sentence                              |
 |                                 Clone Graph                                 |
 |                        Closest Leaf in a Binary Tree                        |
 |                                 Coin Change                                 |
@@ -53,6 +54,7 @@
 |                           Compare Version Numbers                           |
 |                           Concatenation of Array                            |
 |                     Connecting Cities With Minimum Cost                     |
+|                  Construct String with Minimum Cost (Easy)                  |
 |                          Container With Most Water                          |
 |                             Contains Duplicate                              |
 |                       Convert 1D Array Into 2D Array                        |
@@ -81,12 +83,14 @@
 |                         Create Hello World Function                         |
 |                             Custom Sort String                              |
 |                             Daily Temperatures                              |
+|                   Delete Characters to Make Fancy String                    |
 |                        Delete Node in a Linked List                         |
 |               Delete Nodes From Linked List Present in Array                |
 |                        Design Bounded Blocking Queue                        |
 |                               Design HashMap                                |
 |                               Design HashSet                                |
 |                             Design Hit Counter                              |
+|                         Design Neighbor Sum Service                         |
 |                            Design Parking System                            |
 |                   Design a Stack With Increment Operation                   |
 |                              Destination City                               |
@@ -119,6 +123,7 @@
 |                 Find Occurrences of an Element in an Array                  |
 |                    Find Players With Zero or One Losses                     |
 |                  Find Smallest Letter Greater Than Target                   |
+|                       Find Words Containing Character                       |
 |                        Find if Digit Game Can Be Won                        |
 | Find the City With the Smallest Number of Neighbors at a Threshold Distance |
 |                        Find the Closest Marked Node                         |
@@ -133,6 +138,7 @@
 |                       Find the Number of Good Pairs I                       |
 |                Find the Student that Will Replace the Chalk                 |
 |                    Find the Winner of the Circular Game                     |
+|                    Find the Winning Player in Coin Game                     |
 |                     First Unique Character in a String                      |
 |                             First Unique Number                             |
 |                                  Fizz Buzz                                  |
@@ -318,6 +324,7 @@
 |                         Rank Transform of an Array                          |
 |                                 Ransom Note                                 |
 |                      Rearrange Array Elements by Sign                       |
+|                        Rearrange Words in a Sentence                        |
 |              Redistribute Characters to Make All Strings Equal              |
 |                            Redundant Connection                             |
 |                             Relative Sort Array                             |
@@ -358,6 +365,7 @@
 |                       Separate Black and White Balls                        |
 |                              Sequential Digits                              |
 |                                Set Mismatch                                 |
+|               Shortest Distance After Road Addition Queries I               |
 |                           Shortest Word Distance                            |
 |                         Shortest Word Distance III                          |
 |                       Sign of the Product of an Array                       |
@@ -366,6 +374,7 @@
 |                              Single Number III                              |
 |                       Smallest Number in Infinite Set                       |
 |                     Smallest String Starting From Leaf                      |
+|                               Snake in Matrix                               |
 |                        Sort Characters By Frequency                         |
 |                                 Sort Colors                                 |
 |                                Sort an Array                                |
@@ -418,5 +427,6 @@
 |                                Valid Sudoku                                 |
 |                         Validate Binary Search Tree                         |
 |                                Water Bottles                                |
+|                                 Word Break                                  |
 |                                 Word Search                                 |
 |                              Zigzag Conversion                              |
