@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 426
+## Total questions solved: 428
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -295,6 +295,7 @@
 |                       Number of Segments in a String                        |
 |                          Number of Senior Citizens                          |
 |     Number of Steps to Reduce a Number in Binary Representation to One      |
+|                            Odd Even Linked List                             |
 |                              One Edit Distance                              |
 |             Pairs of Songs With Total Durations Divisible by 60             |
 |                           Palindrome Linked List                            |
@@ -354,6 +355,7 @@
 |                        Reverse Words in a String III                        |
 |                           Robot Return to Origin                            |
 |                              Roman to Integer                               |
+|                                Rotate String                                |
 |                               Rotting Oranges                               |
 |                           Running Sum of 1d Array                           |
 |                                  Same Tree                                  |
