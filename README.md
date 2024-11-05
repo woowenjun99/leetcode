@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 428
+## Total questions solved: 437
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -31,12 +31,14 @@
 |                       Binary Tree Postorder Traversal                       |
 |                       Binary Tree Preorder Traversal                        |
 |                         Binary Tree Right Side View                         |
+|                              Binary Tree Tilt                               |
 |                    Binary Tree Vertical Order Traversal                     |
 |                  Binary Tree Zigzag Level Order Traversal                   |
 |                            Boats to Save People                             |
 |                        Buildings With an Ocean View                         |
 |                             Buy Two Chocolates                              |
 |                       Cheapest Flights Within K Stops                       |
+|                            Check Balanced String                            |
 |                   Check If Array Pairs Are Divisible by k                   |
 |                  Check If Two String Arrays are Equivalent                  |
 |                 Check If Word Is Valid After Substitutions                  |
@@ -172,6 +174,7 @@
 |                             Invert Binary Tree                              |
 |                             Is Graph Bipartite?                             |
 |                               Is Subsequence                                |
+|                             Isomorphic Strings                              |
 |                              Jewels and Stones                              |
 |                                  Jump Game                                  |
 |                                Jump Game II                                 |
@@ -183,6 +186,7 @@
 |                      Kth Largest Sum in a Binary Tree                       |
 |                        Kth Smallest Element in a BST                        |
 |                   Largest Number At Least Twice of Others                   |
+|                        Largest Odd Number in String                         |
 |           Largest Positive Integer That Exists With Its Negative            |
 |               Largest Substring Between Two Equal Characters                |
 |                              Last Stone Weight                              |
@@ -262,6 +266,7 @@
 |              Minimum Element After Replacement With Digit Sum               |
 |                   Minimum Flips to Make a OR b Equal to c                   |
 |                   Minimum Increment to Make Array Unique                    |
+|          Minimum Number of Changes to Make Binary String Beautiful          |
 |                  Minimum Number of Days to Make m Bouquets                  |
 |                  Minimum Number of K Consecutive Bit Flips                  |
 |                  Minimum Number of Moves to Seat Everyone                   |
@@ -301,7 +306,9 @@
 |                           Palindrome Linked List                            |
 |                              Palindrome Number                              |
 |                           Palindromic Substrings                            |
+|                              Parallel Courses                               |
 |                        Parsing A Boolean Expression                         |
+|                               Partition List                                |
 |                               Pass the Pillow                               |
 |                                  Path Sum                                   |
 |                                 Path Sum II                                 |
@@ -319,6 +326,7 @@
 |                        Product of Array Except Self                         |
 |                       Put Boxes Into the Warehouse I                        |
 |                       Put Boxes Into the Warehouse II                       |
+|                               Range Addition                                |
 |                         Range Sum Query - Immutable                         |
 |                              Range Sum of BST                               |
 |                      Range Sum of Sorted Subarray Sums                      |
@@ -379,6 +387,7 @@
 |                               Snake in Matrix                               |
 |                        Sort Characters By Frequency                         |
 |                                 Sort Colors                                 |
+|                           Sort Vowels in a String                           |
 |                                Sort an Array                                |
 |                               Sort the People                               |
 |                            Sorting the Sentence                             |
