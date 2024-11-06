@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 437
+## Total questions solved: 445
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -15,6 +15,7 @@
 |                       All Paths From Source to Target                       |
 |                Amount of Time for Binary Tree to Be Infected                |
 |               Append Characters to String to Make Subsequence               |
+|                        As Far from Land as Possible                         |
 |                               Assign Cookies                                |
 |                            Average Waiting Time                             |
 |                      Average of Levels in Binary Tree                       |
@@ -37,6 +38,7 @@
 |                            Boats to Save People                             |
 |                        Buildings With an Ocean View                         |
 |                             Buy Two Chocolates                              |
+|                   Capacity To Ship Packages Within D Days                   |
 |                       Cheapest Flights Within K Stops                       |
 |                            Check Balanced String                            |
 |                   Check If Array Pairs Are Divisible by k                   |
@@ -126,6 +128,7 @@
 |                    Find Players With Zero or One Losses                     |
 |                  Find Smallest Letter Greater Than Target                   |
 |                       Find Words Containing Character                       |
+|                         Find if Array Can Be Sorted                         |
 |                        Find if Digit Game Can Be Won                        |
 | Find the City With the Smallest Number of Neighbors at a Threshold Distance |
 |                        Find the Closest Marked Node                         |
@@ -272,6 +275,7 @@
 |                  Minimum Number of Moves to Seat Everyone                   |
 |              Minimum Number of Operations to Make Array Empty               |
 |             Minimum Number of Steps to Make Two Strings Anagram             |
+|                Minimum Number of Vertices to Reach All Nodes                |
 |               Minimum Operations to Exceed Threshold Value I                |
 |               Minimum Operations to Exceed Threshold Value II               |
 |                              Minimum Path Sum                               |
@@ -338,6 +342,7 @@
 |                            Redundant Connection                             |
 |                             Relative Sort Array                             |
 |                 Remove All Adjacent Duplicates in String II                 |
+|         Remove Colored Pieces if Both Neighbors are the Same Color          |
 |               Remove Duplicates From an Unsorted Linked List                |
 |                     Remove Duplicates from Sorted Array                     |
 |                     Remove Duplicates from Sorted List                      |
@@ -352,6 +357,7 @@
 |                        Removing Stars From a String                         |
 |            Replace Elements with Greatest Element on Right Side             |
 |                                Replace Words                                |
+|                            Restore IP Addresses                             |
 |                    Restore the Array From Adjacent Pairs                    |
 |                      Return Length of Arguments Passed                      |
 |                               Reverse Integer                               |
@@ -385,6 +391,7 @@
 |                       Smallest Number in Infinite Set                       |
 |                     Smallest String Starting From Leaf                      |
 |                               Snake in Matrix                               |
+|                            Sort Array By Parity                             |
 |                        Sort Characters By Frequency                         |
 |                                 Sort Colors                                 |
 |                           Sort Vowels in a String                           |
@@ -416,6 +423,7 @@
 |                     The Number of Ways to Make the Sum                      |
 |                 The Number of the Smallest Unoccupied Chair                 |
 |                            Third Maximum Number                             |
+|                         Time Needed to Buy Tickets                          |
 |                             To Be Or Not To Be                              |
 |                                To Lower Case                                |
 |                           Top K Frequent Elements                           |
