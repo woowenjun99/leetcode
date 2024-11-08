@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 445
+## Total questions solved: 447
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -173,6 +173,7 @@
 |                               Insert Interval                               |
 |                             Integer Replacement                             |
 |                       Intersection of Multiple Arrays                       |
+|                     Intersection of Three Sorted Arrays                     |
 |                         Intersection of Two Arrays                          |
 |                             Invert Binary Tree                              |
 |                             Is Graph Bipartite?                             |
@@ -247,6 +248,7 @@
 |                              Maximum Subarray                               |
 |                                Maximum Swap                                 |
 |                      Maximum Total Importance of Roads                      |
+|                         Maximum XOR for Each Query                          |
 |                                Meeting Rooms                                |
 |                        Merge In Between Linked Lists                        |
 |                               Merge Intervals                               |
