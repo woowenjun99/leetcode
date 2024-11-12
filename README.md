@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 447
+## Total questions solved: 459
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -53,6 +53,7 @@
 |                                 Coin Change                                 |
 |                               Coin Change II                                |
 |                               Combination Sum                               |
+|                             Combination Sum II                              |
 |                                Combinations                                 |
 |                             Combine Two Tables                              |
 |                           Compare Version Numbers                           |
@@ -79,6 +80,7 @@
 |                   Count the Number of Consistent Strings                    |
 |                  Count the Number of Special Characters I                   |
 |                                   Counter                                   |
+|                                Counting Bits                                |
 |                              Counting Elements                              |
 |                               Course Schedule                               |
 |                             Course Schedule II                              |
@@ -269,6 +271,7 @@
 |                        Minimum Depth of Binary Tree                         |
 |    Minimum Difference Between Largest and Smallest Value in Three Moves     |
 |              Minimum Element After Replacement With Digit Sum               |
+|                          Minimum Falling Path Sum                           |
 |                   Minimum Flips to Make a OR b Equal to c                   |
 |                   Minimum Increment to Make Array Unique                    |
 |          Minimum Number of Changes to Make Binary String Beautiful          |
@@ -287,7 +290,9 @@
 |                           Minimum Time Difference                           |
 |                               Missing Number                                |
 |                               Monotonic Stack                               |
+|                     Most Beautiful Item for Each Query                      |
 |                              Most Common Word                               |
+|                          Most Frequent Subtree Sum                          |
 |                         Most Profit Assigning Work                          |
 |                                 Move Zeroes                                 |
 |                      N-ary Tree Level Order Traversal                       |
@@ -315,6 +320,8 @@
 |                              Parallel Courses                               |
 |                        Parsing A Boolean Expression                         |
 |                               Partition List                                |
+|                              Pascal's Triangle                              |
+|                            Pascal's Triangle II                             |
 |                               Pass the Pillow                               |
 |                                  Path Sum                                   |
 |                                 Path Sum II                                 |
@@ -327,6 +334,7 @@
 |                               Permutations II                               |
 |                                  Plus One                                   |
 |                               Power of Three                                |
+|                         Prime Subtraction Operation                         |
 |                          Print FooBar Alternately                           |
 |                               Print in Order                                |
 |                        Product of Array Except Self                         |
@@ -371,6 +379,7 @@
 |                        Reverse Words in a String III                        |
 |                           Robot Return to Origin                            |
 |                              Roman to Integer                               |
+|                                 Rotate List                                 |
 |                                Rotate String                                |
 |                               Rotting Oranges                               |
 |                           Running Sum of 1d Array                           |
@@ -396,8 +405,10 @@
 |                            Sort Array By Parity                             |
 |                        Sort Characters By Frequency                         |
 |                                 Sort Colors                                 |
+|                    Sort Integers by The Number of 1 Bits                    |
 |                           Sort Vowels in a String                           |
 |                                Sort an Array                                |
+|                          Sort the Jumbled Numbers                           |
 |                               Sort the People                               |
 |                            Sorting the Sentence                             |
 |            Special Array With X Elements Greater Than or Equal X            |
@@ -422,6 +433,7 @@
 |                               Summary Ranges                                |
 |                             Swap Nodes in Pairs                             |
 |                       Swapping Nodes in a Linked List                       |
+|                                 Target Sum                                  |
 |                     The Number of Ways to Make the Sum                      |
 |                 The Number of the Smallest Unoccupied Chair                 |
 |                            Third Maximum Number                             |
