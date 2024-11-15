@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 459
+## Total questions solved: 464
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -135,6 +135,7 @@
 | Find the City With the Smallest Number of Neighbors at a Threshold Distance |
 |                        Find the Closest Marked Node                         |
 |                             Find the Difference                             |
+|                          Find the Duplicate Number                          |
 |             Find the Index of the First Occurrence in a String              |
 |                      Find the Integer Added to Array I                      |
 |                  Find the K-th Character in String Game I                   |
@@ -300,6 +301,7 @@
 |                        N-ary Tree Preorder Traversal                        |
 |                     Nearest Exit from Entrance in Maze                      |
 |                             Network Delay Time                              |
+|                           Next Greater Element I                            |
 |                              Number of 1 Bits                               |
 |              Number of Bit Changes to Make Two Integers Equal               |
 |            Number of Connected Components in an Undirected Graph            |
@@ -316,6 +318,7 @@
 |             Pairs of Songs With Total Durations Divisible by 60             |
 |                           Palindrome Linked List                            |
 |                              Palindrome Number                              |
+|                           Palindrome Partitioning                           |
 |                           Palindromic Substrings                            |
 |                              Parallel Courses                               |
 |                        Parsing A Boolean Expression                         |
@@ -396,6 +399,7 @@
 |                           Shortest Word Distance                            |
 |                         Shortest Word Distance III                          |
 |                       Sign of the Product of an Array                       |
+|                                Simplify Path                                |
 |                      Single Element in a Sorted Array                       |
 |                                Single Number                                |
 |                              Single Number III                              |
@@ -420,6 +424,7 @@
 |                           String Compression III                            |
 |                          String to Integer (atoi)                           |
 |                         Student Attendance Record I                         |
+|                        Subarray Product Less Than K                         |
 |                            Subarray Sum Equals K                            |
 |                        Subarray Sums Divisible by K                         |
 |                                   Subsets                                   |

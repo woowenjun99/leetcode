@@ -7,5 +7,6 @@ class Solution:
         for i in range(len(s) - 1, -1, -1):
             for word in wordDict:
                 if i + len(word) > len(s) or s[i:i+len(word)] != word: continue
-                if not dp[i]: dp[i] = True and dp[i + len(word)]
+                dp[i] = True and dp[i+len(word)]
+                if dp[i]: break
         return dp[0]
