@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 464
+## Total questions solved: 467
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -89,6 +89,7 @@
 |                         Create Hello World Function                         |
 |                             Custom Sort String                              |
 |                             Daily Temperatures                              |
+|                               Defuse the Bomb                               |
 |                   Delete Characters to Make Fancy String                    |
 |                        Delete Node in a Linked List                         |
 |               Delete Nodes From Linked List Present in Array                |
@@ -144,6 +145,8 @@
 |                   Find the Level of Tree with Minimum Sum                   |
 |                  Find the Minimum Area to Cover All Ones I                  |
 |                       Find the Number of Good Pairs I                       |
+|                    Find the Power of K-Size Subarrays I                     |
+|                    Find the Power of K-Size Subarrays II                    |
 |                Find the Student that Will Replace the Chalk                 |
 |                    Find the Winner of the Circular Game                     |
 |                    Find the Winning Player in Coin Game                     |
