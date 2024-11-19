@@ -1,8 +1,8 @@
-from typing import List
 from collections import defaultdict
+from typing import List
 
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        res = defaultdict(list)
-        for word in strs: res["".join(sorted(word))].append(word)
-        return res.values()
+        mappers = defaultdict(list)
+        for word in strs: mappers["".join(sorted(word))].append(word)
+        return list(mappers.values())

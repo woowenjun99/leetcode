@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 467
+## Total questions solved: 470
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -252,6 +252,7 @@
 |                 Maximum Product of Two Elements in an Array                 |
 |                     Maximum Size Subarray Sum Equals k                      |
 |                              Maximum Subarray                               |
+|               Maximum Sum of Distinct Subarrays With Length K               |
 |                                Maximum Swap                                 |
 |                      Maximum Total Importance of Roads                      |
 |                         Maximum XOR for Each Query                          |
@@ -316,6 +317,7 @@
 |                       Number of Segments in a String                        |
 |                          Number of Senior Citizens                          |
 |     Number of Steps to Reduce a Number in Binary Representation to One      |
+|              Number of Unique Flavors After Sharing K Candies               |
 |                            Odd Even Linked List                             |
 |                              One Edit Distance                              |
 |             Pairs of Songs With Total Durations Divisible by 60             |
@@ -357,6 +359,7 @@
 |              Redistribute Characters to Make All Strings Equal              |
 |                            Redundant Connection                             |
 |                             Relative Sort Array                             |
+|                  Remove All Adjacent Duplicates In String                   |
 |                 Remove All Adjacent Duplicates in String II                 |
 |         Remove Colored Pieces if Both Neighbors are the Same Color          |
 |               Remove Duplicates From an Unsorted Linked List                |
