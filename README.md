@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 470
+## Total questions solved: 480
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -11,6 +11,7 @@
 |                               Add Two Numbers                               |
 |                             Add Two Numbers II                              |
 |               Add Two Polynomials Represented as Linked Lists               |
+|                          Adding Spaces to a String                          |
 |                   All Elements in Two Binary Search Trees                   |
 |                       All Paths From Source to Target                       |
 |                Amount of Time for Binary Tree to Be Infected                |
@@ -36,6 +37,7 @@
 |                    Binary Tree Vertical Order Traversal                     |
 |                  Binary Tree Zigzag Level Order Traversal                   |
 |                            Boats to Save People                             |
+|                           Books with NULL Ratings                           |
 |                        Buildings With an Ocean View                         |
 |                             Buy Two Chocolates                              |
 |                   Capacity To Ship Packages Within D Days                   |
@@ -59,10 +61,12 @@
 |                           Compare Version Numbers                           |
 |                           Concatenation of Array                            |
 |                     Connecting Cities With Minimum Cost                     |
+|                      Construct String from Binary Tree                      |
 |                  Construct String with Minimum Cost (Easy)                  |
 |                          Container With Most Water                          |
 |                             Contains Duplicate                              |
 |                       Convert 1D Array Into 2D Array                        |
+|                         Convert BST to Greater Tree                         |
 |                    Convert Doubly Linked List to Array I                    |
 |                   Convert Doubly Linked List to Array II                    |
 |                 Convert Sorted Array to Binary Search Tree                  |
@@ -97,6 +101,7 @@
 |                               Design HashMap                                |
 |                               Design HashSet                                |
 |                             Design Hit Counter                              |
+|                             Design Linked List                              |
 |                         Design Neighbor Sum Service                         |
 |                            Design Parking System                            |
 |                   Design a Stack With Increment Operation                   |
@@ -118,6 +123,7 @@
 |                              Fibonacci Number                               |
 |                        Find All Anagrams in a String                        |
 |                         Find All Groups of Farmland                         |
+|                            Find Anagram Mappings                            |
 |                         Find Bottom Left Tree Value                         |
 |                           Find Common Characters                            |
 |                            Find Customer Referee                            |
@@ -265,6 +271,7 @@
 |                           Merge Two Sorted Lists                            |
 |                            Merge k Sorted Lists                             |
 |                          Middle of the Linked List                          |
+|                          Min Cost Climbing Stairs                           |
 |                       Min Cost to Connect All Points                        |
 |                                  Min Stack                                  |
 |                     Minimum Absolute Difference in BST                      |
@@ -397,6 +404,7 @@
 |                           Search Insert Position                            |
 |                       Search in Rotated Sorted Array                        |
 |                       Search in a Binary Search Tree                        |
+|                          Seat Reservation Manager                           |
 |                           Sentence Similarity III                           |
 |                       Separate Black and White Balls                        |
 |                              Sequential Digits                              |
@@ -405,6 +413,7 @@
 |                           Shortest Word Distance                            |
 |                         Shortest Word Distance III                          |
 |                       Sign of the Product of an Array                       |
+|                             Simple Bank System                              |
 |                                Simplify Path                                |
 |                      Single Element in a Sorted Array                       |
 |                                Single Number                                |
@@ -444,6 +453,7 @@
 |                               Summary Ranges                                |
 |                             Swap Nodes in Pairs                             |
 |                       Swapping Nodes in a Linked List                       |
+|                               Symmetric Tree                                |
 |                                 Target Sum                                  |
 |                     The Number of Ways to Make the Sum                      |
 |                 The Number of the Smallest Unoccupied Chair                 |
