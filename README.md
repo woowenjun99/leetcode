@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 480
+## Total questions solved: 491
 
 |                                  Question                                   |
 | :-------------------------------------------------------------------------: |
@@ -16,6 +16,8 @@
 |                       All Paths From Source to Target                       |
 |                Amount of Time for Binary Tree to Be Infected                |
 |               Append Characters to String to Make Subsequence               |
+|                    Apply Operations to Make String Empty                    |
+|                                Array Nesting                                |
 |                        As Far from Land as Possible                         |
 |                               Assign Cookies                                |
 |                            Average Waiting Time                             |
@@ -104,6 +106,7 @@
 |                             Design Linked List                              |
 |                         Design Neighbor Sum Service                         |
 |                            Design Parking System                            |
+|                           Design Phone Directory                            |
 |                   Design a Stack With Increment Operation                   |
 |                              Destination City                               |
 |                               Detect Capital                                |
@@ -125,6 +128,7 @@
 |                         Find All Groups of Farmland                         |
 |                            Find Anagram Mappings                            |
 |                         Find Bottom Left Tree Value                         |
+|                              Find Champion II                               |
 |                           Find Common Characters                            |
 |                            Find Customer Referee                            |
 |                       Find Distance in a Binary Tree                        |
@@ -179,6 +183,7 @@
 |                        Implement Queue using Stacks                         |
 |                        Implement Trie (Prefix Tree)                         |
 |                       Implement Trie II (Prefix Tree)                       |
+|                        Increasing Order Search Tree                         |
 |                          Inorder Successor in BST                           |
 |                        Insert Delete GetRandom O(1)                         |
 |               Insert Greatest Common Divisors in Linked List                |
@@ -296,6 +301,7 @@
 |               Minimum Operations to Exceed Threshold Value I                |
 |               Minimum Operations to Exceed Threshold Value II               |
 |                              Minimum Path Sum                               |
+|                        Minimum Positive Sum Subarray                        |
 |                  Minimum Remove to Make Valid Parentheses                   |
 |                          Minimum Size Subarray Sum                          |
 |               Minimum String Length After Removing Substrings               |
@@ -362,6 +368,7 @@
 |                         Rank Transform of an Array                          |
 |                                 Ransom Note                                 |
 |                      Rearrange Array Elements by Sign                       |
+|                Rearrange K Substrings to Form Target String                 |
 |                        Rearrange Words in a Sentence                        |
 |              Redistribute Characters to Make All Strings Equal              |
 |                            Redundant Connection                             |
@@ -388,6 +395,7 @@
 |                      Return Length of Arguments Passed                      |
 |                               Reverse Integer                               |
 |                             Reverse Linked List                             |
+|                      Reverse Odd Levels of Binary Tree                      |
 |                               Reverse String                                |
 |             Reverse Substrings Between Each Pair of Parentheses             |
 |                         Reverse Vowels of a String                          |
@@ -402,8 +410,10 @@
 |                                  Same Tree                                  |
 |                              Score of a String                              |
 |                           Search Insert Position                            |
+|                          Search Suggestions System                          |
 |                       Search in Rotated Sorted Array                        |
 |                       Search in a Binary Search Tree                        |
+|                  Search in a Sorted Array of Unknown Size                   |
 |                          Seat Reservation Manager                           |
 |                           Sentence Similarity III                           |
 |                       Separate Black and White Balls                        |
@@ -480,6 +490,7 @@
 |                            Valid Perfect Square                             |
 |                                Valid Sudoku                                 |
 |                         Validate Binary Search Tree                         |
+|                  Vertical Order Traversal of a Binary Tree                  |
 |                                Water Bottles                                |
 |                                 Word Break                                  |
 |                                 Word Search                                 |
