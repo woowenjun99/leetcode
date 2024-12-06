@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 497
+## Total questions solved: 499
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -241,6 +241,7 @@
 |                   Lowest Common Ancestor of a Binary Tree III                   |
 |                        Magnetic Force Between Two Balls                         |
 |                                Majority Element                                 |
+|                Make String a Subsequence Using Cyclic Increments                |
 |                              Make The String Great                              |
 |                  Make Two Arrays Equal by Reversing Subarrays                   |
 |                               Max Area of Island                                |
@@ -318,6 +319,7 @@
 |                                Most Common Word                                 |
 |                            Most Frequent Subtree Sum                            |
 |                           Most Profit Assigning Work                            |
+|                         Move Pieces to Obtain a String                          |
 |                                   Move Zeroes                                   |
 |                        N-ary Tree Level Order Traversal                         |
 |                         N-ary Tree Postorder Traversal                          |
