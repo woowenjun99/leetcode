@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 499
+## Total questions solved: 504
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -127,6 +127,7 @@
 |                            Excel Sheet Column Number                            |
 |                                 Faulty Keyboard                                 |
 |                                Fibonacci Number                                 |
+|              Final Array State After K Multiplication Operations I              |
 |                          Find All Anagrams in a String                          |
 |                           Find All Groups of Farmland                           |
 |                              Find Anagram Mappings                              |
@@ -142,6 +143,7 @@
 |                         Find Mode in Binary Search Tree                         |
 |                   Find Occurrences of an Element in an Array                    |
 |                      Find Players With Zero or One Losses                       |
+|                Find Score of an Array After Marking All Elements                |
 |                    Find Smallest Letter Greater Than Target                     |
 |                         Find Words Containing Character                         |
 |                           Find if Array Can Be Sorted                           |
@@ -252,6 +254,7 @@
 |                       Maximize Distance to Closest Person                       |
 |                   Maximize the Total Height of Unique Towers                    |
 |                                Maximum 69 Number                                |
+|                           Maximum Average Pass Ratio                            |
 |                        Maximum Coins Heroes Can Collect                         |
 |                          Maximum Depth of Binary Tree                           |
 |                           Maximum Depth of N-ary Tree                           |
@@ -295,6 +298,7 @@
 |                Minimum Element After Replacement With Digit Sum                 |
 |                            Minimum Falling Path Sum                             |
 |                     Minimum Flips to Make a OR b Equal to c                     |
+|                            Minimum Genetic Mutation                             |
 |                     Minimum Increment to Make Array Unique                      |
 |                       Minimum Levels to Gain More Points                        |
 |            Minimum Number of Changes to Make Binary String Beautiful            |
@@ -472,6 +476,7 @@
 |                               Swap Nodes in Pairs                               |
 |                         Swapping Nodes in a Linked List                         |
 |                                 Symmetric Tree                                  |
+|                        Take Gifts From the Richest Pile                         |
 |                                   Target Sum                                    |
 |                       The Number of Ways to Make the Sum                        |
 |                   The Number of the Smallest Unoccupied Chair                   |
