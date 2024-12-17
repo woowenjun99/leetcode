@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 504
+## Total questions solved: 505
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -65,6 +65,7 @@
 |                             Compare Version Numbers                             |
 |                             Concatenation of Array                              |
 |                       Connecting Cities With Minimum Cost                       |
+|                       Construct String With Repeat Limit                        |
 |                        Construct String from Binary Tree                        |
 |                    Construct String with Minimum Cost (Easy)                    |
 |                            Container With Most Water                            |
