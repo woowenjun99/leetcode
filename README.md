@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 505
+## Total questions solved: 512
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -13,6 +13,7 @@
 |                 Add Two Polynomials Represented as Linked Lists                 |
 |                            Adding Spaces to a String                            |
 |                     All Elements in Two Binary Search Trees                     |
+|                       All Nodes Distance K in Binary Tree                       |
 |                         All Paths From Source to Target                         |
 |                  Amount of Time for Binary Tree to Be Infected                  |
 |                 Append Characters to String to Make Subsequence                 |
@@ -86,6 +87,7 @@
 |                     Count Pairs That Form a Complete Day II                     |
 |                                  Count Primes                                   |
 |              Count Triplets That Can Form Two Arrays of Equal XOR               |
+|                          Count Vowel Strings in Ranges                          |
 |                         Count of Matches in Tournament                          |
 |                     Count the Number of Consistent Strings                      |
 |                    Count the Number of Special Characters I                     |
@@ -180,6 +182,7 @@
 |                          Guess Number Higher or Lower                           |
 |                                Hand of Straights                                |
 |                                  Happy Number                                   |
+|                               Hash Divided String                               |
 |                                 Height Checker                                  |
 |                                  House Robber                                   |
 |                                 House Robber II                                 |
@@ -248,6 +251,7 @@
 |                              Make The String Great                              |
 |                  Make Two Arrays Equal by Reversing Subarrays                   |
 |                               Max Area of Island                                |
+|                            Max Chunks To Make Sorted                            |
 |                              Max Consecutive Ones                               |
 |                            Max Consecutive Ones III                             |
 |                            Max Number of K-Sum Pairs                            |
@@ -270,6 +274,7 @@
 |                            Maximum Odd Binary Number                            |
 |                 Maximum Possible Number by Binary Concatenation                 |
 |                   Maximum Product of Two Elements in an Array                   |
+|                     Maximum Score After Splitting a String                      |
 |                       Maximum Size Subarray Sum Equals k                        |
 |                                Maximum Subarray                                 |
 |                 Maximum Sum of Distinct Subarrays With Length K                 |
@@ -312,6 +317,7 @@
 |                    Minimum Obstacle Removal to Reach Corner                     |
 |                 Minimum Operations to Exceed Threshold Value I                  |
 |                 Minimum Operations to Exceed Threshold Value II                 |
+|             Minimum Operations to Make Columns Strictly Increasing              |
 |                                Minimum Path Sum                                 |
 |                          Minimum Positive Sum Subarray                          |
 |                    Minimum Remove to Make Valid Parentheses                     |
@@ -399,6 +405,7 @@
 |                          Remove Nodes From Linked List                          |
 |                        Remove Nth Node From End of List                         |
 |                     Remove Sub-Folders from the Filesystem                      |
+|                       Remove Trailing Zeros From a String                       |
 |                           Remove Vowels from a String                           |
 |                          Removing Stars From a String                           |
 |              Replace Elements with Greatest Element on Right Side               |
