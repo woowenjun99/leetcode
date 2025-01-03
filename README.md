@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 512
+## Total questions solved: 516
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -298,6 +298,7 @@
 |                Minimum Average of Smallest and Largest Elements                 |
 |                       Minimum Bit Flips to Convert Number                       |
 |                              Minimum Common Value                               |
+|                            Minimum Cost For Tickets                             |
 |                        Minimum Cost to Convert String I                         |
 |                          Minimum Depth of Binary Tree                           |
 |      Minimum Difference Between Largest and Smallest Value in Three Moves       |
@@ -350,6 +351,7 @@
 |                            Number of Senior Citizens                            |
 |       Number of Steps to Reduce a Number in Binary Representation to One        |
 |                Number of Unique Flavors After Sharing K Candies                 |
+|                          Number of Ways to Split Array                          |
 |                              Odd Even Linked List                               |
 |                                One Edit Distance                                |
 |               Pairs of Songs With Total Durations Divisible by 60               |
@@ -369,6 +371,7 @@
 |                          Path with Maximum Probability                          |
 |                                 Perfect Number                                  |
 |                                 Perfect Squares                                 |
+|                              Perform String Shifts                              |
 |                              Permutation in String                              |
 |                                  Permutations                                   |
 |                                 Permutations II                                 |
@@ -512,6 +515,7 @@
 |                                  Valid Sudoku                                   |
 |                           Validate Binary Search Tree                           |
 |                    Vertical Order Traversal of a Binary Tree                    |
+|                                 Walls and Gates                                 |
 |                                  Water Bottles                                  |
 |                                   Word Break                                    |
 |                                   Word Search                                   |
