@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 516
+## Total questions solved: 524
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -27,6 +27,7 @@
 |                              Balanced Binary Tree                               |
 |                         Best Time to Buy and Sell Stock                         |
 |                       Best Time to Buy and Sell Stock II                        |
+|                                  Big Countries                                  |
 |                                  Binary Search                                  |
 |                     Binary Search Tree to Greater Sum Tree                      |
 |                          Binary Tree Inorder Traversal                          |
@@ -85,6 +86,7 @@
 |                         Count Pairs Of Similar Strings                          |
 |                     Count Pairs That Form a Complete Day I                      |
 |                     Count Pairs That Form a Complete Day II                     |
+|                         Count Prefix and Suffix Pairs I                         |
 |                                  Count Primes                                   |
 |              Count Triplets That Can Form Two Arrays of Equal XOR               |
 |                          Count Vowel Strings in Ranges                          |
@@ -122,6 +124,7 @@
 |                 Divide Intervals Into Minimum Number of Groups                  |
 |                    Divide Players Into Teams of Equal Skill                     |
 |                  Double a Number Represented as a Linked List                   |
+|                                Duplicate Emails                                 |
 |                                  Edit Distance                                  |
 |                            Encode and Decode Strings                            |
 |                                Evaluate Division                                |
@@ -168,6 +171,7 @@
 |                  Find the Student that Will Replace the Chalk                   |
 |                      Find the Winner of the Circular Game                       |
 |                      Find the Winning Player in Coin Game                       |
+|                     First Completely Painted Row or Column                      |
 |                       First Unique Character in a String                        |
 |                               First Unique Number                               |
 |                                    Fizz Buzz                                    |
@@ -442,7 +446,9 @@
 |                         Separate Black and White Balls                          |
 |                                Sequential Digits                                |
 |                                  Set Mismatch                                   |
+|                               Shifting Letters II                               |
 |                 Shortest Distance After Road Addition Queries I                 |
+|                            Shortest Path to Get Food                            |
 |                             Shortest Word Distance                              |
 |                           Shortest Word Distance III                            |
 |                         Sign of the Product of an Array                         |
@@ -470,6 +476,7 @@
 |                                     Sqrt(x)                                     |
 |           Step-By-Step Directions From a Binary Tree Node to Another            |
 |                             String Compression III                              |
+|                           String Matching in an Array                           |
 |                            String to Integer (atoi)                             |
 |                           Student Attendance Record I                           |
 |                          Subarray Product Less Than K                           |
@@ -505,6 +512,7 @@
 |                           Two Sum IV - Input is a BST                           |
 |                               Two Sum Less Than K                               |
 |                                   Ugly Number                                   |
+|                    Unique Length-3 Palindromic Subsequences                     |
 |                          Unique Number of Occurrences                           |
 |                                  Unique Paths                                   |
 |                                 Unique Paths II                                 |
