@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 524
+## Total questions solved: 528
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -98,6 +98,7 @@
 |                                Counting Elements                                |
 |                                 Course Schedule                                 |
 |                               Course Schedule II                                |
+|                               Course Schedule IV                                |
 |                            Cousins in Binary Tree II                            |
 |                      Create Binary Tree From Descriptions                       |
 |                           Create Hello World Function                           |
@@ -120,6 +121,7 @@
 |                                 Detect Capital                                  |
 |                      Determine if String Halves Are Alike                       |
 |                       Determine if Two Strings Are Close                        |
+|                        Distinct Numbers in Each Subarray                        |
 |                               Distribute Candies                                |
 |                 Divide Intervals Into Minimum Number of Groups                  |
 |                    Divide Players Into Teams of Equal Skill                     |
@@ -273,6 +275,7 @@
 |                    Maximum Nesting Depth of the Parentheses                     |
 |                           Maximum Number of Balloons                            |
 |                       Maximum Number of Coins You Can Get                       |
+|                        Maximum Number of Fish in a Grid                         |
 |                       Maximum Number of Points with Cost                        |
 |             Maximum Number of Vowels in a Substring of Given Length             |
 |                            Maximum Odd Binary Number                            |
@@ -469,6 +472,7 @@
 |                            Sort the Jumbled Numbers                             |
 |                                 Sort the People                                 |
 |                              Sorting the Sentence                               |
+|                                 Special Array I                                 |
 |              Special Array With X Elements Greater Than or Equal X              |
 |                                  Spiral Matrix                                  |
 |                           Split Linked List in Parts                            |
