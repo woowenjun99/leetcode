@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 528
+## Total questions solved: 533
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -54,6 +54,7 @@
 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |
 |          Check If a Word Occurs As a Prefix of Any Word in a Sentence           |
 |                     Check if All A's Appears Before All B's                     |
+|                      Check if Array Is Sorted and Rotated                       |
 |                        Check if the Sentence Is Pangram                         |
 |                                Circular Sentence                                |
 |                                   Clone Graph                                   |
@@ -167,6 +168,7 @@
 |                  Find the Length of the Longest Common Prefix                   |
 |                     Find the Level of Tree with Minimum Sum                     |
 |                    Find the Minimum Area to Cover All Ones I                    |
+|               Find the Number of Distinct Colors Among the Balls                |
 |                         Find the Number of Good Pairs I                         |
 |                      Find the Power of K-Size Subarrays I                       |
 |                      Find the Power of K-Size Subarrays II                      |
@@ -253,6 +255,7 @@
 |                   Lowest Common Ancestor of a Binary Tree III                   |
 |                        Magnetic Force Between Two Balls                         |
 |                                Majority Element                                 |
+|                  Make Array Zero by Subtracting Equal Amounts                   |
 |                Make String a Subsequence Using Cyclic Increments                |
 |                              Make The String Great                              |
 |                  Make Two Arrays Equal by Reversing Subarrays                   |
@@ -265,6 +268,7 @@
 |                       Maximize Distance to Closest Person                       |
 |                   Maximize the Total Height of Unique Towers                    |
 |                                Maximum 69 Number                                |
+|                         Maximum Ascending Subarray Sum                          |
 |                           Maximum Average Pass Ratio                            |
 |                        Maximum Coins Heroes Can Collect                         |
 |                          Maximum Depth of Binary Tree                           |
@@ -509,6 +513,7 @@
 |                             Top K Frequent Elements                             |
 |                              Top K Frequent Words                               |
 |                                  Tree Diameter                                  |
+|                             Tuple with Same Product                             |
 |                                     Two Sum                                     |
 |                                  Two Sum BSTs                                   |
 |                       Two Sum II - Input Array Is Sorted                        |
