@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 533
+## Total questions solved: 541
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -57,6 +57,7 @@
 |                      Check if Array Is Sorted and Rotated                       |
 |                        Check if the Sentence Is Pangram                         |
 |                                Circular Sentence                                |
+|                                  Clear Digits                                   |
 |                                   Clone Graph                                   |
 |                          Closest Leaf in a Binary Tree                          |
 |                                   Coin Change                                   |
@@ -71,6 +72,7 @@
 |                       Construct String With Repeat Limit                        |
 |                        Construct String from Binary Tree                        |
 |                    Construct String with Minimum Cost (Easy)                    |
+|             Construct the Lexicographically Largest Valid Sequence              |
 |                            Container With Most Water                            |
 |                               Contains Duplicate                                |
 |                         Convert 1D Array Into 2D Array                          |
@@ -82,6 +84,7 @@
 |                    Convert Sorted List to Binary Search Tree                    |
 |                           Count Days Without Meetings                           |
 |                      Count Elements With Maximum Frequency                      |
+|                            Count Number of Bad Pairs                            |
 |                   Count Number of Maximum Bitwise-OR Subsets                    |
 |                         Count Number of Nice Subarrays                          |
 |                         Count Pairs Of Similar Strings                          |
@@ -114,9 +117,11 @@
 |                                 Design HashSet                                  |
 |                               Design Hit Counter                                |
 |                               Design Linked List                                |
+|                         Design Most Recently Used Queue                         |
 |                           Design Neighbor Sum Service                           |
 |                              Design Parking System                              |
 |                             Design Phone Directory                              |
+|                        Design a Number Container System                         |
 |                     Design a Stack With Increment Operation                     |
 |                                Destination City                                 |
 |                                 Detect Capital                                  |
@@ -172,6 +177,7 @@
 |                         Find the Number of Good Pairs I                         |
 |                      Find the Power of K-Size Subarrays I                       |
 |                      Find the Power of K-Size Subarrays II                      |
+|                    Find the Punishment Number of an Integer                     |
 |                  Find the Student that Will Replace the Chalk                   |
 |                      Find the Winner of the Circular Game                       |
 |                      Find the Winning Player in Coin Game                       |
@@ -264,6 +270,7 @@
 |                              Max Consecutive Ones                               |
 |                            Max Consecutive Ones III                             |
 |                            Max Number of K-Sum Pairs                            |
+|                   Max Sum of a Pair With Equal Sum of Digits                    |
 |                    Maximal Score After Applying K Operations                    |
 |                       Maximize Distance to Closest Person                       |
 |                   Maximize the Total Height of Unique Towers                    |
@@ -392,6 +399,7 @@
 |                            Print FooBar Alternately                             |
 |                                 Print in Order                                  |
 |                          Product of Array Except Self                           |
+|                          Product of the Last K Numbers                          |
 |                         Put Boxes Into the Warehouse I                          |
 |                         Put Boxes Into the Warehouse II                         |
 |                                 Range Addition                                  |
