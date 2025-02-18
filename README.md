@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 541
+## Total questions solved: 543
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -69,6 +69,7 @@
 |                             Compare Version Numbers                             |
 |                             Concatenation of Array                              |
 |                       Connecting Cities With Minimum Cost                       |
+|                    Construct Smallest Number From DI String                     |
 |                       Construct String With Repeat Limit                        |
 |                        Construct String from Binary Tree                        |
 |                    Construct String with Minimum Cost (Easy)                    |
@@ -237,6 +238,7 @@
 |                Least Number of Unique Integers after K Removals                 |
 |               Length of Longest Subarray With at Most K Frequency               |
 |                      Letter Combinations of a Phone Number                      |
+|                            Letter Tile Possibilities                            |
 |                                Linked List Cycle                                |
 |                              Linked List Frequency                              |
 |                              Longest Common Prefix                              |
