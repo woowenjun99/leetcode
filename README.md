@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 543
+## Total questions solved: 548
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -151,6 +151,7 @@
 |                             Find Common Characters                              |
 |                              Find Customer Referee                              |
 |                         Find Distance in a Binary Tree                          |
+|                   Find Elements in a Contaminated Binary Tree                   |
 |                   Find First Palindromic String in the Array                    |
 |             Find First and Last Position of Element in Sorted Array             |
 |                       Find Largest Value in Each Tree Row                       |
@@ -160,6 +161,7 @@
 |                      Find Players With Zero or One Losses                       |
 |                Find Score of an Array After Marking All Elements                |
 |                    Find Smallest Letter Greater Than Target                     |
+|                            Find Unique Binary String                            |
 |                         Find Words Containing Character                         |
 |                           Find if Array Can Be Sorted                           |
 |                          Find if Digit Game Can Be Won                          |
@@ -270,6 +272,7 @@
 |                               Max Area of Island                                |
 |                            Max Chunks To Make Sorted                            |
 |                              Max Consecutive Ones                               |
+|                             Max Consecutive Ones II                             |
 |                            Max Consecutive Ones III                             |
 |                            Max Number of K-Sum Pairs                            |
 |                   Max Sum of a Pair With Equal Sum of Digits                    |
@@ -413,6 +416,7 @@
 |                        Rearrange Array Elements by Sign                         |
 |                  Rearrange K Substrings to Form Target String                   |
 |                          Rearrange Words in a Sentence                          |
+|                     Recover a Tree From Preorder Traversal                      |
 |                Redistribute Characters to Make All Strings Equal                |
 |                              Redundant Connection                               |
 |                               Relative Sort Array                               |
@@ -516,6 +520,7 @@
 |                                   Target Sum                                    |
 |                       The Number of Ways to Make the Sum                        |
 |                   The Number of the Smallest Unoccupied Chair                   |
+|        The k-th Lexicographical String of All Happy Strings of Length n         |
 |                              Third Maximum Number                               |
 |                           Time Needed to Buy Tickets                            |
 |                               To Be Or Not To Be                                |
