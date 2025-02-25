@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 549
+## Total questions solved: 551
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -69,6 +69,7 @@
 |                             Compare Version Numbers                             |
 |                             Concatenation of Array                              |
 |                       Connecting Cities With Minimum Cost                       |
+|            Construct Binary Tree from Preorder and Inorder Traversal            |
 |           Construct Binary Tree from Preorder and Postorder Traversal           |
 |                    Construct Smallest Number From DI String                     |
 |                       Construct String With Repeat Limit                        |
@@ -374,6 +375,7 @@
 |                         Number of Segments in a String                          |
 |                            Number of Senior Citizens                            |
 |       Number of Steps to Reduce a Number in Binary Representation to One        |
+|                        Number of Sub-arrays With Odd Sum                        |
 |                Number of Unique Flavors After Sharing K Candies                 |
 |                          Number of Ways to Split Array                          |
 |                              Odd Even Linked List                               |
