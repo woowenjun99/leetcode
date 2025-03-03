@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 551
+## Total questions solved: 557
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -18,6 +18,7 @@
 |                  Amount of Time for Binary Tree to Be Infected                  |
 |                 Append Characters to String to Make Subsequence                 |
 |                      Apply Operations to Make String Empty                      |
+|                          Apply Operations to an Array                           |
 |                                  Array Nesting                                  |
 |                          As Far from Land as Possible                           |
 |                                 Assign Cookies                                  |
@@ -240,6 +241,7 @@
 |                 Largest Substring Between Two Equal Characters                  |
 |                                Last Stone Weight                                |
 |                Least Number of Unique Integers after K Removals                 |
+|                     Length of Longest Fibonacci Subsequence                     |
 |               Length of Longest Subarray With at Most K Frequency               |
 |                      Letter Combinations of a Phone Number                      |
 |                            Letter Tile Possibilities                            |
@@ -312,6 +314,7 @@
 |                          Merge Nodes in Between Zeros                           |
 |                               Merge Sorted Array                                |
 |                            Merge Strings Alternately                            |
+|                      Merge Two 2D Arrays by Summing Values                      |
 |                             Merge Two Sorted Lists                              |
 |                              Merge k Sorted Lists                               |
 |                            Middle of the Linked List                            |
@@ -349,6 +352,7 @@
 |                    Minimum Remove to Make Valid Parentheses                     |
 |                            Minimum Size Subarray Sum                            |
 |                 Minimum String Length After Removing Substrings                 |
+|                     Minimum Swaps to Group All 1's Together                     |
 |                             Minimum Time Difference                             |
 |                                 Missing Number                                  |
 |                                 Monotonic Stack                                 |
@@ -387,6 +391,7 @@
 |                             Palindromic Substrings                              |
 |                                Parallel Courses                                 |
 |                          Parsing A Boolean Expression                           |
+|                    Partition Array According to Given Pivot                     |
 |                                 Partition List                                  |
 |                                Pascal's Triangle                                |
 |                              Pascal's Triangle II                               |
@@ -462,6 +467,7 @@
 |                                Score of a String                                |
 |                             Search Insert Position                              |
 |                            Search Suggestions System                            |
+|                               Search a 2D Matrix                                |
 |                         Search in Rotated Sorted Array                          |
 |                         Search in a Binary Search Tree                          |
 |                    Search in a Sorted Array of Unknown Size                     |
