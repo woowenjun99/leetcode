@@ -1,12 +1,13 @@
 # Leetcode
 
-## Total questions solved: 557
+## Total questions solved: 562
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
 |                                      3Sum                                       |
 |                                      4Sum                                       |
 |                                     4Sum II                                     |
+|                                 Accounts Merge                                  |
 |                                   Add Binary                                    |
 |                                 Add Two Numbers                                 |
 |                               Add Two Numbers II                                |
@@ -56,6 +57,7 @@
 |          Check If a Word Occurs As a Prefix of Any Word in a Sentence           |
 |                     Check if All A's Appears Before All B's                     |
 |                      Check if Array Is Sorted and Rotated                       |
+|                   Check if Number is a Sum of Powers of Three                   |
 |                        Check if the Sentence Is Pangram                         |
 |                                Circular Sentence                                |
 |                                  Clear Digits                                   |
@@ -96,6 +98,7 @@
 |                     Count Pairs That Form a Complete Day II                     |
 |                         Count Prefix and Suffix Pairs I                         |
 |                                  Count Primes                                   |
+|                       Count Total Number of Colored Cells                       |
 |              Count Triplets That Can Form Two Arrays of Equal XOR               |
 |                          Count Vowel Strings in Ranges                          |
 |                         Count of Matches in Tournament                          |
@@ -159,6 +162,7 @@
 |             Find First and Last Position of Element in Sorted Array             |
 |                       Find Largest Value in Each Tree Row                       |
 |         Find Minimum Operations to Make All Elements Divisible by Three         |
+|                        Find Missing and Repeated Values                         |
 |                         Find Mode in Binary Search Tree                         |
 |                   Find Occurrences of an Element in an Array                    |
 |                      Find Players With Zero or One Losses                       |
@@ -282,6 +286,7 @@
 |                   Max Sum of a Pair With Equal Sum of Digits                    |
 |                    Maximal Score After Applying K Operations                    |
 |                       Maximize Distance to Closest Person                       |
+|                      Maximize Profit from Task Assignment                       |
 |                   Maximize the Total Height of Unique Towers                    |
 |                                Maximum 69 Number                                |
 |                         Maximum Ascending Subarray Sum                          |
