@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 562
+## Total questions solved: 568
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -63,6 +63,7 @@
 |                                  Clear Digits                                   |
 |                                   Clone Graph                                   |
 |                          Closest Leaf in a Binary Tree                          |
+|                         Closest Prime Numbers in Range                          |
 |                                   Coin Change                                   |
 |                                 Coin Change II                                  |
 |                                 Combination Sum                                 |
@@ -214,6 +215,7 @@
 |                   How Many Apples Can You Put into the Basket                   |
 |                                       IPO                                       |
 |                          Implement Queue using Stacks                           |
+|                          Implement Stack using Queues                           |
 |                          Implement Trie (Prefix Tree)                           |
 |                         Implement Trie II (Prefix Tree)                         |
 |                          Increasing Order Search Tree                           |
@@ -367,6 +369,8 @@
 |                           Most Profit Assigning Work                            |
 |                         Move Pieces to Obtain a String                          |
 |                                   Move Zeroes                                   |
+|                                    N-Queens                                     |
+|                                   N-Queens II                                   |
 |                        N-ary Tree Level Order Traversal                         |
 |                         N-ary Tree Postorder Traversal                          |
 |                          N-ary Tree Preorder Traversal                          |
@@ -536,11 +540,13 @@
 |                   The Number of the Smallest Unoccupied Chair                   |
 |        The k-th Lexicographical String of All Happy Strings of Length n         |
 |                              Third Maximum Number                               |
+|                           Time Based Key-Value Store                            |
 |                           Time Needed to Buy Tickets                            |
 |                               To Be Or Not To Be                                |
 |                                  To Lower Case                                  |
 |                             Top K Frequent Elements                             |
 |                              Top K Frequent Words                               |
+|                            Transform Array by Parity                            |
 |                                  Tree Diameter                                  |
 |                             Tuple with Same Product                             |
 |                                     Two Sum                                     |
