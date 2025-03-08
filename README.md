@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 568
+## Total questions solved: 575
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -161,6 +161,7 @@
 |                   Find Elements in a Contaminated Binary Tree                   |
 |                   Find First Palindromic String in the Array                    |
 |             Find First and Last Position of Element in Sorted Array             |
+|              Find K-Length Substrings With No Repeated Characters               |
 |                       Find Largest Value in Each Tree Row                       |
 |         Find Minimum Operations to Make All Elements Divisible by Three         |
 |                        Find Missing and Repeated Values                         |
@@ -293,12 +294,14 @@
 |                                Maximum 69 Number                                |
 |                         Maximum Ascending Subarray Sum                          |
 |                           Maximum Average Pass Ratio                            |
+|                     Maximum Candies Allocated to K Children                     |
 |                        Maximum Coins Heroes Can Collect                         |
 |                          Maximum Depth of Binary Tree                           |
 |                           Maximum Depth of N-ary Tree                           |
 |                 Maximum Difference Between Increasing Elements                  |
 |                           Maximum Distance in Arrays                            |
 |                      Maximum Energy Boost From Two Drinks                       |
+|                             Maximum Frequency Stack                             |
 |                    Maximum Nesting Depth of the Parentheses                     |
 |                           Maximum Number of Balloons                            |
 |                       Maximum Number of Coins You Can Get                       |
@@ -314,6 +317,7 @@
 |                 Maximum Sum of Distinct Subarrays With Length K                 |
 |                                  Maximum Swap                                   |
 |                        Maximum Total Importance of Roads                        |
+|                          Maximum Width of Binary Tree                           |
 |                           Maximum XOR for Each Query                            |
 |                                  Meeting Rooms                                  |
 |                          Merge In Between Linked Lists                          |
@@ -356,6 +360,7 @@
 |             Minimum Operations to Make Columns Strictly Increasing              |
 |                                Minimum Path Sum                                 |
 |                          Minimum Positive Sum Subarray                          |
+|               Minimum Recolors to Get K Consecutive Black Blocks                |
 |                    Minimum Remove to Make Valid Parentheses                     |
 |                            Minimum Size Subarray Sum                            |
 |                 Minimum String Length After Removing Substrings                 |
@@ -570,5 +575,7 @@
 |                                 Walls and Gates                                 |
 |                                  Water Bottles                                  |
 |                                   Word Break                                    |
+|                                   Word Ladder                                   |
 |                                   Word Search                                   |
 |                                Zigzag Conversion                                |
+|                         Zigzag Grid Traversal With Skip                         |
