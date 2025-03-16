@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 575
+## Total questions solved: 577
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -237,6 +237,7 @@
 |                                  Jump Game II                                   |
 |                                  Jump Game III                                  |
 |                           K Closest Points to Origin                            |
+|                               Koko Eating Bananas                               |
 |                         Kth Distinct String in an Array                         |
 |                         Kth Largest Element in a Stream                         |
 |                         Kth Largest Element in an Array                         |
@@ -402,6 +403,7 @@
 |                             Palindrome Linked List                              |
 |                                Palindrome Number                                |
 |                             Palindrome Partitioning                             |
+|                             Palindrome Permutation                              |
 |                             Palindromic Substrings                              |
 |                                Parallel Courses                                 |
 |                          Parsing A Boolean Expression                           |
