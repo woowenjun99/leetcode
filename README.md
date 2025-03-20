@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 577
+## Total questions solved: 583
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -129,6 +129,7 @@
 |                           Design Neighbor Sum Service                           |
 |                              Design Parking System                              |
 |                             Design Phone Directory                              |
+|                                 Design Twitter                                  |
 |                        Design a Number Container System                         |
 |                     Design a Stack With Increment Operation                     |
 |                                Destination City                                 |
@@ -137,6 +138,7 @@
 |                       Determine if Two Strings Are Close                        |
 |                        Distinct Numbers in Each Subarray                        |
 |                               Distribute Candies                                |
+|                          Divide Array Into Equal Pairs                          |
 |                 Divide Intervals Into Minimum Number of Groups                  |
 |                    Divide Players Into Teams of Equal Skill                     |
 |                  Double a Number Represented as a Linked List                   |
@@ -262,6 +264,7 @@
 |   Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit    |
 |                              Longest Happy String                               |
 |                         Longest Increasing Subsequence                          |
+|                              Longest Nice Subarray                              |
 |                               Longest Palindrome                                |
 |                          Longest Palindromic Substring                          |
 |                     Longest Repeating Character Replacement                     |
@@ -297,6 +300,7 @@
 |                           Maximum Average Pass Ratio                            |
 |                     Maximum Candies Allocated to K Children                     |
 |                        Maximum Coins Heroes Can Collect                         |
+|             Maximum Count of Positive Integer and Negative Integer              |
 |                          Maximum Depth of Binary Tree                           |
 |                           Maximum Depth of N-ary Tree                           |
 |                 Maximum Difference Between Increasing Elements                  |
@@ -339,6 +343,7 @@
 |                       Minimum Bit Flips to Convert Number                       |
 |                              Minimum Common Value                               |
 |                            Minimum Cost For Tickets                             |
+|                       Minimum Cost Walk in Weighted Graph                       |
 |                        Minimum Cost to Convert String I                         |
 |                          Minimum Depth of Binary Tree                           |
 |      Minimum Difference Between Largest and Smallest Value in Three Moves       |
@@ -358,6 +363,7 @@
 |                    Minimum Obstacle Removal to Reach Corner                     |
 |                 Minimum Operations to Exceed Threshold Value I                  |
 |                 Minimum Operations to Exceed Threshold Value II                 |
+|         Minimum Operations to Make Binary Array Elements Equal to One I         |
 |             Minimum Operations to Make Columns Strictly Increasing              |
 |                                Minimum Path Sum                                 |
 |                          Minimum Positive Sum Subarray                          |
