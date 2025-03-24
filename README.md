@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 583
+## Total questions solved: 587
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -103,6 +103,7 @@
 |              Count Triplets That Can Form Two Arrays of Equal XOR               |
 |                          Count Vowel Strings in Ranges                          |
 |                         Count of Matches in Tournament                          |
+|                     Count the Number of Complete Components                     |
 |                     Count the Number of Consistent Strings                      |
 |                    Count the Number of Special Characters I                     |
 |                                     Counter                                     |
@@ -154,6 +155,7 @@
 |              Final Array State After K Multiplication Operations I              |
 |                          Find All Anagrams in a String                          |
 |                           Find All Groups of Farmland                           |
+|                  Find All Possible Recipes from Given Supplies                  |
 |                              Find Anagram Mappings                              |
 |                           Find Bottom Left Tree Value                           |
 |                                Find Champion II                                 |
@@ -193,6 +195,7 @@
 |                      Find the Power of K-Size Subarrays II                      |
 |                    Find the Punishment Number of an Integer                     |
 |                  Find the Student that Will Replace the Chalk                   |
+|                               Find the Town Judge                               |
 |                      Find the Winner of the Circular Game                       |
 |                      Find the Winning Player in Coin Game                       |
 |                     First Completely Painted Row or Column                      |
@@ -389,6 +392,7 @@
 |                       Nearest Exit from Entrance in Maze                        |
 |                               Network Delay Time                                |
 |                             Next Greater Element I                              |
+|                           Non-decreasing Subsequences                           |
 |                                Number of 1 Bits                                 |
 |                Number of Bit Changes to Make Two Integers Equal                 |
 |              Number of Connected Components in an Undirected Graph              |
