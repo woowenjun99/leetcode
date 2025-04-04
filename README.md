@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 587
+## Total questions solved: 593
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -279,6 +279,7 @@
 |                         Longest Word With All Prefixes                          |
 |                           Longest Word in Dictionary                            |
 |                   Longest Word in Dictionary through Deleting                   |
+|                    Lowest Common Ancestor of Deepest Leaves                     |
 |                 Lowest Common Ancestor of a Binary Search Tree                  |
 |                   Lowest Common Ancestor of a Binary Tree III                   |
 |                        Magnetic Force Between Two Balls                         |
@@ -325,6 +326,8 @@
 |                 Maximum Sum of Distinct Subarrays With Length K                 |
 |                                  Maximum Swap                                   |
 |                        Maximum Total Importance of Roads                        |
+|                      Maximum Value of an Ordered Triplet I                      |
+|                     Maximum Value of an Ordered Triplet II                      |
 |                          Maximum Width of Binary Tree                           |
 |                           Maximum XOR for Each Query                            |
 |                                  Meeting Rooms                                  |
@@ -504,6 +507,7 @@
 |                                  Set Mismatch                                   |
 |                               Shifting Letters II                               |
 |                 Shortest Distance After Road Addition Queries I                 |
+|                      Shortest Distance from All Buildings                       |
 |                            Shortest Path to Get Food                            |
 |                             Shortest Word Distance                              |
 |                           Shortest Word Distance III                            |
@@ -515,7 +519,9 @@
 |                                Single Number III                                |
 |                         Smallest Number in Infinite Set                         |
 |                       Smallest String Starting From Leaf                        |
+|                   Smallest Subtree with all the Deepest Nodes                   |
 |                                 Snake in Matrix                                 |
+|                        Solving Questions With Brainpower                        |
 |                              Sort Array By Parity                               |
 |                          Sort Characters By Frequency                           |
 |                                   Sort Colors                                   |
