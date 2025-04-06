@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 593
+## Total questions solved: 597
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -221,6 +221,7 @@
 |                   How Many Apples Can You Put into the Basket                   |
 |                                       IPO                                       |
 |                          Implement Queue using Stacks                           |
+|                                Implement Router                                 |
 |                          Implement Stack using Queues                           |
 |                          Implement Trie (Prefix Tree)                           |
 |                         Implement Trie II (Prefix Tree)                         |
@@ -248,6 +249,7 @@
 |                         Kth Largest Element in an Array                         |
 |                        Kth Largest Sum in a Binary Tree                         |
 |                          Kth Smallest Element in a BST                          |
+|                            Largest Divisible Subset                             |
 |                     Largest Number At Least Twice of Others                     |
 |                          Largest Odd Number in String                           |
 |             Largest Positive Integer That Exists With Its Negative              |
@@ -351,6 +353,7 @@
 |                            Minimum Cost For Tickets                             |
 |                       Minimum Cost Walk in Weighted Graph                       |
 |                        Minimum Cost to Convert String I                         |
+|                      Minimum Cost to Reach Every Position                       |
 |                          Minimum Depth of Binary Tree                           |
 |      Minimum Difference Between Largest and Smallest Value in Three Moves       |
 |                Minimum Element After Replacement With Digit Sum                 |
@@ -371,6 +374,7 @@
 |                 Minimum Operations to Exceed Threshold Value II                 |
 |         Minimum Operations to Make Binary Array Elements Equal to One I         |
 |             Minimum Operations to Make Columns Strictly Increasing              |
+|                      Minimum Pair Removal to Sort Array I                       |
 |                                Minimum Path Sum                                 |
 |                          Minimum Positive Sum Subarray                          |
 |               Minimum Recolors to Get K Consecutive Black Blocks                |
