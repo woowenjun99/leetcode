@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 597
+## Total questions solved: 599
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -367,11 +367,13 @@
 |                    Minimum Number of K Consecutive Bit Flips                    |
 |                    Minimum Number of Moves to Seat Everyone                     |
 |                Minimum Number of Operations to Make Array Empty                 |
+|         Minimum Number of Operations to Make Elements in Array Distinct         |
 |               Minimum Number of Steps to Make Two Strings Anagram               |
 |                  Minimum Number of Vertices to Reach All Nodes                  |
 |                    Minimum Obstacle Removal to Reach Corner                     |
 |                 Minimum Operations to Exceed Threshold Value I                  |
 |                 Minimum Operations to Exceed Threshold Value II                 |
+|               Minimum Operations to Make Array Values Equal to K                |
 |         Minimum Operations to Make Binary Array Elements Equal to One I         |
 |             Minimum Operations to Make Columns Strictly Increasing              |
 |                      Minimum Pair Removal to Sort Array I                       |
