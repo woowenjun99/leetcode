@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 599
+## Total questions solved: 602
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -159,6 +159,7 @@
 |                              Find Anagram Mappings                              |
 |                           Find Bottom Left Tree Value                           |
 |                                Find Champion II                                 |
+|                               Find Closest Person                               |
 |                             Find Common Characters                              |
 |                              Find Customer Referee                              |
 |                         Find Distance in a Binary Tree                          |
@@ -524,6 +525,7 @@
 |                                  Single Number                                  |
 |                                Single Number III                                |
 |                         Smallest Number in Infinite Set                         |
+|                      Smallest Palindromic Rearrangement I                       |
 |                       Smallest String Starting From Leaf                        |
 |                   Smallest Subtree with all the Deepest Nodes                   |
 |                                 Snake in Matrix                                 |
@@ -585,6 +587,7 @@
 |                           Two Sum IV - Input is a BST                           |
 |                               Two Sum Less Than K                               |
 |                                   Ugly Number                                   |
+|                           Unique Binary Search Trees                            |
 |                    Unique Length-3 Palindromic Subsequences                     |
 |                          Unique Number of Occurrences                           |
 |                                  Unique Paths                                   |
