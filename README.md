@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 602
+## Total questions solved: 605
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -91,6 +91,7 @@
 |                    Convert Sorted List to Binary Search Tree                    |
 |                           Count Days Without Meetings                           |
 |                      Count Elements With Maximum Frequency                      |
+|                   Count Equal and Divisible Pairs in an Array                   |
 |                            Count Number of Bad Pairs                            |
 |                   Count Number of Maximum Bitwise-OR Subsets                    |
 |                         Count Number of Nice Subarrays                          |
@@ -103,6 +104,7 @@
 |              Count Triplets That Can Form Two Arrays of Equal XOR               |
 |                          Count Vowel Strings in Ranges                          |
 |                         Count of Matches in Tournament                          |
+|                           Count the Hidden Sequences                            |
 |                     Count the Number of Complete Components                     |
 |                     Count the Number of Consistent Strings                      |
 |                    Count the Number of Special Characters I                     |
@@ -451,6 +453,7 @@
 |                          Product of the Last K Numbers                          |
 |                         Put Boxes Into the Warehouse I                          |
 |                         Put Boxes Into the Warehouse II                         |
+|                                Rabbits in Forest                                |
 |                                 Range Addition                                  |
 |                           Range Sum Query - Immutable                           |
 |                                Range Sum of BST                                 |
