@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 605
+## Total questions solved: 610
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -132,6 +132,7 @@
 |                           Design Neighbor Sum Service                           |
 |                              Design Parking System                              |
 |                             Design Phone Directory                              |
+|                                Design Snake Game                                |
 |                                 Design Twitter                                  |
 |                        Design a Number Container System                         |
 |                     Design a Stack With Increment Operation                     |
@@ -171,6 +172,7 @@
 |              Find K-Length Substrings With No Repeated Characters               |
 |                       Find Largest Value in Each Tree Row                       |
 |         Find Minimum Operations to Make All Elements Divisible by Three         |
+|                     Find Minimum Time to Reach Last Room I                      |
 |                        Find Missing and Repeated Values                         |
 |                         Find Mode in Binary Search Tree                         |
 |                   Find Occurrences of an Element in an Array                    |
@@ -265,6 +267,7 @@
 |                            Letter Tile Possibilities                            |
 |                                Linked List Cycle                                |
 |                              Linked List Frequency                              |
+|                               Logger Rate Limiter                               |
 |                              Longest Common Prefix                              |
 |                           Longest Common Subsequence                            |
 |                Longest Common Subsequence Between Sorted Arrays                 |
@@ -359,6 +362,7 @@
 |                      Minimum Cost to Reach Every Position                       |
 |                          Minimum Depth of Binary Tree                           |
 |      Minimum Difference Between Largest and Smallest Value in Three Moves       |
+|                     Minimum Domino Rotations For Equal Row                      |
 |                Minimum Element After Replacement With Digit Sum                 |
 |                            Minimum Falling Path Sum                             |
 |                     Minimum Flips to Make a OR b Equal to c                     |
@@ -529,6 +533,7 @@
 |                                Single Number III                                |
 |                         Smallest Number in Infinite Set                         |
 |                      Smallest Palindromic Rearrangement I                       |
+|                    Smallest Rectangle Enclosing Black Pixels                    |
 |                       Smallest String Starting From Leaf                        |
 |                   Smallest Subtree with all the Deepest Nodes                   |
 |                                 Snake in Matrix                                 |
