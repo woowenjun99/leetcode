@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 610
+## Total questions solved: 614
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -265,6 +265,9 @@
 |               Length of Longest Subarray With at Most K Frequency               |
 |                      Letter Combinations of a Phone Number                      |
 |                            Letter Tile Possibilities                            |
+|                             Lexicographical Numbers                             |
+|              Lexicographically Minimum String After Removing Stars              |
+|                  Lexicographically Smallest Equivalent String                   |
 |                                Linked List Cycle                                |
 |                              Linked List Frequency                              |
 |                               Logger Rate Limiter                               |
@@ -600,6 +603,7 @@
 |                          Unique Number of Occurrences                           |
 |                                  Unique Paths                                   |
 |                                 Unique Paths II                                 |
+|          Using a Robot to Print the Lexicographically Smallest String           |
 |                                  Valid Anagram                                  |
 |                                Valid Palindrome                                 |
 |                                Valid Parentheses                                |
