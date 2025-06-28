@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 623
+## Total questions solved: 631
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -165,6 +165,7 @@
 |                     Find All K-Distant Indices in an Array                      |
 |                  Find All Possible Recipes from Given Supplies                  |
 |                              Find Anagram Mappings                              |
+|                       Find Books with No Available Copies                       |
 |                           Find Bottom Left Tree Value                           |
 |                                Find Champion II                                 |
 |                               Find Closest Person                               |
@@ -220,6 +221,7 @@
 |                              Generate Parentheses                               |
 |                         Generate Tag for Video Caption                          |
 |                                Graph Valid Tree                                 |
+|                          Grid Teleportation Traversal                           |
 |                                 Group Anagrams                                  |
 |                             Grumpy Bookstore Owner                              |
 |                          Guess Number Higher or Lower                           |
@@ -372,6 +374,7 @@
 |                       Minimum Cost Walk in Weighted Graph                       |
 |                        Minimum Cost to Convert String I                         |
 |                      Minimum Cost to Reach Every Position                       |
+|               Minimum Deletions for At Most K Distinct Characters               |
 |                          Minimum Depth of Binary Tree                           |
 |      Minimum Difference Between Largest and Smallest Value in Three Moves       |
 |                     Minimum Domino Rotations For Equal Row                      |
@@ -433,6 +436,7 @@
 |                            Number of Senior Citizens                            |
 |       Number of Steps to Reduce a Number in Binary Representation to One        |
 |                        Number of Sub-arrays With Odd Sum                        |
+|           Number of Subsequences That Satisfy the Given Sum Condition           |
 |                Number of Unique Flavors After Sharing K Candies                 |
 |                          Number of Ways to Split Array                          |
 |                              Odd Even Linked List                               |
@@ -446,6 +450,7 @@
 |                                Parallel Courses                                 |
 |                          Parsing A Boolean Expression                           |
 |                    Partition Array According to Given Pivot                     |
+|                 Partition Array into Two Equal Product Subsets                  |
 |                                 Partition List                                  |
 |                                Pascal's Triangle                                |
 |                              Pascal's Triangle II                               |
@@ -543,6 +548,7 @@
 |                        Single Element in a Sorted Array                         |
 |                                  Single Number                                  |
 |                                Single Number III                                |
+|                  Smallest Index With Digit Sum Equal to Index                   |
 |                         Smallest Number in Infinite Set                         |
 |                      Smallest Palindromic Rearrangement I                       |
 |                    Smallest Rectangle Enclosing Black Pixels                    |
@@ -598,6 +604,7 @@
 |                             Top K Frequent Elements                             |
 |                              Top K Frequent Words                               |
 |                            Transform Array by Parity                            |
+|                      Transform Array to All Equal Elements                      |
 |                                  Tree Diameter                                  |
 |                             Tuple with Same Product                             |
 |                                     Two Sum                                     |
@@ -612,6 +619,7 @@
 |                          Unique Number of Occurrences                           |
 |                                  Unique Paths                                   |
 |                                 Unique Paths II                                 |
+|                                Unit Conversion I                                |
 |          Using a Robot to Print the Lexicographically Smallest String           |
 |                                  Valid Anagram                                  |
 |                                Valid Palindrome                                 |
