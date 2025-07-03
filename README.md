@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 635
+## Total questions solved: 638
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -144,6 +144,7 @@
 |                       Determine if Two Strings Are Close                        |
 |                        Distinct Numbers in Each Subarray                        |
 |                               Distribute Candies                                |
+|                  Divide Array Into Arrays With Max Difference                   |
 |                          Divide Array Into Equal Pairs                          |
 |                 Divide Intervals Into Minimum Number of Groups                  |
 |                    Divide Players Into Teams of Equal Skill                     |
@@ -152,6 +153,7 @@
 |                                Duplicate Emails                                 |
 |                                  Edit Distance                                  |
 |                            Encode and Decode Strings                            |
+|                           Equal Sum Grid Partition I                            |
 |                              Equal Tree Partition                               |
 |                                Evaluate Division                                |
 |                        Evaluate Reverse Polish Notation                         |
@@ -265,6 +267,7 @@
 |                         Kth Largest Element in an Array                         |
 |                        Kth Largest Sum in a Binary Tree                         |
 |                          Kth Smallest Element in a BST                          |
+|                               Largest BST Subtree                               |
 |                            Largest Divisible Subset                             |
 |                     Largest Number At Least Twice of Others                     |
 |                          Largest Odd Number in String                           |
