@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 638
+## Total questions solved: 640
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -179,6 +179,7 @@
 |             Find First and Last Position of Element in Sorted Array             |
 |              Find K-Length Substrings With No Repeated Characters               |
 |                       Find Largest Value in Each Tree Row                       |
+|                         Find Lucky Integer in an Array                          |
 |         Find Minimum Operations to Make All Elements Divisible by Three         |
 |                     Find Minimum Time to Reach Last Room I                      |
 |                        Find Missing and Repeated Values                         |
@@ -515,6 +516,7 @@
 |                                  Replace Words                                  |
 |                              Restore IP Addresses                               |
 |                      Restore the Array From Adjacent Pairs                      |
+|                    Resulting String After Adjacent Removals                     |
 |                        Return Length of Arguments Passed                        |
 |                                 Reverse Integer                                 |
 |                               Reverse Linked List                               |
