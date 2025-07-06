@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 640
+## Total questions solved: 641
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -214,6 +214,7 @@
 |                               Find the Town Judge                               |
 |                      Find the Winner of the Circular Game                       |
 |                      Find the Winning Player in Coin Game                       |
+|                        Finding Pairs With a Certain Sum                         |
 |                     First Completely Painted Row or Column                      |
 |                       First Unique Character in a String                        |
 |                               First Unique Number                               |
