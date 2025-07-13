@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 641
+## Total questions solved: 644
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -341,6 +341,7 @@
 |                           Maximum Distance in Arrays                            |
 |                      Maximum Energy Boost From Two Drinks                       |
 |                             Maximum Frequency Stack                             |
+|                    Maximum Matching of Players With Trainers                    |
 |                    Maximum Nesting Depth of the Parentheses                     |
 |                           Maximum Number of Balloons                            |
 |                       Maximum Number of Coins You Can Get                       |
@@ -362,6 +363,7 @@
 |                          Maximum Width of Binary Tree                           |
 |                           Maximum XOR for Each Query                            |
 |                                  Meeting Rooms                                  |
+|                                Meeting Rooms III                                |
 |                          Merge In Between Linked Lists                          |
 |                                 Merge Intervals                                 |
 |                          Merge Nodes in Between Zeros                           |
@@ -399,6 +401,7 @@
 |                    Minimum Number of Moves to Seat Everyone                     |
 |                Minimum Number of Operations to Make Array Empty                 |
 |         Minimum Number of Operations to Make Elements in Array Distinct         |
+|                    Minimum Number of Primes to Sum to Target                    |
 |               Minimum Number of Steps to Make Two Strings Anagram               |
 |                  Minimum Number of Vertices to Reach All Nodes                  |
 |                    Minimum Obstacle Removal to Reach Corner                     |
