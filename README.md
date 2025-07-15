@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 644
+## Total questions solved: 646
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -85,6 +85,7 @@
 |                               Contains Duplicate                                |
 |                         Convert 1D Array Into 2D Array                          |
 |                           Convert BST to Greater Tree                           |
+|                Convert Binary Number in a Linked List to Integer                |
 |             Convert Binary Search Tree to Sorted Doubly Linked List             |
 |                      Convert Doubly Linked List to Array I                      |
 |                     Convert Doubly Linked List to Array II                      |
@@ -639,6 +640,7 @@
 |                                Valid Parentheses                                |
 |                              Valid Perfect Square                               |
 |                                  Valid Sudoku                                   |
+|                                   Valid Word                                    |
 |                           Validate Binary Search Tree                           |
 |                    Vertical Order Traversal of a Binary Tree                    |
 |                                 Walls and Gates                                 |
