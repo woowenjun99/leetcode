@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 646
+## Total questions solved: 651
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -341,6 +341,7 @@
 |                 Maximum Difference Between Increasing Elements                  |
 |                           Maximum Distance in Arrays                            |
 |                      Maximum Energy Boost From Two Drinks                       |
+|                              Maximum Erasure Value                              |
 |                             Maximum Frequency Stack                             |
 |                    Maximum Matching of Players With Trainers                    |
 |                    Maximum Nesting Depth of the Parentheses                     |
@@ -448,6 +449,7 @@
 |                         Number of Segments in a String                          |
 |                            Number of Senior Citizens                            |
 |       Number of Steps to Reduce a Number in Binary Representation to One        |
+|                         Number of Student Replacements                          |
 |                        Number of Sub-arrays With Odd Sum                        |
 |           Number of Subsequences That Satisfy the Given Sum Condition           |
 |                Number of Unique Flavors After Sharing K Candies                 |
@@ -483,6 +485,7 @@
 |                           Prime Subtraction Operation                           |
 |                            Print FooBar Alternately                             |
 |                                 Print in Order                                  |
+|                    Process String with Special Operations I                     |
 |                          Product of Array Except Self                           |
 |                          Product of the Last K Numbers                          |
 |                         Put Boxes Into the Warehouse I                          |
@@ -645,8 +648,10 @@
 |                    Vertical Order Traversal of a Binary Tree                    |
 |                                 Walls and Gates                                 |
 |                                  Water Bottles                                  |
+|                                Word Abbreviation                                |
 |                                   Word Break                                    |
 |                                   Word Ladder                                   |
 |                                   Word Search                                   |
+|                                  Word Squares                                   |
 |                                Zigzag Conversion                                |
 |                         Zigzag Grid Traversal With Skip                         |
