@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 651
+## Total questions solved: 655
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -63,6 +63,7 @@
 |                                Circular Sentence                                |
 |                                  Clear Digits                                   |
 |                                   Clone Graph                                   |
+|                       Closest Binary Search Tree Value II                       |
 |                          Closest Leaf in a Binary Tree                          |
 |                         Closest Prime Numbers in Range                          |
 |                                   Coin Change                                   |
@@ -224,6 +225,7 @@
 |                                   Flood Fill                                    |
 |                        Fraction Addition and Subtraction                        |
 |                                Frequency Tracker                                |
+|                               Fruit Into Baskets                                |
 |                              Generate Parentheses                               |
 |                         Generate Tag for Video Caption                          |
 |                                Graph Valid Tree                                 |
@@ -301,6 +303,7 @@
 |                     Longest Repeating Character Replacement                     |
 |                        Longest Square Streak in an Array                        |
 |           Longest Strictly Increasing or Strictly Decreasing Subarray           |
+|                    Longest Subarray With Maximum Bitwise AND                    |
 |                 Longest Substring Without Repeating Characters                  |
 |              Longest Substring with At Most K Distinct Characters               |
 |             Longest Substring with At Most Two Distinct Characters              |
@@ -577,6 +580,7 @@
 |                          Sort Characters By Frequency                           |
 |                                   Sort Colors                                   |
 |                      Sort Integers by The Number of 1 Bits                      |
+|                   Sort Threats by Severity and Exploitability                   |
 |                             Sort Vowels in a String                             |
 |                                  Sort an Array                                  |
 |                            Sort the Jumbled Numbers                             |
