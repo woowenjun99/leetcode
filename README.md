@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 655
+## Total questions solved: 657
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -189,6 +189,7 @@
 |                   Find Occurrences of an Element in an Array                    |
 |                      Find Players With Zero or One Losses                       |
 |                Find Score of an Array After Marking All Elements                |
+|                    Find Smallest Common Element in All Rows                     |
 |                    Find Smallest Letter Greater Than Target                     |
 |                Find Subsequence of Length K With the Largest Sum                |
 |                            Find Unique Binary String                            |
@@ -523,6 +524,7 @@
 |                       Remove Trailing Zeros From a String                       |
 |                           Remove Vowels from a String                           |
 |                          Removing Stars From a String                           |
+|                              Reordered Power of 2                               |
 |              Replace Elements with Greatest Element on Right Side               |
 |                                  Replace Words                                  |
 |                              Restore IP Addresses                               |
