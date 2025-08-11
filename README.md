@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 657
+## Total questions solved: 658
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -496,6 +496,7 @@
 |                         Put Boxes Into the Warehouse II                         |
 |                                Rabbits in Forest                                |
 |                                 Range Addition                                  |
+|                         Range Product Queries of Powers                         |
 |                           Range Sum Query - Immutable                           |
 |                                Range Sum of BST                                 |
 |                        Range Sum of Sorted Subarray Sums                        |
