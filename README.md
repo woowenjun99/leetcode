@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 658
+## Total questions solved: 661
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -128,6 +128,7 @@
 |                          Delete Node in a Linked List                           |
 |                 Delete Nodes From Linked List Present in Array                  |
 |                          Design Bounded Blocking Queue                          |
+|                               Design File System                                |
 |                                 Design HashMap                                  |
 |                                 Design HashSet                                  |
 |                               Design Hit Counter                                |
@@ -273,6 +274,7 @@
 |                         Kth Largest Element in an Array                         |
 |                        Kth Largest Sum in a Binary Tree                         |
 |                          Kth Smallest Element in a BST                          |
+|                      Largest 3-Same-Digit Number in String                      |
 |                               Largest BST Subtree                               |
 |                            Largest Divisible Subset                             |
 |                     Largest Number At Least Twice of Others                     |
@@ -485,6 +487,7 @@
 |                                  Permutations                                   |
 |                                 Permutations II                                 |
 |                                    Plus One                                     |
+|                                  Power of Four                                  |
 |                                 Power of Three                                  |
 |                           Prime Subtraction Operation                           |
 |                            Print FooBar Alternately                             |
