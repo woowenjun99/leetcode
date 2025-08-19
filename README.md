@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 661
+## Total questions solved: 662
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -460,6 +460,7 @@
 |           Number of Subsequences That Satisfy the Given Sum Condition           |
 |                Number of Unique Flavors After Sharing K Candies                 |
 |                          Number of Ways to Split Array                          |
+|                         Number of Zero-Filled Subarrays                         |
 |                              Odd Even Linked List                               |
 |                                One Edit Distance                                |
 |               Pairs of Songs With Total Durations Divisible by 60               |
