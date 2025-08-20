@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 662
+## Total questions solved: 663
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -104,6 +104,7 @@
 |                     Count Pairs That Form a Complete Day II                     |
 |                         Count Prefix and Suffix Pairs I                         |
 |                                  Count Primes                                   |
+|                     Count Square Submatrices with All Ones                      |
 |                       Count Total Number of Colored Cells                       |
 |              Count Triplets That Can Form Two Arrays of Equal XOR               |
 |                          Count Vowel Strings in Ranges                          |
