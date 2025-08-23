@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 663
+## Total questions solved: 664
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -27,6 +27,7 @@
 |                        Average of Levels in Binary Tree                         |
 |                            Backspace String Compare                             |
 |                              Balanced Binary Tree                               |
+|                             Before and After Puzzle                             |
 |                         Best Time to Buy and Sell Stock                         |
 |                       Best Time to Buy and Sell Stock II                        |
 |                                  Big Countries                                  |
