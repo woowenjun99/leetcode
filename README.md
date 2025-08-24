@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 664
+## Total questions solved: 665
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -309,6 +309,7 @@
 |                        Longest Square Streak in an Array                        |
 |           Longest Strictly Increasing or Strictly Decreasing Subarray           |
 |                    Longest Subarray With Maximum Bitwise AND                    |
+|               Longest Subarray of 1's After Deleting One Element                |
 |                 Longest Substring Without Repeating Characters                  |
 |              Longest Substring with At Most K Distinct Characters               |
 |             Longest Substring with At Most Two Distinct Characters              |
