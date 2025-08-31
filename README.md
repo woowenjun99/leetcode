@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 665
+## Total questions solved: 667
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -339,6 +339,7 @@
 |                      Maximize Profit from Task Assignment                       |
 |                   Maximize the Total Height of Unique Towers                    |
 |                                Maximum 69 Number                                |
+|                   Maximum Area of Longest Diagonal Rectangle                    |
 |                         Maximum Ascending Subarray Sum                          |
 |                           Maximum Average Pass Ratio                            |
 |                     Maximum Candies Allocated to K Children                     |
@@ -569,6 +570,7 @@
 |                               Shifting Letters II                               |
 |                 Shortest Distance After Road Addition Queries I                 |
 |                      Shortest Distance from All Buildings                       |
+|                        Shortest Distance to Target Color                        |
 |                            Shortest Path to Get Food                            |
 |                             Shortest Word Distance                              |
 |                           Shortest Word Distance III                            |
