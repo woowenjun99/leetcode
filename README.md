@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 667
+## Total questions solved: 670
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -189,6 +189,7 @@
 |                     Find Minimum Time to Reach Last Room I                      |
 |                        Find Missing and Repeated Values                         |
 |                         Find Mode in Binary Search Tree                         |
+|                      Find N Unique Integers Sum up to Zero                      |
 |                   Find Occurrences of an Element in an Array                    |
 |                      Find Players With Zero or One Losses                       |
 |                Find Score of an Array After Marking All Elements                |
@@ -536,6 +537,7 @@
 |                              Reordered Power of 2                               |
 |              Replace Elements with Greatest Element on Right Side               |
 |                                  Replace Words                                  |
+|                             Restore Finishing Order                             |
 |                              Restore IP Addresses                               |
 |                      Restore the Array From Adjacent Pairs                      |
 |                    Resulting String After Adjacent Removals                     |
@@ -588,6 +590,7 @@
 |                   Smallest Subtree with all the Deepest Nodes                   |
 |                                 Snake in Matrix                                 |
 |                        Solving Questions With Brainpower                        |
+|                          Sort Array By Absolute Value                           |
 |                              Sort Array By Parity                               |
 |                          Sort Characters By Frequency                           |
 |                                   Sort Colors                                   |
