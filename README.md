@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 670
+## Total questions solved: 676
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -54,6 +54,7 @@
 |                     Check If Array Pairs Are Divisible by k                     |
 |                    Check If Two String Arrays are Equivalent                    |
 |                   Check If Word Is Valid After Substitutions                    |
+|             Check If a Number Is Majority Element in a Sorted Array             |
 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |
 |          Check If a Word Occurs As a Prefix of Any Word in a Sentence           |
 |                     Check if All A's Appears Before All B's                     |
@@ -91,6 +92,7 @@
 |             Convert Binary Search Tree to Sorted Doubly Linked List             |
 |                      Convert Doubly Linked List to Array I                      |
 |                     Convert Doubly Linked List to Array II                      |
+|               Convert Integer to the Sum of Two No-Zero Integers                |
 |                   Convert Sorted Array to Binary Search Tree                    |
 |                    Convert Sorted List to Binary Search Tree                    |
 |                           Count Days Without Meetings                           |
@@ -140,7 +142,10 @@
 |                              Design Parking System                              |
 |                             Design Phone Directory                              |
 |                                Design Snake Game                                |
+|                               Design Spreadsheet                                |
+|                               Design Task Manager                               |
 |                                 Design Twitter                                  |
+|                           Design a Food Rating System                           |
 |                        Design a Number Container System                         |
 |                     Design a Stack With Increment Operation                     |
 |                                Destination City                                 |
@@ -361,6 +366,7 @@
 |                        Maximum Number of Fish in a Grid                         |
 |                       Maximum Number of Points with Cost                        |
 |             Maximum Number of Vowels in a Substring of Given Length             |
+|                      Maximum Number of Words You Can Type                       |
 |                            Maximum Odd Binary Number                            |
 |                 Maximum Possible Number by Binary Concatenation                 |
 |                          Maximum Product of Two Digits                          |

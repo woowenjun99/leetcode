@@ -34,12 +34,3 @@ class TaskManager:
         user_id = self.task_id_to_user_id[-task_id]
         self.rmv(-task_id)
         return user_id
-    
-m = TaskManager([[1, 101, 10], [2, 102, 20], [3, 103, 15]])
-print(m.sorted_priority_task_id)
-m.add(4, 104, 5)
-print(m.sorted_priority_task_id)
-m.edit(102, 8)
-print(m.sorted_priority_task_id)
-m.execTop()
-print(m.sorted_priority_task_id)
