@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 676
+## Total questions solved: 679
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -138,6 +138,7 @@
 |                               Design Hit Counter                                |
 |                               Design Linked List                                |
 |                         Design Most Recently Used Queue                         |
+|                           Design Movie Rental System                            |
 |                           Design Neighbor Sum Service                           |
 |                              Design Parking System                              |
 |                             Design Phone Directory                              |
@@ -201,6 +202,7 @@
 |                    Find Smallest Common Element in All Rows                     |
 |                    Find Smallest Letter Greater Than Target                     |
 |                Find Subsequence of Length K With the Largest Sum                |
+|           Find Three Consecutive Integers That Sum to a Given Number            |
 |                            Find Unique Binary String                            |
 |                         Find Words Containing Character                         |
 |                           Find if Array Can Be Sorted                           |
@@ -671,6 +673,7 @@
 |                                   Valid Word                                    |
 |                           Validate Binary Search Tree                           |
 |                    Vertical Order Traversal of a Binary Tree                    |
+|                               Vowel Spellchecker                                |
 |                                 Walls and Gates                                 |
 |                                  Water Bottles                                  |
 |                                Word Abbreviation                                |
