@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 679
+## Total questions solved: 680
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -17,6 +17,7 @@
 |                       All Nodes Distance K in Binary Tree                       |
 |                         All Paths From Source to Target                         |
 |                  Amount of Time for Binary Tree to Be Infected                  |
+|                       Analyze User Website Visit Pattern                        |
 |                 Append Characters to String to Make Subsequence                 |
 |                      Apply Operations to Make String Empty                      |
 |                          Apply Operations to an Array                           |
