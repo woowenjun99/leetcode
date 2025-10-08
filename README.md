@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 680
+## Total questions solved: 682
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -204,6 +204,7 @@
 |                    Find Smallest Letter Greater Than Target                     |
 |                Find Subsequence of Length K With the Largest Sum                |
 |           Find Three Consecutive Integers That Sum to a Given Number            |
+|                         Find Triangular Sum of an Array                         |
 |                            Find Unique Binary String                            |
 |                         Find Words Containing Character                         |
 |                           Find if Array Can Be Sorted                           |
@@ -626,6 +627,7 @@
 |                          Subarray Sums Divisible by K                           |
 |                                     Subsets                                     |
 |               Substrings That Begin and End With the Same Letter                |
+|                     Successful Pairs of Spells and Potions                      |
 |                            Sum Root to Leaf Numbers                             |
 |                      Sum of Digits of String After Convert                      |
 |                               Sum of Left Leaves                                |
