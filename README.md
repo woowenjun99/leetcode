@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 682
+## Total questions solved: 685
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -13,6 +13,8 @@
 |                               Add Two Numbers II                                |
 |                 Add Two Polynomials Represented as Linked Lists                 |
 |                            Adding Spaces to a String                            |
+|                    Adjacent Increasing Subarrays Detection I                    |
+|                   Adjacent Increasing Subarrays Detection II                    |
 |                     All Elements in Two Binary Search Trees                     |
 |                       All Nodes Distance K in Binary Tree                       |
 |                         All Paths From Source to Target                         |
@@ -639,6 +641,7 @@
 |                         Swapping Nodes in a Linked List                         |
 |                                 Symmetric Tree                                  |
 |                        Take Gifts From the Richest Pile                         |
+|                  Taking Maximum Energy From the Mystic Dungeon                  |
 |                                   Target Sum                                    |
 |                       The Number of Ways to Make the Sum                        |
 |                   The Number of the Smallest Unoccupied Chair                   |
