@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 685
+## Total questions solved: 686
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -304,6 +304,7 @@
 |                             Lexicographical Numbers                             |
 |              Lexicographically Minimum String After Removing Stars              |
 |                  Lexicographically Smallest Equivalent String                   |
+|           Lexicographically Smallest String After Applying Operations           |
 |                                Linked List Cycle                                |
 |                              Linked List Frequency                              |
 |                               Logger Rate Limiter                               |
