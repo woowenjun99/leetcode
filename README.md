@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 686
+## Total questions solved: 692
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -51,6 +51,7 @@
 |                             Books with NULL Ratings                             |
 |                          Buildings With an Ocean View                           |
 |                               Buy Two Chocolates                                |
+|                        Calculate Money in Leetcode Bank                         |
 |                     Capacity To Ship Packages Within D Days                     |
 |                         Cheapest Flights Within K Stops                         |
 |                              Check Balanced String                              |
@@ -163,6 +164,7 @@
 |                 Divide Intervals Into Minimum Number of Groups                  |
 |                    Divide Players Into Teams of Equal Skill                     |
 |                      Divide a String Into Groups of Size k                      |
+|                        Dot Product of Two Sparse Vectors                        |
 |                  Double a Number Represented as a Linked List                   |
 |                                Duplicate Emails                                 |
 |                                  Edit Distance                                  |
@@ -176,6 +178,7 @@
 |                                 Faulty Keyboard                                 |
 |                                Fibonacci Number                                 |
 |              Final Array State After K Multiplication Operations I              |
+|               Final Value of Variable After Performing Operations               |
 |                          Find All Anagrams in a String                          |
 |                           Find All Groups of Farmland                           |
 |                     Find All K-Distant Indices in an Array                      |
@@ -209,6 +212,7 @@
 |                         Find Triangular Sum of an Array                         |
 |                            Find Unique Binary String                            |
 |                         Find Words Containing Character                         |
+|                      Find X-Sum of All K-Long Subarrays I                       |
 |                           Find if Array Can Be Sorted                           |
 |                          Find if Digit Game Can Be Won                          |
 |   Find the City With the Smallest Number of Neighbors at a Threshold Distance   |
@@ -596,6 +600,7 @@
 |                                  Single Number                                  |
 |                                Single Number III                                |
 |                  Smallest Index With Digit Sum Equal to Index                   |
+|                        Smallest Number With All Set Bits                        |
 |                         Smallest Number in Infinite Set                         |
 |                      Smallest Palindromic Rearrangement I                       |
 |                    Smallest Rectangle Enclosing Black Pixels                    |
@@ -646,6 +651,7 @@
 |                                   Target Sum                                    |
 |                       The Number of Ways to Make the Sum                        |
 |                   The Number of the Smallest Unoccupied Chair                   |
+|                      The Two Sneaky Numbers of Digitville                       |
 |        The k-th Lexicographical String of All Happy Strings of Length n         |
 |                              Third Maximum Number                               |
 |                           Time Based Key-Value Store                            |
