@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 692
+## Total questions solved: 694
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -480,6 +480,7 @@
 |                         Number of Student Replacements                          |
 |                        Number of Sub-arrays With Odd Sum                        |
 |           Number of Subsequences That Satisfy the Given Sum Condition           |
+|                        Number of Substrings With Only 1s                        |
 |                Number of Unique Flavors After Sharing K Candies                 |
 |                          Number of Ways to Split Array                          |
 |                         Number of Zero-Filled Subarrays                         |
@@ -510,6 +511,7 @@
 |                                  Permutations                                   |
 |                                 Permutations II                                 |
 |                                    Plus One                                     |
+|                             Power Grid Maintenance                              |
 |                                  Power of Four                                  |
 |                                 Power of Three                                  |
 |                           Prime Subtraction Operation                           |
