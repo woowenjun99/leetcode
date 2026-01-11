@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 694
+## Total questions solved: 697
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -150,7 +150,6 @@
 |                               Design Spreadsheet                                |
 |                               Design Task Manager                               |
 |                                 Design Twitter                                  |
-|                           Design a Food Rating System                           |
 |                        Design a Number Container System                         |
 |                     Design a Stack With Increment Operation                     |
 |                                Destination City                                 |
@@ -336,6 +335,7 @@
 |                    Lowest Common Ancestor of Deepest Leaves                     |
 |                 Lowest Common Ancestor of a Binary Search Tree                  |
 |                   Lowest Common Ancestor of a Binary Tree III                   |
+|                              Magic Squares In Grid                              |
 |                        Magnetic Force Between Two Balls                         |
 |                                Majority Element                                 |
 |                            Make Array Non-decreasing                            |
@@ -370,7 +370,9 @@
 |                      Maximum Energy Boost From Two Drinks                       |
 |                              Maximum Erasure Value                              |
 |                             Maximum Frequency Stack                             |
+|                       Maximum Level Sum of a Binary Tree                        |
 |                    Maximum Matching of Players With Trainers                    |
+|                               Maximum Matrix Sum                                |
 |                    Maximum Nesting Depth of the Parentheses                     |
 |                           Maximum Number of Balloons                            |
 |                       Maximum Number of Coins You Can Get                       |
@@ -380,6 +382,7 @@
 |                      Maximum Number of Words You Can Type                       |
 |                            Maximum Odd Binary Number                            |
 |                 Maximum Possible Number by Binary Concatenation                 |
+|                     Maximum Product of Splitted Binary Tree                     |
 |                          Maximum Product of Two Digits                          |
 |                   Maximum Product of Two Elements in an Array                   |
 |                     Maximum Score After Splitting a String                      |
@@ -442,12 +445,12 @@
 |             Minimum Operations to Make Columns Strictly Increasing              |
 |                      Minimum Pair Removal to Sort Array I                       |
 |                                Minimum Path Sum                                 |
+|                           Minimum Penalty for a Shop                            |
 |                          Minimum Positive Sum Subarray                          |
 |               Minimum Recolors to Get K Consecutive Black Blocks                |
 |                    Minimum Remove to Make Valid Parentheses                     |
 |                            Minimum Size Subarray Sum                            |
 |                 Minimum String Length After Removing Substrings                 |
-|                     Minimum Swaps to Group All 1's Together                     |
 |                             Minimum Time Difference                             |
 |                                 Missing Number                                  |
 |                                 Monotonic Stack                                 |
