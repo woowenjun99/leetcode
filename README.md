@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 697
+## Total questions solved: 699
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -452,6 +452,7 @@
 |                            Minimum Size Subarray Sum                            |
 |                 Minimum String Length After Removing Substrings                 |
 |                             Minimum Time Difference                             |
+|                        Minimum Time Visiting All Points                         |
 |                                 Missing Number                                  |
 |                                 Monotonic Stack                                 |
 |                       Most Beautiful Item for Each Query                        |
@@ -589,6 +590,7 @@
 |                            Seat Reservation Manager                             |
 |                             Sentence Similarity III                             |
 |                         Separate Black and White Balls                          |
+|                               Separate Squares I                                |
 |                                Sequential Digits                                |
 |                                  Set Mismatch                                   |
 |                               Shifting Letters II                               |
