@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 699
+## Total questions solved: 703
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -99,9 +99,11 @@
 |               Convert Integer to the Sum of Two No-Zero Integers                |
 |                   Convert Sorted Array to Binary Search Tree                    |
 |                    Convert Sorted List to Binary Search Tree                    |
+|                             Count Covered Buildings                             |
 |                           Count Days Without Meetings                           |
 |                      Count Elements With Maximum Frequency                      |
 |                   Count Equal and Divisible Pairs in an Array                   |
+|                             Count Mentions Per User                             |
 |                            Count Number of Bad Pairs                            |
 |                   Count Number of Maximum Bitwise-OR Subsets                    |
 |                         Count Number of Nice Subarrays                          |
@@ -353,6 +355,7 @@
 |                   Max Sum of a Pair With Equal Sum of Digits                    |
 |                    Maximal Score After Applying K Operations                    |
 |                       Maximize Distance to Closest Person                       |
+|                     Maximize Happiness of Selected Children                     |
 |                      Maximize Profit from Task Assignment                       |
 |                   Maximize the Total Height of Unique Towers                    |
 |                                Maximum 69 Number                                |
@@ -480,6 +483,7 @@
 |                             Number of Recent Calls                              |
 |                         Number of Segments in a String                          |
 |                            Number of Senior Citizens                            |
+|                   Number of Smooth Descent Periods of a Stock                   |
 |       Number of Steps to Reduce a Number in Binary Representation to One        |
 |                         Number of Student Replacements                          |
 |                        Number of Sub-arrays With Odd Sum                        |
