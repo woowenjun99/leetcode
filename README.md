@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 703
+## Total questions solved: 707
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -101,6 +101,7 @@
 |                    Convert Sorted List to Binary Search Tree                    |
 |                             Count Covered Buildings                             |
 |                           Count Days Without Meetings                           |
+|                             Count Dominant Indices                              |
 |                      Count Elements With Maximum Frequency                      |
 |                   Count Equal and Divisible Pairs in an Array                   |
 |                             Count Mentions Per User                             |
@@ -146,6 +147,7 @@
 |                         Design Most Recently Used Queue                         |
 |                           Design Movie Rental System                            |
 |                           Design Neighbor Sum Service                           |
+|                         Design Order Management System                          |
 |                              Design Parking System                              |
 |                             Design Phone Directory                              |
 |                                Design Snake Game                                |
@@ -400,6 +402,7 @@
 |                           Maximum XOR for Each Query                            |
 |                                  Meeting Rooms                                  |
 |                                Meeting Rooms III                                |
+|                          Merge Adjacent Equal Elements                          |
 |                          Merge In Between Linked Lists                          |
 |                                 Merge Intervals                                 |
 |                          Merge Nodes in Between Zeros                           |
@@ -418,6 +421,7 @@
 |                       Minimum Bit Flips to Convert Number                       |
 |                              Minimum Common Value                               |
 |                            Minimum Cost For Tickets                             |
+|                      Minimum Cost Path with Edge Reversals                      |
 |                       Minimum Cost Walk in Weighted Graph                       |
 |                        Minimum Cost to Convert String I                         |
 |                      Minimum Cost to Reach Every Position                       |
