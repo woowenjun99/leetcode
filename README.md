@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 707
+## Total questions solved: 709
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -47,6 +47,7 @@
 |                                Binary Tree Tilt                                 |
 |                      Binary Tree Vertical Order Traversal                       |
 |                    Binary Tree Zigzag Level Order Traversal                     |
+|                                  Binary Watch                                   |
 |                              Boats to Save People                               |
 |                             Books with NULL Ratings                             |
 |                          Buildings With an Ocean View                           |
@@ -699,6 +700,7 @@
 |                              Valid Perfect Square                               |
 |                                  Valid Sudoku                                   |
 |                                   Valid Word                                    |
+|                                Valid Word Square                                |
 |                           Validate Binary Search Tree                           |
 |                    Vertical Order Traversal of a Binary Tree                    |
 |                               Vowel Spellchecker                                |
