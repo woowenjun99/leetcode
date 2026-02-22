@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 709
+## Total questions solved: 712
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -100,6 +100,7 @@
 |               Convert Integer to the Sum of Two No-Zero Integers                |
 |                   Convert Sorted Array to Binary Search Tree                    |
 |                    Convert Sorted List to Binary Search Tree                    |
+|                             Count Binary Substrings                             |
 |                             Count Covered Buildings                             |
 |                           Count Days Without Meetings                           |
 |                             Count Dominant Indices                              |
@@ -236,6 +237,7 @@
 |                      Find the Power of K-Size Subarrays I                       |
 |                      Find the Power of K-Size Subarrays II                      |
 |                    Find the Punishment Number of an Integer                     |
+|                       Find the Score Difference in a Game                       |
 |                  Find the Student that Will Replace the Chalk                   |
 |                               Find the Town Judge                               |
 |                      Find the Winner of the Circular Game                       |
@@ -527,6 +529,7 @@
 |                             Power Grid Maintenance                              |
 |                                  Power of Four                                  |
 |                                 Power of Three                                  |
+|                Prime Number of Set Bits in Binary Representation                |
 |                           Prime Subtraction Operation                           |
 |                            Print FooBar Alternately                             |
 |                                 Print in Order                                  |
