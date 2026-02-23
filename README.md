@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 712
+## Total questions solved: 714
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -56,10 +56,12 @@
 |                     Capacity To Ship Packages Within D Days                     |
 |                         Cheapest Flights Within K Stops                         |
 |                              Check Balanced String                              |
+|                          Check Digitorial Permutation                           |
 |                     Check If Array Pairs Are Divisible by k                     |
 |                    Check If Two String Arrays are Equivalent                    |
 |                   Check If Word Is Valid After Substitutions                    |
 |             Check If a Number Is Majority Element in a Sorted Array             |
+|              Check If a String Contains All Binary Codes of Size K              |
 | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |
 |          Check If a Word Occurs As a Prefix of Any Word in a Sentence           |
 |                     Check if All A's Appears Before All B's                     |
