@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 714
+## Total questions solved: 717
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -424,6 +424,7 @@
 |                      Minimum Add to Make Parentheses Valid                      |
 |                Minimum Average of Smallest and Largest Elements                 |
 |                       Minimum Bit Flips to Convert Number                       |
+|                Minimum Changes To Make Alternating Binary String                |
 |                              Minimum Common Value                               |
 |                            Minimum Cost For Tickets                             |
 |                      Minimum Cost Path with Edge Reversals                      |
@@ -514,6 +515,7 @@
 |                    Partition Array According to Given Pivot                     |
 |                 Partition Array into Two Equal Product Subsets                  |
 |                                 Partition List                                  |
+|             Partitioning Into Minimum Number Of Deci-Binary Numbers             |
 |                                Pascal's Triangle                                |
 |                              Pascal's Triangle II                               |
 |                                 Pass the Pillow                                 |
@@ -642,6 +644,7 @@
 |                              Sorting the Sentence                               |
 |                                 Special Array I                                 |
 |              Special Array With X Elements Greater Than or Equal X              |
+|                      Special Positions in a Binary Matrix                       |
 |                                  Spiral Matrix                                  |
 |                           Split Linked List in Parts                            |
 |             Split a String Into the Max Number of Unique Substrings             |
