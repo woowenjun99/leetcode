@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 717
+## Total questions solved: 721
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -68,6 +68,7 @@
 |                    Check if Any Element Has Prime Frequency                     |
 |                      Check if Array Is Sorted and Rotated                       |
 |                   Check if Number is a Sum of Powers of Three                   |
+|              Check if Strings Can be Made Equal With Operations II              |
 |                        Check if the Sentence Is Pangram                         |
 |                                Circular Sentence                                |
 |                                  Clear Digits                                   |
@@ -240,6 +241,7 @@
 |                      Find the Power of K-Size Subarrays II                      |
 |                    Find the Punishment Number of an Integer                     |
 |                       Find the Score Difference in a Game                       |
+|                        Find the Smallest Balanced Index                         |
 |                  Find the Student that Will Replace the Chalk                   |
 |                               Find the Town Judge                               |
 |                      Find the Winner of the Circular Game                       |
@@ -424,6 +426,7 @@
 |                      Minimum Add to Make Parentheses Valid                      |
 |                Minimum Average of Smallest and Largest Elements                 |
 |                       Minimum Bit Flips to Convert Number                       |
+|                              Minimum Capacity Box                               |
 |                Minimum Changes To Make Alternating Binary String                |
 |                              Minimum Common Value                               |
 |                            Minimum Cost For Tickets                             |
@@ -696,6 +699,7 @@
 |                               Two Sum Less Than K                               |
 |                                   Ugly Number                                   |
 |                           Unique Binary Search Trees                            |
+|                               Unique Email Groups                               |
 |                    Unique Length-3 Palindromic Subsequences                     |
 |                          Unique Number of Occurrences                           |
 |                                  Unique Paths                                   |
