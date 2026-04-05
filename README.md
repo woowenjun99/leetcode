@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 721
+## Total questions solved: 723
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -68,6 +68,7 @@
 |                    Check if Any Element Has Prime Frequency                     |
 |                      Check if Array Is Sorted and Rotated                       |
 |                   Check if Number is a Sum of Powers of Three                   |
+|              Check if Strings Can be Made Equal With Operations I               |
 |              Check if Strings Can be Made Equal With Operations II              |
 |                        Check if the Sentence Is Pangram                         |
 |                                Circular Sentence                                |
@@ -139,6 +140,7 @@
 |                           Create Hello World Function                           |
 |                               Custom Sort String                                |
 |                               Daily Temperatures                                |
+|                          Decode the Slanted Ciphertext                          |
 |                                 Defuse the Bomb                                 |
 |                     Delete Characters to Make Fancy String                      |
 |                          Delete Node in a Linked List                           |
