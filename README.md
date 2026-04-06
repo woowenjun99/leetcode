@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 723
+## Total questions solved: 724
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -718,6 +718,7 @@
 |                           Validate Binary Search Tree                           |
 |                    Vertical Order Traversal of a Binary Tree                    |
 |                               Vowel Spellchecker                                |
+|                            Walking Robot Simulation                             |
 |                                 Walls and Gates                                 |
 |                                  Water Bottles                                  |
 |                                Word Abbreviation                                |
