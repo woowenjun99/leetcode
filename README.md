@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 724
+## Total questions solved: 728
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -258,6 +258,7 @@
 |                        Fraction Addition and Subtraction                        |
 |                                Frequency Tracker                                |
 |                               Fruit Into Baskets                                |
+|                           Furthest Point From Origin                            |
 |                              Generate Parentheses                               |
 |                         Generate Tag for Video Caption                          |
 |                                Graph Valid Tree                                 |
@@ -439,6 +440,7 @@
 |               Minimum Deletions for At Most K Distinct Characters               |
 |                          Minimum Depth of Binary Tree                           |
 |      Minimum Difference Between Largest and Smallest Value in Three Moves       |
+|                     Minimum Distance to the Target Element                      |
 |                     Minimum Domino Rotations For Equal Row                      |
 |                Minimum Element After Replacement With Digit Sum                 |
 |                            Minimum Falling Path Sum                             |
@@ -471,6 +473,7 @@
 |                 Minimum String Length After Removing Substrings                 |
 |                             Minimum Time Difference                             |
 |                        Minimum Time Visiting All Points                         |
+|                          Mirror Distance of an Integer                          |
 |                                 Missing Number                                  |
 |                                 Monotonic Stack                                 |
 |                       Most Beautiful Item for Each Query                        |
@@ -728,3 +731,4 @@
 |                                  Word Squares                                   |
 |                                Zigzag Conversion                                |
 |                         Zigzag Grid Traversal With Skip                         |
+|                                 Zigzag Iterator                                 |
