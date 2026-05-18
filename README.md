@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 728
+## Total questions solved: 730
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -67,6 +67,7 @@
 |                     Check if All A's Appears Before All B's                     |
 |                    Check if Any Element Has Prime Frequency                     |
 |                      Check if Array Is Sorted and Rotated                       |
+|                             Check if Array is Good                              |
 |                   Check if Number is a Sum of Powers of Three                   |
 |              Check if Strings Can be Made Equal With Operations I               |
 |              Check if Strings Can be Made Equal With Operations II              |
@@ -298,6 +299,7 @@
 |                                    Jump Game                                    |
 |                                  Jump Game II                                   |
 |                                  Jump Game III                                  |
+|                                  Jump Game IV                                   |
 |                           K Closest Points to Origin                            |
 |                               Koko Eating Bananas                               |
 |                         Kth Distinct String in an Array                         |
