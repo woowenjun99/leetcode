@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 730
+## Total questions solved: 734
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -242,6 +242,7 @@
 |                        Find the Original Typed String I                         |
 |                      Find the Power of K-Size Subarrays I                       |
 |                      Find the Power of K-Size Subarrays II                      |
+|                   Find the Prefix Common Array of Two Arrays                    |
 |                    Find the Punishment Number of an Integer                     |
 |                       Find the Score Difference in a Game                       |
 |                        Find the Smallest Balanced Index                         |
@@ -529,6 +530,7 @@
 |                                Pascal's Triangle                                |
 |                              Pascal's Triangle II                               |
 |                                 Pass the Pillow                                 |
+|                                Password Strength                                |
 |                                    Path Sum                                     |
 |                                   Path Sum II                                   |
 |                             Path with Maximum Gold                              |
@@ -647,6 +649,7 @@
 |                                   Sort Colors                                   |
 |                      Sort Integers by The Number of 1 Bits                      |
 |                   Sort Threats by Severity and Exploitability                   |
+|                            Sort Vowels by Frequency                             |
 |                             Sort Vowels in a String                             |
 |                                  Sort an Array                                  |
 |                            Sort the Jumbled Numbers                             |
@@ -694,6 +697,7 @@
 |                                  To Lower Case                                  |
 |                             Top K Frequent Elements                             |
 |                              Top K Frequent Words                               |
+|                      Total Waviness of Numbers in Range I                       |
 |                            Transform Array by Parity                            |
 |                      Transform Array to All Equal Elements                      |
 |                                  Tree Diameter                                  |
