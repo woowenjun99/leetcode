@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 734
+## Total questions solved: 738
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -146,6 +146,7 @@
 |                     Delete Characters to Make Fancy String                      |
 |                          Delete Node in a Linked List                           |
 |                 Delete Nodes From Linked List Present in Array                  |
+|                     Delete the Middle Node of a Linked List                     |
 |                          Design Bounded Blocking Queue                          |
 |                               Design File System                                |
 |                                 Design HashMap                                  |
@@ -409,6 +410,7 @@
 |                 Maximum Sum of Distinct Subarrays With Length K                 |
 |                                  Maximum Swap                                   |
 |                        Maximum Total Importance of Roads                        |
+|                        Maximum Twin Sum of a Linked List                        |
 |                      Maximum Value of an Ordered Triplet I                      |
 |                     Maximum Value of an Ordered Triplet II                      |
 |                          Maximum Width of Binary Tree                           |
@@ -674,6 +676,7 @@
 |               Substrings That Begin and End With the Same Letter                |
 |                     Successful Pairs of Spells and Potions                      |
 |                            Sum Root to Leaf Numbers                             |
+|                      Sum of Compatible Numbers in Range I                       |
 |                      Sum of Digits of String After Convert                      |
 |                               Sum of Left Leaves                                |
 |                         Sum of Prefix Scores of Strings                         |
@@ -718,6 +721,7 @@
 |                                Unit Conversion I                                |
 |          Using a Robot to Print the Lexicographically Smallest String           |
 |                                  Valid Anagram                                  |
+|                      Valid Binary Strings With Cost Limit                       |
 |                                Valid Palindrome                                 |
 |                                Valid Parentheses                                |
 |                              Valid Perfect Square                               |
