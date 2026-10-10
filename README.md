@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 738
+## Total questions solved: 750
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -20,6 +20,7 @@
 |                         All Paths From Source to Target                         |
 |                  Amount of Time for Binary Tree to Be Infected                  |
 |                       Analyze User Website Visit Pattern                        |
+|                         Angle Between Hands of a Clock                          |
 |                 Append Characters to String to Make Subsequence                 |
 |                      Apply Operations to Make String Empty                      |
 |                          Apply Operations to an Array                           |
@@ -106,6 +107,8 @@
 |                   Convert Sorted Array to Binary Search Tree                    |
 |                    Convert Sorted List to Binary Search Tree                    |
 |                             Count Binary Substrings                             |
+|                              Count Commas in Range                              |
+|                            Count Commas in Range II                             |
 |                             Count Covered Buildings                             |
 |                           Count Days Without Meetings                           |
 |                             Count Dominant Indices                              |
@@ -225,6 +228,7 @@
 |                            Find Unique Binary String                            |
 |                         Find Words Containing Character                         |
 |                      Find X-Sum of All K-Long Subarrays I                       |
+|                         Find a Safe Walk Through a Grid                         |
 |                           Find if Array Can Be Sorted                           |
 |                          Find if Digit Game Can Be Won                          |
 |   Find the City With the Smallest Number of Neighbors at a Threshold Distance   |
@@ -410,6 +414,7 @@
 |                 Maximum Sum of Distinct Subarrays With Length K                 |
 |                                  Maximum Swap                                   |
 |                        Maximum Total Importance of Roads                        |
+|                    Maximum Total Sum of K Selected Elements                     |
 |                        Maximum Twin Sum of a Linked List                        |
 |                      Maximum Value of an Ordered Triplet I                      |
 |                     Maximum Value of an Ordered Triplet II                      |
@@ -442,6 +447,7 @@
 |                       Minimum Cost Walk in Weighted Graph                       |
 |                        Minimum Cost to Convert String I                         |
 |                      Minimum Cost to Reach Every Position                       |
+|                       Minimum Costs Using the Train Line                        |
 |               Minimum Deletions for At Most K Distinct Characters               |
 |                          Minimum Depth of Binary Tree                           |
 |      Minimum Difference Between Largest and Smallest Value in Three Moves       |
@@ -474,10 +480,13 @@
 |                          Minimum Positive Sum Subarray                          |
 |               Minimum Recolors to Get K Consecutive Black Blocks                |
 |                    Minimum Remove to Make Valid Parentheses                     |
+|                   Minimum Score of a Path Between Two Cities                    |
 |                            Minimum Size Subarray Sum                            |
 |                 Minimum String Length After Removing Substrings                 |
+|                        Minimum Sum of Squared Difference                        |
 |                             Minimum Time Difference                             |
 |                        Minimum Time Visiting All Points                         |
+|                         Minimum Total Distance Traveled                         |
 |                          Mirror Distance of an Integer                          |
 |                                 Missing Number                                  |
 |                                 Monotonic Stack                                 |
@@ -586,6 +595,7 @@
 |                     Remove Sub-Folders from the Filesystem                      |
 |                       Remove Trailing Zeros From a String                       |
 |                           Remove Vowels from a String                           |
+|                     Removing Minimum and Maximum From Array                     |
 |                          Removing Stars From a String                           |
 |                              Reordered Power of 2                               |
 |              Replace Elements with Greatest Element on Right Side               |
@@ -610,6 +620,7 @@
 |                                 Rotting Oranges                                 |
 |                             Running Sum of 1d Array                             |
 |                                    Same Tree                                    |
+|                              Score of Parentheses                               |
 |                                Score of a String                                |
 |                             Search Insert Position                              |
 |                            Search Suggestions System                            |
@@ -734,6 +745,7 @@
 |                            Walking Robot Simulation                             |
 |                                 Walls and Gates                                 |
 |                                  Water Bottles                                  |
+|                                   Web Crawler                                   |
 |                                Word Abbreviation                                |
 |                                   Word Break                                    |
 |                                   Word Ladder                                   |

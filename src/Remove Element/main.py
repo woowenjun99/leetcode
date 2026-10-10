@@ -2,11 +2,14 @@ from typing import List
 
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        filtered = []
-        for num in nums:
-            if num == val: continue
-            filtered.append(num)
-
-        for i in range(len(filtered)): nums[i] = filtered[i]
-        for i in range(len(filtered), len(nums)): nums[i] = -1
-        return len(filtered)
+        left = 0
+        right = len(nums) - 1
+        while left <= right:
+            if nums[right] == val:
+                right -= 1
+                continue
+            if nums[left] != val:
+                left += 1
+                continue
+            nums[left], nums[right] = nums[right], nums[left]
+        return right + 1
