@@ -1,6 +1,6 @@
 # Leetcode
 
-## Total questions solved: 750
+## Total questions solved: 758
 
 |                                    Question                                     |
 | :-----------------------------------------------------------------------------: |
@@ -22,6 +22,7 @@
 |                       Analyze User Website Visit Pattern                        |
 |                         Angle Between Hands of a Clock                          |
 |                 Append Characters to String to Make Subsequence                 |
+|              Apply Operations on Array to Maximize Sum of Squares               |
 |                      Apply Operations to Make String Empty                      |
 |                          Apply Operations to an Array                           |
 |                                  Array Nesting                                  |
@@ -150,6 +151,7 @@
 |                          Delete Node in a Linked List                           |
 |                 Delete Nodes From Linked List Present in Array                  |
 |                     Delete the Middle Node of a Linked List                     |
+|                   Design Add and Search Words Data Structure                    |
 |                          Design Bounded Blocking Queue                          |
 |                               Design File System                                |
 |                                 Design HashMap                                  |
@@ -178,6 +180,7 @@
 |                          Divide Array Into Equal Pairs                          |
 |                 Divide Intervals Into Minimum Number of Groups                  |
 |                    Divide Players Into Teams of Equal Skill                     |
+|                               Divide Two Integers                               |
 |                      Divide a String Into Groups of Size k                      |
 |                        Dot Product of Two Sparse Vectors                        |
 |                  Double a Number Represented as a Linked List                   |
@@ -292,6 +295,7 @@
 |                          Insert Delete GetRandom O(1)                           |
 |                 Insert Greatest Common Divisors in Linked List                  |
 |                                 Insert Interval                                 |
+|                        Insert into a Binary Search Tree                         |
 |                               Integer Replacement                               |
 |                         Intersection of Multiple Arrays                         |
 |                       Intersection of Three Sorted Arrays                       |
@@ -379,6 +383,7 @@
 |                      Maximize Profit from Task Assignment                       |
 |                   Maximize the Total Height of Unique Towers                    |
 |                                Maximum 69 Number                                |
+|                       Maximum Alternating Sum of Squares                        |
 |                   Maximum Area of Longest Diagonal Rectangle                    |
 |                         Maximum Ascending Subarray Sum                          |
 |                           Maximum Average Pass Ratio                            |
@@ -480,6 +485,8 @@
 |                          Minimum Positive Sum Subarray                          |
 |               Minimum Recolors to Get K Consecutive Black Blocks                |
 |                    Minimum Remove to Make Valid Parentheses                     |
+|                      Minimum Rotations to Dial a Number I                       |
+|                      Minimum Rotations to Dial a Number II                      |
 |                   Minimum Score of a Path Between Two Cities                    |
 |                            Minimum Size Subarray Sum                            |
 |                 Minimum String Length After Removing Substrings                 |
@@ -692,6 +699,7 @@
 |                               Sum of Left Leaves                                |
 |                         Sum of Prefix Scores of Strings                         |
 |                              Sum of Square Numbers                              |
+|                       Sum of Squares of Special Elements                        |
 |                             Sum of Unique Elements                              |
 |                                 Summary Ranges                                  |
 |                               Swap Nodes in Pairs                               |
